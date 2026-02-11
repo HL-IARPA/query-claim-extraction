@@ -1,0 +1,909 @@
+{
+  "doc_id": "1975STATE304231",
+  "doc_subject": "EGYPT OPPOSES STATIONING OF UNEF PATROL BOATS IN GULF OF SUEZ.",
+  "doc_date": "1975-12-30",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "UN officials Urquhart and Jonah gave information to USUN.",
+      "claim_type": "event",
+      "entities": [
+        "UN officials",
+        "Urquhart",
+        "Jonah",
+        "USUN"
+      ],
+      "time_bounds": {
+        "start": "1975-12-30",
+        "end": "1975-12-30"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The information was given on the understanding that it be passed to no other government.",
+      "claim_type": "logistics",
+      "entities": [
+        "UN officials",
+        "USUN"
+      ],
+      "time_bounds": {
+        "start": "1975-12-30",
+        "end": "1975-12-30"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The UN believes the best chance of resolving the problem lies in keeping it for time being between UNEF Command and Egyptians.",
+      "claim_type": "assessment",
+      "entities": [
+        "UN",
+        "UNEF Command",
+        "Egyptians"
+      ],
+      "time_bounds": {
+        "start": "1975-12-30",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "The Department is asked to pass on the stricture (not to share with other governments) if it repeats this telegram to Cairo and/or Tel Aviv.",
+      "claim_type": "plan",
+      "entities": [
+        "Department",
+        "Cairo",
+        "Tel Aviv"
+      ],
+      "time_bounds": {
+        "start": "1975-12-30",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "According to UN, General Maghoub told Siilasvuo that Egypt would not permit UN patrol boats in the Gulf of Suez.",
+      "claim_type": "attribution",
+      "entities": [
+        "UN",
+        "General Maghoub",
+        "Siilasvuo",
+        "Egypt",
+        "UN patrol boats",
+        "Gulf of Suez"
+      ],
+      "time_bounds": {
+        "start": "1975-12-20",
+        "end": "1975-12-20"
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "General Maghoub's statement was made on instructions from Gamasy.",
+      "claim_type": "attribution",
+      "entities": [
+        "General Maghoub",
+        "Gamasy"
+      ],
+      "time_bounds": {
+        "start": "1975-12-20",
+        "end": "1975-12-20"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "General Maghoub said the presence of UN patrol boats would infringe Egyptian sovereignty.",
+      "claim_type": "attribution",
+      "entities": [
+        "General Maghoub",
+        "UN patrol boats",
+        "Egyptian sovereignty"
+      ],
+      "time_bounds": {
+        "start": "1975-12-20",
+        "end": "1975-12-20"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "General Maghoub said the presence of UN patrol boats was not essential to UN surveillance tasks under the Sinai Agreement.",
+      "claim_type": "attribution",
+      "entities": [
+        "General Maghoub",
+        "UN patrol boats",
+        "UN surveillance tasks",
+        "Sinai Agreement"
+      ],
+      "time_bounds": {
+        "start": "1975-12-20",
+        "end": "1975-12-20"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "Siilasvuo reported Egypt's position regarding UN patrol boats to the UN.",
+      "claim_type": "event",
+      "entities": [
+        "Siilasvuo",
+        "Egypt",
+        "UN"
+      ],
+      "time_bounds": {
+        "start": "1975-12-20",
+        "end": "1975-12-20"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "Siilasvuo was immediately instructed to tell the Egyptian government that UN naval surveillance from the Gulf of Suez represented a critical compromise at Geneva negotiations.",
+      "claim_type": "event",
+      "entities": [
+        "Siilasvuo",
+        "Egyptian government",
+        "UN naval surveillance",
+        "Gulf of Suez",
+        "Geneva negotiations"
+      ],
+      "time_bounds": {
+        "start": "1975-12-20",
+        "end": "1975-12-20"
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "Israelis had initially insisted on more extensive ground inspections by the UN.",
+      "claim_type": "event",
+      "entities": [
+        "Israelis",
+        "UN"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1975-12-20"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "Siilasvuo passed the UN's instruction regarding the critical compromise to Maghoub.",
+      "claim_type": "event",
+      "entities": [
+        "Siilasvuo",
+        "UN",
+        "Maghoub"
+      ],
+      "time_bounds": {
+        "start": "1975-12-20",
+        "end": "1975-12-20"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "Siilasvuo made an appointment to call on Gamasy on December 29.",
+      "claim_type": "event",
+      "entities": [
+        "Siilasvuo",
+        "Gamasy"
+      ],
+      "time_bounds": {
+        "start": "1975-12-29",
+        "end": "1975-12-29"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "The meeting between Siilasvuo and Gamasy was rescheduled for December 30 because of a Joint Commission meeting on December 29.",
+      "claim_type": "logistics",
+      "entities": [
+        "Siilasvuo",
+        "Gamasy",
+        "Joint Commission meeting"
+      ],
+      "time_bounds": {
+        "start": "1975-12-30",
+        "end": "1975-12-30"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c15",
+      "claim_text": "Last weekend, Siilasvuo reported that Maghoub informed him that Gamasy continued to oppose the stationing of patrol boats in the Gulf.",
+      "claim_type": "attribution",
+      "entities": [
+        "Siilasvuo",
+        "Maghoub",
+        "Gamasy",
+        "patrol boats",
+        "Gulf"
+      ],
+      "time_bounds": {
+        "start": "1975-12-27",
+        "end": "1975-12-28"
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c16",
+      "claim_text": "Last weekend, Siilasvuo reported that Maghoub informed him that Egypt would not provide the UN with port facilities.",
+      "claim_type": "attribution",
+      "entities": [
+        "Siilasvuo",
+        "Maghoub",
+        "Egypt",
+        "UN",
+        "port facilities"
+      ],
+      "time_bounds": {
+        "start": "1975-12-27",
+        "end": "1975-12-28"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c17",
+      "claim_text": "Our sources believe Iran would not send the boats over Egyptian objections.",
+      "claim_type": "attribution",
+      "entities": [
+        "our sources",
+        "Iran",
+        "Egypt",
+        "boats"
+      ],
+      "time_bounds": {
+        "start": "1975-12-30",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c18",
+      "claim_text": "The UN considers the December 30 meeting between Siilasvuo and Gamasy to be critical.",
+      "claim_type": "assessment",
+      "entities": [
+        "UN",
+        "Siilasvuo",
+        "Gamasy"
+      ],
+      "time_bounds": {
+        "start": "1975-12-30",
+        "end": "1975-12-30"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c19",
+      "claim_text": "If Egyptians insist on their position, the SYG believes he will have to inform the Israeli government.",
+      "claim_type": "attribution",
+      "entities": [
+        "Egyptians",
+        "SYG",
+        "Israeli government"
+      ],
+      "time_bounds": {
+        "start": "1975-12-30",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c20",
+      "claim_text": "Secretariat officials believe Rabin would probably consider reneging on the patrol boats serious enough to publicize as a major breach of faith.",
+      "claim_type": "attribution",
+      "entities": [
+        "Secretariat officials",
+        "Rabin",
+        "patrol boats"
+      ],
+      "time_bounds": {
+        "start": "1975-12-30",
+        "end": null
+      },
+      "importance": 5
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "Which UN personnel provided information to the U.S. Mission?",
+      "question_style": "targeted",
+      "answer_type": "list",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Urquhart",
+        "Jonah",
+        "USUN"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "What specific condition was attached to the dissemination of the shared information?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "no other government"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "According to the UN, what is the most promising approach to resolve the current situation?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "best chance",
+        "keeping it for time being between UNEF Command and Egyptians"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "What specific instruction should the Department relay if the cable's contents are shared with certain regional capitals?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "stricture",
+        "not to share with other governments",
+        "Cairo",
+        "Tel Aviv"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "What was the Egyptian stance on the presence of UN naval vessels in the Gulf region, according to a general's statement?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "General Maghoub",
+        "Siilasvuo",
+        "UN patrol boats",
+        "Gulf of Suez"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "From whom did the general receive instructions for his statement?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "General Maghoub",
+        "Gamasy"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "What was the general's stated concern regarding the presence of UN naval vessels?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "General Maghoub",
+        "UN patrol boats",
+        "infringe Egyptian sovereignty"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "How did the general evaluate the importance of UN naval vessels for surveillance duties outlined in the regional agreement?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "General Maghoub",
+        "UN patrol boats",
+        "not essential",
+        "UN surveillance tasks",
+        "Sinai Agreement"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "Who conveyed the Egyptian government's position on UN naval vessels to the international organization?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Siilasvuo",
+        "Egypt's position",
+        "UN patrol boats",
+        "UN"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "What crucial point about UN maritime monitoring in the Gulf region, stemming from international discussions, was a particular individual directed to communicate to the Egyptian government?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Siilasvuo",
+        "Egyptian government",
+        "UN naval surveillance",
+        "Gulf of Suez",
+        "critical compromise",
+        "Geneva negotiations"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "What type of UN inspections did the Israeli side initially advocate for?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Israelis",
+        "more extensive ground inspections"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "Who delivered the international organization's directive concerning the vital agreement to a particular general?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Siilasvuo",
+        "UN's instruction",
+        "critical compromise",
+        "Maghoub"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t13",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13"
+      ],
+      "question_text": "Who arranged a meeting with a high-ranking official towards the end of December?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Siilasvuo",
+        "Gamasy",
+        "December 29"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t14",
+      "targets_claim_id": "c14",
+      "targets_claim_ids": [
+        "c14"
+      ],
+      "question_text": "Why was a planned meeting between two officials postponed, and to which date was it moved?",
+      "question_style": "targeted",
+      "answer_type": "why",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Siilasvuo",
+        "Gamasy",
+        "December 30",
+        "Joint Commission meeting",
+        "December 29"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t15",
+      "targets_claim_id": "c15",
+      "targets_claim_ids": [
+        "c15"
+      ],
+      "question_text": "What was the reported position of a senior official concerning the deployment of naval vessels in the Gulf area, according to a recent report?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Last weekend",
+        "Siilasvuo",
+        "Maghoub",
+        "Gamasy",
+        "patrol boats",
+        "Gulf"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t16",
+      "targets_claim_id": "c16",
+      "targets_claim_ids": [
+        "c16"
+      ],
+      "question_text": "What specific support did Egypt reportedly decline to offer the international organization, according to recent information?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Last weekend",
+        "Siilasvuo",
+        "Maghoub",
+        "Egypt",
+        "UN",
+        "port facilities"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t17",
+      "targets_claim_id": "c17",
+      "targets_claim_ids": [
+        "c17"
+      ],
+      "question_text": "What do certain sources anticipate about a particular nation's willingness to deploy vessels if another country raises objections?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "our sources",
+        "Iran",
+        "boats",
+        "Egyptian objections"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t18",
+      "targets_claim_id": "c18",
+      "targets_claim_ids": [
+        "c18"
+      ],
+      "question_text": "How did the international organization assess the significance of a meeting between two officials at the end of December?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "UN",
+        "December 30",
+        "Siilasvuo",
+        "Gamasy",
+        "critical"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t19",
+      "targets_claim_id": "c19",
+      "targets_claim_ids": [
+        "c19"
+      ],
+      "question_text": "What step does the Secretary-General anticipate taking if the Egyptian side upholds its current position?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Egyptians",
+        "SYG",
+        "Israeli government"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t20",
+      "targets_claim_id": "c20",
+      "targets_claim_ids": [
+        "c20"
+      ],
+      "question_text": "How do officials within the Secretariat expect a certain leader to view a potential reversal on the naval vessel agreement?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Secretariat officials",
+        "Rabin",
+        "patrol boats",
+        "major breach of faith"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q_1",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5",
+        "c7",
+        "c8",
+        "c10",
+        "c15",
+        "c16",
+        "c17"
+      ],
+      "question_text": "What was the general state of UN peacekeeping operations and their maritime components in the Middle East during late 1975?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "patrol boats",
+        "Gulf of Suez",
+        "Maghoub",
+        "Gamasy",
+        "Siilasvuo"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q_2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c19",
+        "c20"
+      ],
+      "question_text": "How were diplomatic communications and sensitivities managed between the UN and regional governments regarding peacekeeping mandates in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "patrol boats",
+        "Gulf of Suez",
+        "Maghoub",
+        "Gamasy",
+        "Siilasvuo"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q_3",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8",
+        "c10",
+        "c11",
+        "c18",
+        "c19",
+        "c20"
+      ],
+      "question_text": "What challenges were encountered in implementing the military and security provisions of international agreements in the Middle East in late 1975?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "patrol boats",
+        "Gulf of Suez",
+        "Maghoub",
+        "Gamasy",
+        "Siilasvuo",
+        "Sinai Agreement"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q_4",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3",
+        "c5",
+        "c7",
+        "c9",
+        "c12",
+        "c13",
+        "c14",
+        "c15",
+        "c16",
+        "c18"
+      ],
+      "question_text": "What were the prevailing dynamics in the relationship between Egypt and the United Nations concerning the scope and nature of UN presence on Egyptian territory in late 1975?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "patrol boats",
+        "Gulf of Suez",
+        "Maghoub",
+        "Gamasy",
+        "Siilasvuo"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "c_q_5",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10",
+        "c11",
+        "c19",
+        "c20"
+      ],
+      "question_text": "How were critical compromises made during Middle East peace negotiations being upheld or challenged by involved parties in late 1975?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "patrol boats",
+        "Gulf of Suez",
+        "Maghoub",
+        "Gamasy",
+        "Siilasvuo",
+        "Geneva negotiations"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3",
+        "c5",
+        "c7",
+        "c8",
+        "c10",
+        "c15",
+        "c19"
+      ],
+      "question_text": "How did host nations typically balance concerns about national sovereignty with the operational requirements of UN peacekeeping or surveillance mandates?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10",
+        "c11",
+        "c19",
+        "c20"
+      ],
+      "question_text": "What patterns characterized diplomatic efforts to uphold critical compromises in multilateral security agreements when one party sought to reinterpret or withdraw from specific provisions?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3",
+        "c18",
+        "c19"
+      ],
+      "question_text": "How did UN leadership typically approach disputes between host governments and UN peacekeeping or surveillance missions regarding operational mandates?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-11T19:18:35.156Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 23465,
+    "cost_usd": 0.0051021
+  }
+}

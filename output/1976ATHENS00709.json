@@ -1,0 +1,915 @@
+{
+  "doc_id": "1976ATHENS00709",
+  "doc_subject": "PURCHASE OF NEW TWINJET AIRCRAFT BY OLYMPIC STALLED",
+  "doc_date": "1976-01-23",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "The purchase of new twinjet aircraft by Olympic appears stalled.",
+      "claim_type": "assessment",
+      "entities": [
+        "Olympic",
+        "new twinjet aircraft"
+      ],
+      "time_bounds": {
+        "start": "1976-01-23",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "According to Embassy information, the stalling of the aircraft purchase is at least in part the result of new British initiatives in London and Athens.",
+      "claim_type": "assessment",
+      "entities": [
+        "Embassy",
+        "British",
+        "London",
+        "Athens"
+      ],
+      "time_bounds": {
+        "start": "1976-01-23",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "Olympic may buy no new aircraft at all this year should the delay continue.",
+      "claim_type": "assessment",
+      "entities": [
+        "Olympic",
+        "new aircraft"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": "1976-12-31"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "The British are mounting a major effort to swing the final decision their way or block the sale entirely until further management changes take place at Olympic.",
+      "claim_type": "event",
+      "entities": [
+        "British",
+        "Olympic"
+      ],
+      "time_bounds": {
+        "start": "1976-01-23",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "British initiatives include a press campaign and parliamentary criticism.",
+      "claim_type": "event",
+      "entities": [
+        "British"
+      ],
+      "time_bounds": {
+        "start": "1976-01-23",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "An Embassy officer has seen a copy of a new offer, dated January 17, from BAC stating that payment of $10 million of the purchase price could be effected through a triangular transaction via some unspecified country.",
+      "claim_type": "logistics",
+      "entities": [
+        "Embassy officer",
+        "BAC",
+        "$10 million"
+      ],
+      "time_bounds": {
+        "start": "1976-01-17",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "Another letter, dated January 19, improves BAC's offer with regard to engine spares.",
+      "claim_type": "event",
+      "entities": [
+        "BAC"
+      ],
+      "time_bounds": {
+        "start": "1976-01-19",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "Goodison, Head of the British Foreign Office's South European Office, presented a demarche in favor of the BAC One-Eleven to Greek Ambassador Roussos.",
+      "claim_type": "event",
+      "entities": [
+        "Goodison",
+        "British Foreign Office",
+        "BAC One-Eleven",
+        "Greek Ambassador Roussos"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-01-23"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "Goodison stated that prospective members of the EEC could be expected to demonstrate their goodwill.",
+      "claim_type": "attribution",
+      "entities": [
+        "Goodison",
+        "EEC"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-01-23"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "According to Chairman of Olympic Board Theophanous, rumors of collusion between Boeing and current Olympic management are being circulated by BAC's Greek lawyer Lycourezos.",
+      "claim_type": "attribution",
+      "entities": [
+        "Chairman of Olympic Board Theophanous",
+        "Boeing",
+        "Olympic management",
+        "BAC's Greek lawyer Lycourezos"
+      ],
+      "time_bounds": {
+        "start": "1976-01-23",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "The Aircraft Evaluation Committee's recommendation was unanimously for the Boeing 737.",
+      "claim_type": "attribution",
+      "entities": [
+        "Aircraft Evaluation Committee",
+        "Boeing 737"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-01-23"
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "According to later information, McDonnell Douglas was a close second and the BAC One-Eleven was a distant third in the Aircraft Evaluation Committee's recommendation.",
+      "claim_type": "attribution",
+      "entities": [
+        "McDonnell Douglas",
+        "BAC One-Eleven",
+        "Aircraft Evaluation Committee"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-01-23"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "According to various Embassy sources, the British believe new offers, if they do not further the sale of the BAC One-Eleven, would at least help stop the purchase of US aircraft by adding to the delay.",
+      "claim_type": "attribution",
+      "entities": [
+        "British",
+        "BAC One-Eleven",
+        "US aircraft"
+      ],
+      "time_bounds": {
+        "start": "1976-01-23",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "Cancellation of the purchase at this time would enable BAC to make a renewed effort if and when Olympic management changes.",
+      "claim_type": "assessment",
+      "entities": [
+        "BAC",
+        "Olympic"
+      ],
+      "time_bounds": {
+        "start": "1976-01-23",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c15",
+      "claim_text": "In the absence of a GOG decision, Olympic will soon have to cancel the purchase and turn to the open market for new leasing arrangements to fulfill their commitments to travel agencies.",
+      "claim_type": "assessment",
+      "entities": [
+        "GOG",
+        "Olympic",
+        "travel agencies"
+      ],
+      "time_bounds": {
+        "start": "1976-01-23",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c16",
+      "claim_text": "The Ambassador called Minister of Coordination Papaligouras to restate strong US interest in this transaction.",
+      "claim_type": "event",
+      "entities": [
+        "Ambassador",
+        "Minister of Coordination Papaligouras",
+        "US"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-01-23"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c17",
+      "claim_text": "Papaligouras renewed assurances that political considerations would not be allowed to intervene in the GOG decision in a manner unfavorable to the U.S.",
+      "claim_type": "attribution",
+      "entities": [
+        "Papaligouras",
+        "GOG",
+        "U.S."
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-01-23"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c18",
+      "claim_text": "Papaligouras stopped short of saying that a US airplane would be chosen, but he did say that he expected a final decision soon.",
+      "claim_type": "event",
+      "entities": [
+        "Papaligouras",
+        "US airplane"
+      ],
+      "time_bounds": {
+        "start": "1976-01-23",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c19",
+      "claim_text": "The USG has expended much effort to offer extremely liberal financing terms, and US aircrafts' technical superiority has been recognized by the GOG's own evaluation committee.",
+      "claim_type": "event",
+      "entities": [
+        "USG",
+        "US aircrafts",
+        "GOG's evaluation committee"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-01-23"
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c20",
+      "claim_text": "The Embassy recommends that the Department emphasize strong US interest in this issue to the Greek Ambassador in Washington, not only commercially but also as an opportunity for a significant US official loan to demonstrate political/economic support of Greece.",
+      "claim_type": "plan",
+      "entities": [
+        "Embassy",
+        "Department",
+        "Greek Ambassador",
+        "Washington",
+        "US",
+        "Greece"
+      ],
+      "time_bounds": {
+        "start": "1976-01-23",
+        "end": null
+      },
+      "importance": 4
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "What is the current status of the acquisition of new aircraft by the airline?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Olympic",
+        "twinjet aircraft",
+        "stalled"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "What factor, according to diplomatic sources, contributed to the delay in the acquisition of new airplanes?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Embassy information",
+        "stalling",
+        "aircraft purchase",
+        "British initiatives",
+        "London",
+        "Athens"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "What is the potential consequence for the airline's acquisition of new planes if the current holdup persists through the year?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Olympic",
+        "new aircraft",
+        "this year",
+        "delay"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "What are the objectives of the UK's significant campaign concerning the aircraft procurement and the airline's leadership?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "British",
+        "final decision",
+        "block the sale",
+        "management changes",
+        "Olympic"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "What specific methods are being employed as part of the UK's efforts?",
+      "question_style": "targeted",
+      "answer_type": "list",
+      "allowed_hints": [],
+      "banned_terms": [
+        "British initiatives",
+        "press campaign",
+        "parliamentary criticism"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "What was a key financial detail of a recent offer from an aircraft manufacturer, as observed by a diplomatic official?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Embassy officer",
+        "January 17",
+        "BAC",
+        "$10 million",
+        "triangular transaction",
+        "unspecified country"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "How was a subsequent offer from a particular aircraft company improved in mid-January?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "January 19",
+        "BAC's offer",
+        "engine spares"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "Which official from the UK's foreign ministry presented a diplomatic appeal supporting a specific aircraft model to a Greek envoy?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Goodison",
+        "British Foreign Office",
+        "South European Office",
+        "demarche",
+        "BAC One-Eleven",
+        "Greek Ambassador Roussos"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "What did a British official suggest about the expected behavior of nations seeking to join the European economic bloc?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Goodison",
+        "EEC",
+        "goodwill"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "According to an airline executive, who is spreading allegations of improper cooperation between an aircraft producer and the airline's leadership?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Chairman of Olympic Board Theophanous",
+        "rumors of collusion",
+        "Boeing",
+        "Olympic management",
+        "BAC's Greek lawyer Lycourezos"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "Which aircraft model received the full endorsement from the assessment panel?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Aircraft Evaluation Committee",
+        "unanimously",
+        "Boeing 737"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "Which other aircraft models were ranked second and third by the assessment panel?",
+      "question_style": "targeted",
+      "answer_type": "list",
+      "allowed_hints": [],
+      "banned_terms": [
+        "McDonnell Douglas",
+        "close second",
+        "BAC One-Eleven",
+        "distant third",
+        "Aircraft Evaluation Committee"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t13",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13"
+      ],
+      "question_text": "What do UK officials believe is the secondary effect of their revised proposals, even if they don't secure a specific sale, according to diplomatic reports?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Embassy sources",
+        "British",
+        "new offers",
+        "BAC One-Eleven",
+        "US aircraft",
+        "delay"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t14",
+      "targets_claim_id": "c14",
+      "targets_claim_ids": [
+        "c14"
+      ],
+      "question_text": "What opportunity would arise for a particular aircraft company if the acquisition is halted and the airline's leadership is altered?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Cancellation of the purchase",
+        "BAC",
+        "renewed effort",
+        "Olympic management changes"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t15",
+      "targets_claim_id": "c15",
+      "targets_claim_ids": [
+        "c15"
+      ],
+      "question_text": "What steps will the airline be compelled to take to meet its obligations to tour operators if a governmental decision is not made promptly?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "GOG decision",
+        "Olympic",
+        "cancel the purchase",
+        "open market",
+        "new leasing arrangements",
+        "travel agencies"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t16",
+      "targets_claim_id": "c16",
+      "targets_claim_ids": [
+        "c16"
+      ],
+      "question_text": "Which government official did the diplomatic representative contact to reiterate the nation's significant interest in the aircraft deal?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Ambassador",
+        "Minister of Coordination Papaligouras",
+        "strong US interest",
+        "transaction"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t17",
+      "targets_claim_id": "c17",
+      "targets_claim_ids": [
+        "c17"
+      ],
+      "question_text": "What guarantees did a government minister provide regarding political factors influencing the national decision in a way that would disadvantage the United States?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Papaligouras",
+        "renewed assurances",
+        "political considerations",
+        "GOG decision",
+        "unfavorable to the U.S."
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t18",
+      "targets_claim_id": "c18",
+      "targets_claim_ids": [
+        "c18"
+      ],
+      "question_text": "What did a government minister indicate about the timeframe for a conclusive choice on aircraft, without specifying the origin of the planes?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Papaligouras",
+        "US airplane",
+        "final decision soon"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t19",
+      "targets_claim_id": "c19",
+      "targets_claim_ids": [
+        "c19"
+      ],
+      "question_text": "What two significant advantages of American-made aircraft and related governmental support have been noted by the national assessment body?",
+      "question_style": "targeted",
+      "answer_type": "list",
+      "allowed_hints": [],
+      "banned_terms": [
+        "USG",
+        "extremely liberal financing terms",
+        "US aircrafts' technical superiority",
+        "GOG's own evaluation committee"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t20",
+      "targets_claim_id": "c20",
+      "targets_claim_ids": [
+        "c20"
+      ],
+      "question_text": "What action does the diplomatic mission advise the foreign affairs ministry to take regarding the nation's interest and a potential financial aid package to the country?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Embassy",
+        "Department",
+        "strong US interest",
+        "Greek Ambassador in Washington",
+        "commercially",
+        "significant US official loan",
+        "political/economic support of Greece"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c6",
+        "c7",
+        "c8",
+        "c11",
+        "c12",
+        "c13",
+        "c19"
+      ],
+      "question_text": "What were the key dynamics shaping international aircraft sales efforts in Greece during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Olympic",
+        "twinjet",
+        "Boeing",
+        "BAC",
+        "McDonnell Douglas",
+        "737",
+        "One-Eleven"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c4",
+        "c5",
+        "c8",
+        "c9",
+        "c13",
+        "c16",
+        "c17",
+        "c19",
+        "c20"
+      ],
+      "question_text": "How did major powers typically engage diplomatically in high-value commercial transactions in Greece during this period?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "aircraft",
+        "Olympic",
+        "BAC",
+        "Boeing",
+        "US Mission",
+        "Embassy",
+        "Ambassador",
+        "Minister Papaligouras",
+        "Goodison",
+        "Roussos"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q3",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c3",
+        "c10",
+        "c11",
+        "c12",
+        "c15",
+        "c17",
+        "c18",
+        "c19"
+      ],
+      "question_text": "What factors typically influenced the procurement decisions of Greek state-owned enterprises for major capital investments in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Olympic",
+        "aircraft",
+        "Boeing",
+        "BAC",
+        "McDonnell Douglas",
+        "737",
+        "One-Eleven",
+        "Aircraft Evaluation Committee"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q4",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9",
+        "c19",
+        "c20"
+      ],
+      "question_text": "How did Western nations leverage economic incentives and political support in their relations with Greece in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "$10 million",
+        "loan",
+        "financing",
+        "aircraft",
+        "Boeing",
+        "BAC",
+        "USG",
+        "GOG",
+        "EEC"
+      ],
+      "leakage_score": 0.18000000000000002
+    },
+    {
+      "question_id": "q5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5",
+        "c10"
+      ],
+      "question_text": "What role did public relations and media campaigns play in international commercial disputes in Greece during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Olympic",
+        "aircraft",
+        "Boeing",
+        "BAC",
+        "Lycourezos",
+        "press campaign",
+        "parliamentary criticism"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c4",
+        "c5",
+        "c8",
+        "c13",
+        "c16",
+        "c19"
+      ],
+      "question_text": "How do competing national commercial interests typically manifest in diplomatic efforts to secure major international contracts, particularly in sectors with strategic importance?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c8",
+        "c9",
+        "c13",
+        "c19",
+        "c20"
+      ],
+      "question_text": "What patterns emerge in the use of political leverage and financial incentives by major powers to influence foreign commercial decisions?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c10",
+        "c11",
+        "c12",
+        "c14"
+      ],
+      "question_text": "How do internal political dynamics or management changes within foreign entities affect the strategies and outcomes of international commercial negotiations?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-11T19:20:32.672Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 28680,
+    "cost_usd": 0.0051822
+  }
+}

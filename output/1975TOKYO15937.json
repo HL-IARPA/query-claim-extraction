@@ -1,0 +1,934 @@
+{
+  "doc_id": "1975TOKYO15937",
+  "doc_subject": "JAPAN-SVN RELATIONS: \"IMPOSSIBLE CONDITIONS\"",
+  "doc_date": "1975-11-07",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "Japan had provided economic assistance to the former GSVN, such as hospitals and power generating equipment.",
+      "claim_type": "event",
+      "entities": [
+        "Japan",
+        "former GSVN"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1975-11-07"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "Japan had provided no military equipment or materiel to the former GSVN.",
+      "claim_type": "event",
+      "entities": [
+        "Japan",
+        "former GSVN"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1975-11-07"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "Japan was willing to negotiate for the establishment of diplomatic relations if the RGSVN desired them.",
+      "claim_type": "plan",
+      "entities": [
+        "Japan",
+        "RGSVN"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "Ito suggested that Japan and the PRG proceed immediately to establish diplomatic relations.",
+      "claim_type": "plan",
+      "entities": [
+        "Ito",
+        "Japan",
+        "PRG"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "Tien announced that diplomatic relations were contingent on the Government of Japan (GOJ) agreeing to three conditions.",
+      "claim_type": "attribution",
+      "entities": [
+        "Tien",
+        "Government of Japan (GOJ)"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "One condition for diplomatic relations was the inclusion in a communique of a statement that both sides would respect principles of independence, sovereignty, and non-interference in internal affairs of the other.",
+      "claim_type": "plan",
+      "entities": [
+        "Japan",
+        "PRG"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "Another condition was that the communique should pledge both Japan and the PRG not to permit the use of their territory by a third party for attack against fourth parties.",
+      "claim_type": "plan",
+      "entities": [
+        "Japan",
+        "PRG"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "The third condition was that Japan must agree in the communique to provide economic assistance to SVN.",
+      "claim_type": "plan",
+      "entities": [
+        "Japan",
+        "SVN"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "Ito rejected the second condition (B) as a violation of the principle of sovereignty.",
+      "claim_type": "assessment",
+      "entities": [
+        "Ito",
+        "Japan"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "Ito ruled out the third condition (C) regarding economic assistance in the communique.",
+      "claim_type": "event",
+      "entities": [
+        "Ito",
+        "Japan"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "Japan would consider economic assistance to SVN after diplomatic relations were established, on the same basis as assistance to other under-developed countries.",
+      "claim_type": "plan",
+      "entities": [
+        "Japan",
+        "SVN"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "Ito called the demand for economic assistance in the communique \"reparations.\"",
+      "claim_type": "attribution",
+      "entities": [
+        "Ito"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "Tien responded \"Yes\" to Ito's interpretation that the PRG wanted Japan to fulfill three conditions but did not want to establish diplomatic relations.",
+      "claim_type": "event",
+      "entities": [
+        "Tien",
+        "Ito",
+        "PRG",
+        "Japan"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "The talks between Ito and Tien then ended with no implication that further talks were scheduled or necessarily expected.",
+      "claim_type": "event",
+      "entities": [
+        "Ito",
+        "Tien"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": "1975-11-07"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c15",
+      "claim_text": "The Government of Japan's (GOJ) policy toward relations with the RGSVN would remain as Ito outlined to Tien.",
+      "claim_type": "plan",
+      "entities": [
+        "Government of Japan (GOJ)",
+        "RGSVN",
+        "Ito",
+        "Tien"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c16",
+      "claim_text": "The GOJ plans to reduce and probably eventually eliminate staff in Saigon.",
+      "claim_type": "plan",
+      "entities": [
+        "GOJ",
+        "Saigon"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c17",
+      "claim_text": "Ito described the DRV and SVN as puppets controlled by a single man in Hanoi.",
+      "claim_type": "attribution",
+      "entities": [
+        "Ito",
+        "DRV",
+        "SVN",
+        "Hanoi"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c18",
+      "claim_text": "Ito expressed the view that Hanoi will maintain the fiction of a separate government in SVN for external affairs purposes to try to pry reparations and aid commitments from countries which had supported the former GVN, especially Japan and the US.",
+      "claim_type": "attribution",
+      "entities": [
+        "Ito",
+        "Hanoi",
+        "SVN",
+        "former GVN",
+        "Japan",
+        "US"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c19",
+      "claim_text": "The Government of Japan (GOJ) has decided not to repeat its experience with Hanoi of two years of haggling over \"principles\" and \"reparations\" to establish diplomatic relations.",
+      "claim_type": "assessment",
+      "entities": [
+        "Government of Japan (GOJ)",
+        "Hanoi"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c20",
+      "claim_text": "The GOJ will concentrate on cultivating relations with the real authority in Hanoi.",
+      "claim_type": "plan",
+      "entities": [
+        "GOJ",
+        "Hanoi"
+      ],
+      "time_bounds": {
+        "start": "1975-11-07",
+        "end": null
+      },
+      "importance": 5
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "What types of economic aid did Japan offer to the previous southern government?",
+      "question_style": "targeted",
+      "answer_type": "list",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "hospitals",
+        "power generating equipment",
+        "GSVN"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "What was the extent of military support, if any, that Japan provided to the prior southern government?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "military equipment",
+        "materiel",
+        "GSVN"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "Under what condition was Japan prepared to discuss establishing formal ties with the new southern administration?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "RGSVN"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "What immediate action was proposed for Japan and the provisional revolutionary government concerning formal ties?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Ito",
+        "PRG"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "How many prerequisites were stated for the Japanese government to establish formal diplomatic ties?",
+      "question_style": "targeted",
+      "answer_type": "numeric",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Tien",
+        "Government of Japan",
+        "GOJ",
+        "three conditions"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "What specific principles were required to be affirmed in a joint statement as a condition for establishing diplomatic relations?",
+      "question_style": "targeted",
+      "answer_type": "list",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "communique",
+        "independence",
+        "sovereignty",
+        "non-interference"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "What commitment regarding the use of national territory by external actors was required in a joint statement for diplomatic relations?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "communique",
+        "PRG",
+        "third party",
+        "fourth parties"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "What specific type of support was the Japanese government required to commit to in a joint statement as a condition for establishing diplomatic relations with the southern nation?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "communique",
+        "economic assistance",
+        "SVN"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "What was the stated reason for rejecting one of the proposed conditions for establishing diplomatic relations?",
+      "question_style": "targeted",
+      "answer_type": "why",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Ito",
+        "second condition",
+        "violation of the principle of sovereignty"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "What was the outcome of the discussion concerning the third proposed condition for formal ties?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Ito",
+        "third condition",
+        "economic assistance",
+        "communique"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "Under what circumstances would Japan consider offering financial aid to the southern nation, and on what terms?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "economic assistance",
+        "SVN",
+        "under-developed countries"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "What term was used to describe the request for financial aid to be included in the joint statement?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Ito",
+        "economic assistance",
+        "communique",
+        "reparations"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t13",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13"
+      ],
+      "question_text": "What was the confirmation regarding the provisional government's true intentions concerning the fulfillment of conditions versus the establishment of formal ties?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Tien",
+        "Ito",
+        "PRG",
+        "three conditions",
+        "diplomatic relations"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t14",
+      "targets_claim_id": "c14",
+      "targets_claim_ids": [
+        "c14"
+      ],
+      "question_text": "What was the immediate result of the discussions between the two representatives regarding future engagements?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Ito",
+        "Tien",
+        "further talks"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t15",
+      "targets_claim_id": "c15",
+      "targets_claim_ids": [
+        "c15"
+      ],
+      "question_text": "How would the Japanese government's approach to formal ties with the new southern administration be maintained?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Government of Japan",
+        "GOJ",
+        "RGSVN",
+        "Ito",
+        "Tien"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t16",
+      "targets_claim_id": "c16",
+      "targets_claim_ids": [
+        "c16"
+      ],
+      "question_text": "What are the Japanese government's intentions regarding its personnel presence in the southern capital?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "GOJ",
+        "Saigon",
+        "reduce",
+        "eliminate staff"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t17",
+      "targets_claim_id": "c17",
+      "targets_claim_ids": [
+        "c17"
+      ],
+      "question_text": "What was the characterization of the northern and southern nations regarding their autonomy?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Ito",
+        "DRV",
+        "SVN",
+        "puppets",
+        "single man",
+        "Hanoi"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t18",
+      "targets_claim_id": "c18",
+      "targets_claim_ids": [
+        "c18"
+      ],
+      "question_text": "According to one representative, what was the strategic purpose behind maintaining the appearance of a distinct southern administration for international dealings?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Ito",
+        "Hanoi",
+        "fiction of a separate government",
+        "SVN",
+        "external affairs purposes",
+        "reparations",
+        "aid commitments",
+        "former GVN",
+        "Japan",
+        "US"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t19",
+      "targets_claim_id": "c19",
+      "targets_claim_ids": [
+        "c19"
+      ],
+      "question_text": "What past experience influenced the Japanese government's current decision on how to pursue formal ties with the northern capital?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Government of Japan",
+        "GOJ",
+        "Hanoi",
+        "two years",
+        "haggling",
+        "principles",
+        "reparations",
+        "diplomatic relations"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t20",
+      "targets_claim_id": "c20",
+      "targets_claim_ids": [
+        "c20"
+      ],
+      "question_text": "Where will the Japanese government direct its efforts in establishing ties with the northern capital?",
+      "question_style": "targeted",
+      "answer_type": "where",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "GOJ",
+        "Hanoi",
+        "real authority"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q1",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3",
+        "c4",
+        "c8",
+        "c11",
+        "c15",
+        "c19",
+        "c20"
+      ],
+      "question_text": "What was the general state of Japan's diplomatic engagement with newly established governments in Southeast Asia following major regional conflicts?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Ito",
+        "Tien",
+        "PRG",
+        "RGSVN",
+        "GSVN",
+        "Saigon",
+        "Hanoi",
+        "conditions",
+        "reparations",
+        "communique"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q2",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5",
+        "c6",
+        "c7",
+        "c8",
+        "c12",
+        "c18"
+      ],
+      "question_text": "What were the prevailing expectations or demands from the Provisional Revolutionary Government (PRG) or other Vietnamese authorities regarding diplomatic recognition and economic support from countries that had previously engaged with the former South Vietnamese government?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Ito",
+        "Tien",
+        "Japan",
+        "conditions",
+        "reparations",
+        "communique",
+        "specific conditions"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q3",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c8",
+        "c10",
+        "c11"
+      ],
+      "question_text": "How did Japan's foreign aid policy generally approach providing economic assistance to developing countries in post-conflict regions during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "SVN",
+        "Vietnam",
+        "reparations",
+        "conditions",
+        "communique"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q4",
+      "targets_claim_id": "c17",
+      "targets_claim_ids": [
+        "c17",
+        "c18",
+        "c20"
+      ],
+      "question_text": "What were the prevailing assessments within the Japanese government regarding the political landscape and centers of power in post-war Vietnam?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Ito",
+        "DRV",
+        "SVN",
+        "Hanoi",
+        "puppets",
+        "fiction",
+        "single man"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q5",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9",
+        "c10",
+        "c13",
+        "c19"
+      ],
+      "question_text": "What were the common challenges or points of contention encountered by Japan when establishing diplomatic relations with new communist governments in Asia during the 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Hanoi",
+        "PRG",
+        "SVN",
+        "conditions",
+        "reparations",
+        "haggling"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c3",
+        "c5",
+        "c8",
+        "c10",
+        "c11",
+        "c12",
+        "c18",
+        "c19"
+      ],
+      "question_text": "What patterns emerge in how states negotiate economic assistance or reparations as a precondition for establishing diplomatic relations?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5",
+        "c6",
+        "c7",
+        "c9"
+      ],
+      "question_text": "How do concerns about sovereignty and non-interference typically shape the conditions proposed or rejected during negotiations for diplomatic recognition?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0.21
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13",
+        "c17",
+        "c18",
+        "c19",
+        "c20"
+      ],
+      "question_text": "What role do assessments of a regime's true authority and past diplomatic experiences play in a country's strategy for engaging with new or emerging states?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-11T19:18:24.484Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 21589,
+    "cost_usd": 0.00465225
+  }
+}

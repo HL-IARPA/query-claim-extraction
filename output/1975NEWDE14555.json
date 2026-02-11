@@ -1,0 +1,932 @@
+{
+  "doc_id": "1975NEWDE14555",
+  "doc_subject": "SINO-INDIAN CLASH",
+  "doc_date": "1975-11-04",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "The cable author met General Jacob on November 3.",
+      "claim_type": "event",
+      "entities": [
+        "General Jacob",
+        "cable author"
+      ],
+      "time_bounds": {
+        "start": "1975-11-03",
+        "end": "1975-11-03"
+      },
+      "importance": 2
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The cable author had a brief discussion with General Jacob about Bangladesh.",
+      "claim_type": "event",
+      "entities": [
+        "General Jacob",
+        "cable author",
+        "Bangladesh"
+      ],
+      "time_bounds": {
+        "start": "1975-11-03",
+        "end": "1975-11-03"
+      },
+      "importance": 1
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The discussion about Bangladesh was reported by a separate telegram (septel).",
+      "claim_type": "logistics",
+      "entities": [
+        "Bangladesh",
+        "septel"
+      ],
+      "time_bounds": {
+        "start": "1975-11-03",
+        "end": null
+      },
+      "importance": 1
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "General Jacob was chiefly very worked up about the Chinese.",
+      "claim_type": "assessment",
+      "entities": [
+        "General Jacob",
+        "Chinese"
+      ],
+      "time_bounds": {
+        "start": "1975-11-03",
+        "end": "1975-11-03"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "General Jacob stated there was no doubt the Chinese had deliberately set up an ambush for his men.",
+      "claim_type": "attribution",
+      "entities": [
+        "General Jacob",
+        "Chinese",
+        "his men"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "General Jacob stated the Chinese had afterwards just as deliberately murdered the four men they captured.",
+      "claim_type": "attribution",
+      "entities": [
+        "General Jacob",
+        "Chinese",
+        "four men"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "General Jacob stated the murder of the four captured men was proven by medical examination of the bodies.",
+      "claim_type": "attribution",
+      "entities": [
+        "General Jacob",
+        "four captured men",
+        "medical examination"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "General Jacob stated the Chinese had tried to cover up by firing bullets through the rifles of the four dead men.",
+      "claim_type": "attribution",
+      "entities": [
+        "General Jacob",
+        "Chinese",
+        "four dead men",
+        "rifles"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "General Jacob stated he knew from the account given by the two who escaped that there had been no firing by the Indian patrol.",
+      "claim_type": "attribution",
+      "entities": [
+        "General Jacob",
+        "two who escaped",
+        "Indian patrol"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "General Jacob stated the patrol was part of the Assam Rifles.",
+      "claim_type": "attribution",
+      "entities": [
+        "General Jacob",
+        "patrol",
+        "Assam Rifles"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "General Jacob stated the incident took place in the Tawang area.",
+      "claim_type": "attribution",
+      "entities": [
+        "General Jacob",
+        "incident",
+        "Tawang area"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "The cable author had heard that the incident was in Sikkim.",
+      "claim_type": "attribution",
+      "entities": [
+        "cable author",
+        "incident",
+        "Sikkim"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": null
+      },
+      "importance": 2
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "General Jacob denied the incident was in Sikkim.",
+      "claim_type": "attribution",
+      "entities": [
+        "General Jacob",
+        "incident",
+        "Sikkim"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "General Jacob affirmed the incident was in Tawang.",
+      "claim_type": "attribution",
+      "entities": [
+        "General Jacob",
+        "incident",
+        "Tawang"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c15",
+      "claim_text": "General Jacob stated he still had no idea why the Chinese had done this \"brutal act of murder.\"",
+      "claim_type": "attribution",
+      "entities": [
+        "General Jacob",
+        "Chinese"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c16",
+      "claim_text": "The cable author asked General Jacob what would happen now.",
+      "claim_type": "event",
+      "entities": [
+        "cable author",
+        "General Jacob"
+      ],
+      "time_bounds": {
+        "start": "1975-11-03",
+        "end": "1975-11-03"
+      },
+      "importance": 2
+    },
+    {
+      "claim_id": "c17",
+      "claim_text": "General Jacob, having difficulty in controlling his anger, said he didn't know what would happen now.",
+      "claim_type": "attribution",
+      "entities": [
+        "General Jacob"
+      ],
+      "time_bounds": {
+        "start": "1975-11-03",
+        "end": "1975-11-03"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c18",
+      "claim_text": "General Jacob stated he would not forget what had been done to his soldiers.",
+      "claim_type": "attribution",
+      "entities": [
+        "General Jacob",
+        "his soldiers"
+      ],
+      "time_bounds": {
+        "start": "1975-11-03",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c19",
+      "claim_text": "General Jacob stated he would find a time and a place to settle his account with the Chinese.",
+      "claim_type": "attribution",
+      "entities": [
+        "General Jacob",
+        "Chinese"
+      ],
+      "time_bounds": {
+        "start": "1975-11-03",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c20",
+      "claim_text": "General Jacob added that this was something he obviously didn't want to be quoted on.",
+      "claim_type": "attribution",
+      "entities": [
+        "General Jacob"
+      ],
+      "time_bounds": {
+        "start": "1975-11-03",
+        "end": "1975-11-03"
+      },
+      "importance": 3
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "When did the cable author meet with the general?",
+      "question_style": "targeted",
+      "answer_type": "when",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "November 3",
+        "Jacob"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "What was the brief topic of discussion between the cable author and the general?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Bangladesh",
+        "Jacob"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "How was the discussion about the neighboring country reported?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [],
+      "banned_terms": [
+        "septel",
+        "telegram",
+        "Bangladesh"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "What was the general's primary emotional state concerning the Chinese?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "worked up",
+        "Jacob"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "What did the general assert about the Chinese actions against his personnel?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "ambush",
+        "Jacob"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "What did the general claim the Chinese deliberately did to the captured individuals?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "murdered",
+        "four men",
+        "Jacob"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "What evidence did the general cite to prove the fate of the captured individuals?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "medical examination",
+        "bodies",
+        "Jacob"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "How did the general claim the Chinese attempted to conceal their actions regarding the deceased individuals?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [],
+      "banned_terms": [
+        "cover up",
+        "firing bullets",
+        "rifles",
+        "Jacob"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "What was the general's source of information indicating no firing by the Indian patrol?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "account",
+        "two who escaped",
+        "Jacob"
+      ],
+      "leakage_score": 0.55
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "Which unit did the general state the patrol belonged to?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Assam Rifles",
+        "Jacob"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "Where did the general state the incident occurred?",
+      "question_style": "targeted",
+      "answer_type": "where",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Tawang area",
+        "Jacob"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "What location had the cable author previously understood the incident to be in?",
+      "question_style": "targeted",
+      "answer_type": "where",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Sikkim"
+      ],
+      "leakage_score": 0.4
+    },
+    {
+      "question_id": "t13",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13"
+      ],
+      "question_text": "What location did the general deny was the site of the incident?",
+      "question_style": "targeted",
+      "answer_type": "where",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Sikkim",
+        "Jacob"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t14",
+      "targets_claim_id": "c14",
+      "targets_claim_ids": [
+        "c14"
+      ],
+      "question_text": "What location did the general confirm for the incident?",
+      "question_style": "targeted",
+      "answer_type": "where",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Tawang",
+        "Jacob"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t15",
+      "targets_claim_id": "c15",
+      "targets_claim_ids": [
+        "c15"
+      ],
+      "question_text": "What did the general state he still lacked understanding of regarding the Chinese actions?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "brutal act of murder",
+        "Jacob"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t16",
+      "targets_claim_id": "c16",
+      "targets_claim_ids": [
+        "c16"
+      ],
+      "question_text": "What did the cable author ask the general about future developments?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "happen now",
+        "Jacob"
+      ],
+      "leakage_score": 0.55
+    },
+    {
+      "question_id": "t17",
+      "targets_claim_id": "c17",
+      "targets_claim_ids": [
+        "c17"
+      ],
+      "question_text": "What was the general's response when asked about future developments, and what was his emotional state?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "didn't know",
+        "controlling his anger",
+        "Jacob"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t18",
+      "targets_claim_id": "c18",
+      "targets_claim_ids": [
+        "c18"
+      ],
+      "question_text": "What did the general state he would not forget regarding his soldiers?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Jacob",
+        "soldiers"
+      ],
+      "leakage_score": 0.65
+    },
+    {
+      "question_id": "t19",
+      "targets_claim_id": "c19",
+      "targets_claim_ids": [
+        "c19"
+      ],
+      "question_text": "What did the general state he intended to do with the Chinese at a future time and place?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "settle his account",
+        "Jacob"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t20",
+      "targets_claim_id": "c20",
+      "targets_claim_ids": [
+        "c20"
+      ],
+      "question_text": "What specific request did the general make about his statement?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "quoted on",
+        "Jacob"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "x1",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c5",
+        "c6",
+        "c8",
+        "c11",
+        "c12",
+        "c13",
+        "c14",
+        "c15",
+        "c19"
+      ],
+      "question_text": "What was the state of border security and incidents between India and China in late 1975?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Jacob",
+        "cable author",
+        "Bangladesh",
+        "septel",
+        "his men",
+        "four men",
+        "four captured men",
+        "medical examination",
+        "four dead men",
+        "ambush",
+        "murder",
+        "rifles",
+        "two who escaped",
+        "Indian patrol",
+        "Assam Rifles",
+        "Tawang area",
+        "Sikkim",
+        "brutal act of murder",
+        "settle his account",
+        "soldiers"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "x2",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c5",
+        "c6",
+        "c7",
+        "c8",
+        "c9",
+        "c15",
+        "c17",
+        "c18",
+        "c19",
+        "c20"
+      ],
+      "question_text": "How were Indian military leaders characterizing their relationship with China in late 1975?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Jacob",
+        "cable author",
+        "Bangladesh",
+        "septel",
+        "his men",
+        "four men",
+        "four captured men",
+        "medical examination",
+        "four dead men",
+        "ambush",
+        "murder",
+        "rifles",
+        "two who escaped",
+        "Indian patrol",
+        "Assam Rifles",
+        "Tawang area",
+        "Sikkim",
+        "brutal act of murder",
+        "settle his account",
+        "soldiers"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "x3",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c5",
+        "c6",
+        "c11",
+        "c12",
+        "c13",
+        "c14",
+        "c15",
+        "c19"
+      ],
+      "question_text": "What were the key dynamics shaping India-China border relations and their potential for escalation around 1975?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Jacob",
+        "cable author",
+        "Bangladesh",
+        "septel",
+        "his men",
+        "four men",
+        "four captured men",
+        "medical examination",
+        "four dead men",
+        "ambush",
+        "murder",
+        "rifles",
+        "two who escaped",
+        "Indian patrol",
+        "Assam Rifles",
+        "Tawang area",
+        "Sikkim",
+        "brutal act of murder",
+        "settle his account",
+        "soldiers"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "x4",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c13",
+        "c14"
+      ],
+      "question_text": "What was the general posture of Indian forces along the northern border regions in late 1975?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Jacob",
+        "cable author",
+        "Bangladesh",
+        "septel",
+        "his men",
+        "four men",
+        "four captured men",
+        "medical examination",
+        "four dead men",
+        "ambush",
+        "murder",
+        "rifles",
+        "two who escaped",
+        "Indian patrol",
+        "Assam Rifles",
+        "Tawang area",
+        "Sikkim",
+        "brutal act of murder",
+        "settle his account",
+        "soldiers"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "x5",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c5",
+        "c6",
+        "c15",
+        "c16",
+        "c17",
+        "c18",
+        "c19"
+      ],
+      "question_text": "How were diplomatic channels responding to reports of border incidents between India and China during 1975?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Jacob",
+        "cable author",
+        "Bangladesh",
+        "septel",
+        "his men",
+        "four men",
+        "four captured men",
+        "medical examination",
+        "four dead men",
+        "ambush",
+        "murder",
+        "rifles",
+        "two who escaped",
+        "Indian patrol",
+        "Assam Rifles",
+        "Tawang area",
+        "Sikkim",
+        "brutal act of murder",
+        "settle his account",
+        "soldiers"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5",
+        "c6",
+        "c7",
+        "c8",
+        "c9",
+        "c13",
+        "c14"
+      ],
+      "question_text": "What patterns emerge in diplomatic reporting regarding the attribution of responsibility for cross-border incidents, particularly concerning the types of evidence cited by involved parties?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c15",
+        "c17",
+        "c18",
+        "c19"
+      ],
+      "question_text": "How do the perspectives and stated intentions of military leaders typically shape diplomatic assessments of cross-border incidents and potential escalations?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5",
+        "c6",
+        "c8",
+        "c15"
+      ],
+      "question_text": "What strategic considerations and perceived motivations are typically explored in diplomatic reporting when assessing an adversary's actions during border clashes, especially concerning alleged deliberate provocations or cover-ups?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-11T19:17:03.275Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 19796,
+    "cost_usd": 0.00419745
+  }
+}

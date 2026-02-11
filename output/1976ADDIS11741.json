@@ -1,0 +1,914 @@
+{
+  "doc_id": "1976ADDIS11741",
+  "doc_subject": "ITALIAN-ETHIOPIAN RELATIONS SUMMARY: ITALIAN AMBASSADOR WHO RECENTLY  RETURNED FROM ROME, SAID LONG-PLANNED ITALIAN PROPOSAL FOR HIGH-",
+  "doc_date": "1976-11-17",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "The Italian Ambassador said a long-planned Italian proposal for a high-level political mission to Ethiopia is moving ahead.",
+      "claim_type": "attribution",
+      "entities": [
+        "Italian Ambassador",
+        "Italy",
+        "Ethiopia"
+      ],
+      "time_bounds": {
+        "start": "1976-11-15",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "An EPMG contact asked the Italian Ambassador to request the Government of Italy (GOI) to pass a message to Eritrean insurgents resident in Italy.",
+      "claim_type": "event",
+      "entities": [
+        "EPMG contact",
+        "Italian Ambassador",
+        "Government of Italy",
+        "Eritrean insurgents",
+        "Italy"
+      ],
+      "time_bounds": {
+        "start": "1976-11",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The EPMG wished to sit down with Eritrean insurgents and discuss a peaceful resolution of the Eritrean problem.",
+      "claim_type": "plan",
+      "entities": [
+        "EPMG",
+        "Eritrean insurgents",
+        "Eritrean problem"
+      ],
+      "time_bounds": {
+        "start": "1976-11",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "The Government of Italy (GOI) does not want to play the role of mediator.",
+      "claim_type": "assessment",
+      "entities": [
+        "Government of Italy",
+        "Italy"
+      ],
+      "time_bounds": {
+        "start": "1976-11",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "The Government of Italy (GOI) authorized the Italian Ambassador to say that the GOI would agree to Italian missions abroad passing a message to local Eritrean insurgent contacts.",
+      "claim_type": "attribution",
+      "entities": [
+        "Government of Italy",
+        "Italian Ambassador",
+        "Italian missions abroad",
+        "Eritrean insurgent contacts"
+      ],
+      "time_bounds": {
+        "start": "1976-11",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "The Ethiopians seem to have lost interest in the Government of Italy's (GOI) reply regarding the Eritrean insurgents.",
+      "claim_type": "assessment",
+      "entities": [
+        "Ethiopians",
+        "Government of Italy",
+        "Eritrean insurgents"
+      ],
+      "time_bounds": {
+        "start": "1976-11-15",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "The Italian Ambassador cannot find anyone who wants to hear the Government of Italy's (GOI) reply.",
+      "claim_type": "event",
+      "entities": [
+        "Italian Ambassador",
+        "Government of Italy"
+      ],
+      "time_bounds": {
+        "start": "1976-11-15",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "The EPMG's refusal to permit the entry of Italian diplomatic pouches uninspected complicates the problem.",
+      "claim_type": "event",
+      "entities": [
+        "EPMG",
+        "Italian diplomatic pouches",
+        "Italy"
+      ],
+      "time_bounds": {
+        "start": "1976-11",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "A proposed high-level political visit to Ethiopia has been under consideration for well over a year.",
+      "claim_type": "plan",
+      "entities": [
+        "Ethiopia",
+        "Italy"
+      ],
+      "time_bounds": {
+        "start": "1975-11",
+        "end": "1976-11"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "The object of the proposed high-level political visit would be to strengthen Italo-Ethiopian ties.",
+      "claim_type": "plan",
+      "entities": [
+        "Italy",
+        "Ethiopia"
+      ],
+      "time_bounds": {
+        "start": "1976-11",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "Ambassador Guidi has pushed the proposed visit as a measure of support for the position of the Italian community in Ethiopia.",
+      "claim_type": "plan",
+      "entities": [
+        "Ambassador Guidi",
+        "Italian community",
+        "Ethiopia"
+      ],
+      "time_bounds": {
+        "start": "1976-11",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "Recently, Ethiopians have made it clear they would be pleased to have the Italian delegation visit.",
+      "claim_type": "event",
+      "entities": [
+        "Ethiopians",
+        "Italian delegation"
+      ],
+      "time_bounds": {
+        "start": "1976-11",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "According to Ambassador Guidi, Eritreans in Italy are principally interested in toppling the present EPMG.",
+      "claim_type": "attribution",
+      "entities": [
+        "Ambassador Guidi",
+        "Eritreans",
+        "Italy",
+        "EPMG"
+      ],
+      "time_bounds": {
+        "start": "1976-11-15",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "The Government of Italy (GOI) saw the request from the EPMG contact as a pressure tactic to ensure Ethiopian acceptance of the political mission.",
+      "claim_type": "assessment",
+      "entities": [
+        "Government of Italy",
+        "EPMG contact",
+        "Ethiopia",
+        "political mission"
+      ],
+      "time_bounds": {
+        "start": "1976-11",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c15",
+      "claim_text": "No one, including Ambassador Guidi's \"contact,\" seemed interested in the Government of Italy's (GOI) reply when Guidi returned to Ethiopia.",
+      "claim_type": "event",
+      "entities": [
+        "Ambassador Guidi",
+        "contact",
+        "Government of Italy",
+        "Ethiopia"
+      ],
+      "time_bounds": {
+        "start": "1976-11",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c16",
+      "claim_text": "The EPMG may have had a change of heart about the prospective Italian visit during Ambassador Guidi's absence.",
+      "claim_type": "assessment",
+      "entities": [
+        "EPMG",
+        "Italian visit",
+        "Ambassador Guidi"
+      ],
+      "time_bounds": {
+        "start": "1976-11",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c17",
+      "claim_text": "There may have been some development regarding the Eritrean situation that has lessened EPMG interest in the Government of Italy's (GOI) go-between role.",
+      "claim_type": "assessment",
+      "entities": [
+        "Eritrean situation",
+        "EPMG",
+        "Government of Italy"
+      ],
+      "time_bounds": {
+        "start": "1976-11",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c18",
+      "claim_text": "The political mission remains in a state of suspended animation until Ambassador Guidi can find someone to talk to.",
+      "claim_type": "assessment",
+      "entities": [
+        "political mission",
+        "Ambassador Guidi"
+      ],
+      "time_bounds": {
+        "start": "1976-11-15",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c19",
+      "claim_text": "Ambassador Guidi seemed unsure how the ongoing pouch situation will impact the Government of Italy's (GOI) enthusiasm for the political mission.",
+      "claim_type": "assessment",
+      "entities": [
+        "Ambassador Guidi",
+        "pouch situation",
+        "Government of Italy",
+        "political mission"
+      ],
+      "time_bounds": {
+        "start": "1976-11-15",
+        "end": null
+      },
+      "importance": 4
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "What is the current status of a proposed diplomatic visit to an East African nation?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Italian Ambassador",
+        "Ethiopia",
+        "long-planned",
+        "high-level political mission",
+        "moving ahead"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "Who requested that a diplomat ask their government to relay a message to certain individuals residing in their country?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "EPMG contact",
+        "Italian Ambassador",
+        "Government of Italy",
+        "Eritrean insurgents",
+        "Italy"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "What was the objective of a proposed meeting between a provisional military government and certain armed groups?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "EPMG",
+        "Eritrean insurgents",
+        "Eritrean problem",
+        "sit down",
+        "discuss a peaceful resolution"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "What specific role did a European government express reluctance to undertake?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Government of Italy",
+        "GOI",
+        "mediator"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "What did a European government authorize its diplomatic representative to convey regarding the transmission of messages to certain local contacts?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Government of Italy",
+        "GOI",
+        "Italian Ambassador",
+        "Italian missions abroad",
+        "Eritrean insurgent contacts"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "What was the apparent shift in an East African nation's interest concerning a European government's communication about specific armed groups?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Ethiopians",
+        "lost interest",
+        "Government of Italy",
+        "GOI",
+        "reply",
+        "Eritrean insurgents"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "What challenge did a diplomat face concerning their government's official response?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Italian Ambassador",
+        "Government of Italy",
+        "GOI",
+        "reply",
+        "find anyone",
+        "wants to hear"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "What specific action by an East African provisional government is causing complications?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "EPMG",
+        "refusal",
+        "permit the entry",
+        "Italian diplomatic pouches",
+        "uninspected",
+        "complicates the problem"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "For approximately how long had a proposed diplomatic visit to an East African nation been under discussion?",
+      "question_style": "targeted",
+      "answer_type": "numeric",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "high-level political visit",
+        "Ethiopia",
+        "well over a year"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "What was the intended goal of a planned diplomatic visit between a European country and an East African nation?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "object",
+        "proposed high-level political visit",
+        "strengthen Italo-Ethiopian ties"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "How did a diplomat promote a planned visit?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Ambassador Guidi",
+        "pushed the proposed visit",
+        "measure of support",
+        "position of the Italian community in Ethiopia"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "What recent attitude did an East African nation convey about a European delegation's potential visit?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Recently",
+        "Ethiopians",
+        "made it clear",
+        "pleased to have the Italian delegation visit"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t13",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13"
+      ],
+      "question_text": "What was the main objective of certain individuals residing in a European country, as reported by a diplomat?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Ambassador Guidi",
+        "Eritreans",
+        "Italy",
+        "EPMG",
+        "toppling the present"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t14",
+      "targets_claim_id": "c14",
+      "targets_claim_ids": [
+        "c14"
+      ],
+      "question_text": "How did a European government perceive a request from a contact within an East African provisional government?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Government of Italy",
+        "GOI",
+        "EPMG contact",
+        "pressure tactic",
+        "Ethiopian acceptance",
+        "political mission"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t15",
+      "targets_claim_id": "c15",
+      "targets_claim_ids": [
+        "c15"
+      ],
+      "question_text": "What was the observed lack of interest regarding a European government's response upon a diplomat's return to an East African nation?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "No one",
+        "Ambassador Guidi",
+        "contact",
+        "interested",
+        "Government of Italy",
+        "GOI",
+        "reply",
+        "Ethiopia"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t16",
+      "targets_claim_id": "c16",
+      "targets_claim_ids": [
+        "c16"
+      ],
+      "question_text": "What potential shift in perspective might have occurred within an East African provisional government concerning a European visit during a diplomat's time away?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "EPMG",
+        "change of heart",
+        "prospective Italian visit",
+        "Ambassador Guidi's absence"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t17",
+      "targets_claim_id": "c17",
+      "targets_claim_ids": [
+        "c17"
+      ],
+      "question_text": "What potential factor might have reduced an East African provisional government's interest in a European government's intermediary function regarding a regional issue?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Eritrean situation",
+        "lessened EPMG interest",
+        "Government of Italy",
+        "GOI",
+        "go-between role"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t18",
+      "targets_claim_id": "c18",
+      "targets_claim_ids": [
+        "c18"
+      ],
+      "question_text": "What is the current status of a diplomatic mission, and what condition must be met for it to proceed?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "political mission",
+        "suspended animation",
+        "Ambassador Guidi",
+        "find someone to talk to"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t19",
+      "targets_claim_id": "c19",
+      "targets_claim_ids": [
+        "c19"
+      ],
+      "question_text": "What uncertainty did a diplomat articulate concerning the influence of a logistical challenge on a European government's commitment to a diplomatic initiative?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Ambassador Guidi",
+        "unsure",
+        "ongoing pouch situation",
+        "impact",
+        "Government of Italy",
+        "GOI",
+        "enthusiasm",
+        "political mission"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c9",
+        "c10",
+        "c12",
+        "c18",
+        "c19"
+      ],
+      "question_text": "What was the general state of high-level diplomatic engagement between Italy and Ethiopia in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "proposal",
+        "mission",
+        "visit",
+        "Guidi"
+      ],
+      "leakage_score": 0.24
+    },
+    {
+      "question_id": "q2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "c13",
+        "c17"
+      ],
+      "question_text": "How were external powers engaging with the Eritrean conflict and its key actors during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Italy",
+        "EPMG",
+        "insurgents",
+        "mediation",
+        "message"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q3",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8",
+        "c19"
+      ],
+      "question_text": "What challenges were affecting diplomatic communication channels between European nations and Ethiopia in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "pouch",
+        "Italian",
+        "uninspected"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q4",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3",
+        "c6",
+        "c15",
+        "c16",
+        "c17"
+      ],
+      "question_text": "What were the prevailing dynamics and shifting interests among parties involved in seeking a peaceful resolution to the Eritrean situation in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "EPMG",
+        "GOI",
+        "Italy",
+        "Ethiopians",
+        "insurgents",
+        "reply",
+        "interest"
+      ],
+      "leakage_score": 0.18000000000000002
+    },
+    {
+      "question_id": "q5",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c4",
+        "c5",
+        "c14"
+      ],
+      "question_text": "How were European nations generally approaching requests to mediate or facilitate communication in African regional conflicts during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Italy",
+        "Eritrean",
+        "EPMG",
+        "insurgents",
+        "message",
+        "mediator"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c14",
+        "c17"
+      ],
+      "question_text": "What strategic considerations typically drive a third-party state's decision to accept or decline a role in facilitating communication between a government and non-state actors?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c6",
+        "c7",
+        "c9",
+        "c12",
+        "c15",
+        "c16",
+        "c18"
+      ],
+      "question_text": "What patterns characterize diplomatic efforts to maintain momentum for high-level visits when host government interest appears to wane or become ambiguous?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8",
+        "c19"
+      ],
+      "question_text": "How do persistent logistical or procedural challenges, such as restrictions on diplomatic communications, influence the overall strategic calculus and enthusiasm for bilateral diplomatic initiatives?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-11T19:19:01.920Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 30413,
+    "cost_usd": 0.0050721
+  }
+}

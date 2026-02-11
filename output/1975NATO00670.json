@@ -1,0 +1,1031 @@
+{
+  "doc_id": "1975NATO00670",
+  "doc_subject": "MBFR: U.S. PROPOSAL ON AIR MANPOWER",
+  "doc_date": "1975-02-07",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "The Mission considers that Vienna's proposed modification of the U.S. proposal on air manpower would make that proposal more saleable with the Allies.",
+      "claim_type": "assessment",
+      "entities": [
+        "Mission",
+        "Vienna",
+        "U.S.",
+        "Allies"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The Mission believes that the main advantage of Vienna's modification with the Allies is its impact on the precedent issue.",
+      "claim_type": "assessment",
+      "entities": [
+        "Mission",
+        "Vienna",
+        "Allies"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The FRG continues to see a precedent in the U.S. proposal.",
+      "claim_type": "attribution",
+      "entities": [
+        "FRG",
+        "U.S."
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "The FRG believes that U.S. and Soviet air manpower reductions in Phase I would lead to non-voluntary inclusion of European air manpower in Phase II reductions.",
+      "claim_type": "attribution",
+      "entities": [
+        "FRG",
+        "U.S.",
+        "Soviet",
+        "European"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "The FRG believes that reduction of European air manpower in Phase II would be by up to 15 percent.",
+      "claim_type": "attribution",
+      "entities": [
+        "FRG",
+        "European"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "The Vienna proposal could help meet the FRG concern from the first standpoint.",
+      "claim_type": "assessment",
+      "entities": [
+        "Vienna",
+        "FRG"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "The Vienna proposal offers to the East voluntary air manpower reduction in Phase II.",
+      "claim_type": "plan",
+      "entities": [
+        "Vienna",
+        "East"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "A precedent that no more than 10 percent of FRG Phase II reductions be in air manpower would cut much less deeply than a precedent for a 15 percent reduction of FRG or non-US Allied air manpower.",
+      "claim_type": "assessment",
+      "entities": [
+        "FRG",
+        "US",
+        "Allied"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "The Vienna modification would meet the concern of some Allies that the U.S. could not take Phase I air manpower reductions of up to 15 percent without reducing combat capability.",
+      "claim_type": "assessment",
+      "entities": [
+        "Vienna",
+        "Allies",
+        "U.S."
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "The UK expressed concern early in the SPC discussion about the negotiability of a proposal which required fewer Allied reductions and more Pact reductions than the original Allied proposal.",
+      "claim_type": "attribution",
+      "entities": [
+        "UK",
+        "SPC",
+        "Allied",
+        "Pact"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "The main Allied question concerning the Vienna proposal would be its effect on withdrawal of a tank army in Phase I.",
+      "claim_type": "assessment",
+      "entities": [
+        "Allies",
+        "Vienna"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "The U.S. would need to demonstrate that the Vienna proposal is compatible with the Allied Phase I objective of withdrawing a tank army.",
+      "claim_type": "plan",
+      "entities": [
+        "U.S.",
+        "Allied",
+        "Vienna"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "Soviet Phase I ground force reductions would amount to a minimum of about 61,000 under the Vienna proposal.",
+      "claim_type": "logistics",
+      "entities": [
+        "Soviet",
+        "Vienna"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "The figure of \"about 68,000\" Soviet ground force reductions was originally envisaged.",
+      "claim_type": "logistics",
+      "entities": [
+        "Soviet"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c15",
+      "claim_text": "The Mission recommends that, if Washington decides in favor of the Vienna modification, the U.S. present it as an effort to meet Allied concerns.",
+      "claim_type": "plan",
+      "entities": [
+        "Mission",
+        "Washington",
+        "U.S.",
+        "Allies",
+        "Vienna"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c16",
+      "claim_text": "The Mission recommends that, if Washington decides in favor of the Vienna modification, the U.S. work for early agreement on it.",
+      "claim_type": "plan",
+      "entities": [
+        "Mission",
+        "Washington",
+        "U.S.",
+        "Vienna"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c17",
+      "claim_text": "The Mission recommends that, if Washington decides in favor of the Vienna modification, the U.S. do so without withdrawing the present U.S. proposal.",
+      "claim_type": "plan",
+      "entities": [
+        "Mission",
+        "Washington",
+        "U.S.",
+        "Vienna"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c18",
+      "claim_text": "The present U.S. proposal is now supported by the Dutch.",
+      "claim_type": "relationship",
+      "entities": [
+        "U.S.",
+        "Dutch"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c19",
+      "claim_text": "The Mission also recommends that Washington come to an early decision on the Vienna modification.",
+      "claim_type": "plan",
+      "entities": [
+        "Mission",
+        "Washington",
+        "Vienna"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c20",
+      "claim_text": "If Washington decides to propose the Vienna modification in NATO, it is essential to do so before work in NATO and in Allied capitals on the present U.S. proposal progresses further.",
+      "claim_type": "plan",
+      "entities": [
+        "Washington",
+        "NATO",
+        "Allied capitals",
+        "U.S.",
+        "Vienna"
+      ],
+      "time_bounds": {
+        "start": "1975-02",
+        "end": null
+      },
+      "importance": 5
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "How did the Mission assess the impact of a proposed modification on the U.S. air manpower plan's acceptance by allied nations?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Vienna's proposed modification",
+        "U.S. proposal on air manpower",
+        "more saleable with the Allies"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "What did the Mission identify as the primary benefit of the modification for allied nations concerning establishing a precedent?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Vienna's modification",
+        "main advantage",
+        "precedent issue"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "How did one European nation perceive the U.S. proposal concerning a precedent?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "FRG",
+        "precedent in the U.S. proposal"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "According to one European nation, what would be the consequence for European air manpower reductions in a later phase if certain major powers reduced their air manpower in an initial phase?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "FRG",
+        "U.S. and Soviet air manpower reductions in Phase I",
+        "non-voluntary inclusion of European air manpower in Phase II reductions"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "What was one European nation's estimated maximum percentage reduction for European air manpower in a subsequent phase?",
+      "question_style": "targeted",
+      "answer_type": "numeric",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "FRG",
+        "reduction of European air manpower in Phase II",
+        "up to 15 percent"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "How might a particular proposal address a specific concern of one European nation?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Vienna proposal",
+        "FRG concern",
+        "first standpoint"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "What type of air manpower reduction in a later phase does a specific proposal offer to Eastern nations?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Vienna proposal",
+        "East",
+        "voluntary air manpower reduction in Phase II"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "How would a precedent limiting air manpower reductions to a certain percentage in a later phase for a particular nation compare to a higher percentage reduction for that nation or other allied air forces?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "10 percent",
+        "FRG Phase II reductions",
+        "air manpower",
+        "15 percent reduction",
+        "FRG or non-US Allied air manpower"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "How would a proposed modification address the concern of some allied nations regarding the impact on combat capability if a major power were to undertake initial air manpower reductions of a significant percentage?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Vienna modification",
+        "concern of some Allies",
+        "U.S.",
+        "Phase I air manpower reductions of up to 15 percent",
+        "reducing combat capability"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "What concern did one major European nation express early in discussions regarding the negotiability of a proposal that had a different balance of reductions for allied and opposing forces compared to an earlier plan?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "UK",
+        "SPC discussion",
+        "negotiability",
+        "fewer Allied reductions and more Pact reductions than the original Allied proposal"
+      ],
+      "leakage_score": 0.1
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "What was identified as the main question allied nations would have about a specific proposal concerning a key objective in an initial phase?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "main Allied question",
+        "Vienna proposal",
+        "effect on withdrawal of a tank army in Phase I"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "What would a major power need to demonstrate about a specific proposal's alignment with an allied objective for an initial phase?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "U.S.",
+        "demonstrate",
+        "Vienna proposal",
+        "compatible with the Allied Phase I objective of withdrawing a tank army"
+      ],
+      "leakage_score": 0.1
+    },
+    {
+      "question_id": "t13",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13"
+      ],
+      "question_text": "What was the estimated minimum number of ground force reductions for a major Eastern power in an initial phase under a specific proposal?",
+      "question_style": "targeted",
+      "answer_type": "numeric",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Soviet Phase I ground force reductions",
+        "minimum of about 61,000",
+        "Vienna proposal"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t14",
+      "targets_claim_id": "c14",
+      "targets_claim_ids": [
+        "c14"
+      ],
+      "question_text": "What was the initial approximate number of ground force reductions envisioned for a major Eastern power?",
+      "question_style": "targeted",
+      "answer_type": "numeric",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "about 68,000",
+        "Soviet ground force reductions",
+        "originally envisaged"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t15",
+      "targets_claim_id": "c15",
+      "targets_claim_ids": [
+        "c15"
+      ],
+      "question_text": "How did the Mission recommend a major power present a specific modification if it were to be approved by its capital?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Mission recommends",
+        "Washington decides in favor of the Vienna modification",
+        "U.S. present it as an effort to meet Allied concerns"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t16",
+      "targets_claim_id": "c16",
+      "targets_claim_ids": [
+        "c16"
+      ],
+      "question_text": "What did the Mission recommend regarding the timing of an agreement on a specific modification if it were approved by its capital?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Mission recommends",
+        "Washington decides in favor of the Vienna modification",
+        "U.S. work for early agreement on it"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t17",
+      "targets_claim_id": "c17",
+      "targets_claim_ids": [
+        "c17"
+      ],
+      "question_text": "What did the Mission recommend regarding the existing proposal if a specific modification were approved by its capital?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Mission recommends",
+        "Washington decides in favor of the Vienna modification",
+        "U.S. do so without withdrawing the present U.S. proposal"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t18",
+      "targets_claim_id": "c18",
+      "targets_claim_ids": [
+        "c18"
+      ],
+      "question_text": "Which European nation currently supports the existing proposal from a major power?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "present U.S. proposal",
+        "Dutch"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t19",
+      "targets_claim_id": "c19",
+      "targets_claim_ids": [
+        "c19"
+      ],
+      "question_text": "What did the Mission recommend regarding the timing of a decision by a major power's capital concerning a specific modification?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Mission also recommends",
+        "Washington come to an early decision on the Vienna modification"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t20",
+      "targets_claim_id": "c20",
+      "targets_claim_ids": [
+        "c20"
+      ],
+      "question_text": "What was deemed essential regarding the timing of proposing a specific modification within an alliance, relative to ongoing work on an existing proposal from a major power?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Washington decides to propose the Vienna modification in NATO",
+        "essential to do so before work in NATO and in Allied capitals on the present U.S. proposal progresses further"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c6",
+        "c7",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c13",
+        "c14",
+        "c15",
+        "c16",
+        "c17",
+        "c19",
+        "c20"
+      ],
+      "question_text": "What was the general state of Mutual and Balanced Force Reduction (MBFR) negotiations between NATO and the Warsaw Pact in early 1975?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "air manpower",
+        "Vienna modification",
+        "U.S. proposal",
+        "Phase I",
+        "Phase II",
+        "precedent",
+        "tank army",
+        "10 percent",
+        "15 percent",
+        "61,000",
+        "68,000"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "c8",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c15",
+        "c18",
+        "c20"
+      ],
+      "question_text": "What internal tensions or disagreements existed among NATO allies regarding arms control proposals in the context of East-West negotiations during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "air manpower",
+        "Vienna modification",
+        "U.S. proposal",
+        "Phase I",
+        "Phase II",
+        "precedent",
+        "tank army",
+        "10 percent",
+        "15 percent",
+        "61,000",
+        "68,000"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "c8"
+      ],
+      "question_text": "How were key European allies, particularly West Germany, responding to superpower-led arms reduction initiatives and their potential long-term implications for European security during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "air manpower",
+        "Vienna modification",
+        "U.S. proposal",
+        "Phase I",
+        "Phase II",
+        "precedent",
+        "tank army",
+        "10 percent",
+        "15 percent",
+        "61,000",
+        "68,000"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q4",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c9",
+        "c12",
+        "c15",
+        "c16",
+        "c17",
+        "c19",
+        "c20"
+      ],
+      "question_text": "What was the U.S. diplomatic strategy for building consensus among NATO allies on arms control proposals in early 1975?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "air manpower",
+        "Vienna modification",
+        "U.S. proposal",
+        "Phase I",
+        "Phase II",
+        "precedent",
+        "tank army",
+        "10 percent",
+        "15 percent",
+        "61,000",
+        "68,000"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q5",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "What were the primary considerations for maintaining NATO's combat capability during discussions of potential force reductions in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "air manpower",
+        "Vienna modification",
+        "U.S. proposal",
+        "Phase I",
+        "Phase II",
+        "precedent",
+        "tank army",
+        "10 percent",
+        "15 percent",
+        "61,000",
+        "68,000"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c6",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c15",
+        "c18",
+        "c20"
+      ],
+      "question_text": "How do concerns of key allies typically shape U.S. diplomatic proposals in multilateral security negotiations?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "MBFR",
+        "air manpower",
+        "Vienna",
+        "FRG",
+        "Soviet",
+        "Phase I",
+        "Phase II",
+        "tank army",
+        "15 percent",
+        "10 percent",
+        "61,000",
+        "68,000",
+        "NATO",
+        "UK",
+        "Dutch",
+        "SPC",
+        "Washington"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c8"
+      ],
+      "question_text": "What strategic considerations and concerns about precedent-setting frequently arise in multilateral arms control negotiations?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "MBFR",
+        "air manpower",
+        "Vienna",
+        "FRG",
+        "Soviet",
+        "Phase I",
+        "Phase II",
+        "tank army",
+        "15 percent",
+        "10 percent",
+        "61,000",
+        "68,000",
+        "NATO",
+        "UK",
+        "Dutch",
+        "SPC",
+        "Washington"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c6",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c15",
+        "c16",
+        "c17",
+        "c19",
+        "c20"
+      ],
+      "question_text": "How did major powers manage internal alliance disagreements and secure consensus when introducing modified proposals in complex security talks?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "MBFR",
+        "air manpower",
+        "Vienna",
+        "FRG",
+        "Soviet",
+        "Phase I",
+        "Phase II",
+        "tank army",
+        "15 percent",
+        "10 percent",
+        "61,000",
+        "68,000",
+        "NATO",
+        "UK",
+        "Dutch",
+        "SPC",
+        "Washington"
+      ],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-11T19:15:56.880Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 26511,
+    "cost_usd": 0.0052182
+  }
+}

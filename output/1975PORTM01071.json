@@ -1,0 +1,932 @@
+{
+  "doc_id": "1975PORTM01071",
+  "doc_subject": "BOUGAINVILLE SITUATION HEATING UP",
+  "doc_date": "1975-10-14",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "Rumors suggested secessionists on Bougainville Island were becoming increasingly dangerous to national unity.",
+      "claim_type": "attribution",
+      "entities": [
+        "secessionists",
+        "Bougainville Island",
+        "national unity"
+      ],
+      "time_bounds": {
+        "start": "1975-10",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "Governor General Sir John Guise dispatched two members of his staff to Bougainville during the week of October 6-10, 1975.",
+      "claim_type": "event",
+      "entities": [
+        "Sir John Guise",
+        "staff",
+        "Bougainville"
+      ],
+      "time_bounds": {
+        "start": "1975-10-06",
+        "end": "1975-10-10"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The staff members reported that secessionists on Bougainville are extremely well organized at all levels.",
+      "claim_type": "assessment",
+      "entities": [
+        "staff members",
+        "secessionists",
+        "Bougainville"
+      ],
+      "time_bounds": {
+        "start": "1975-10",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "The staff members reported that secessionists on Bougainville have obtained funds \"running in six figures\" from private businessmen and plantation owners, mostly expatriates.",
+      "claim_type": "event",
+      "entities": [
+        "staff members",
+        "secessionists",
+        "Bougainville",
+        "private businessmen",
+        "plantation owners",
+        "expatriates"
+      ],
+      "time_bounds": {
+        "start": "1975-10",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "The staff members reported that secessionists on Bougainville have virtually full support of the Bougainvillian population.",
+      "claim_type": "assessment",
+      "entities": [
+        "staff members",
+        "secessionists",
+        "Bougainville",
+        "Bougainvillian population"
+      ],
+      "time_bounds": {
+        "start": "1975-10",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "The staff members reported that secessionists on Bougainville have their people in key positions throughout the district, with many on the central government's payroll.",
+      "claim_type": "assessment",
+      "entities": [
+        "staff members",
+        "secessionists",
+        "Bougainville",
+        "central government"
+      ],
+      "time_bounds": {
+        "start": "1975-10",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "On October 10, Chris von Lieshout told an EMBOFF that the situation on Bougainville had deteriorated to such a degree that military force would be inevitable unless the GPNG moved within thirty days.",
+      "claim_type": "assessment",
+      "entities": [
+        "Chris von Lieshout",
+        "EMBOFF",
+        "Bougainville",
+        "GPNG",
+        "military force"
+      ],
+      "time_bounds": {
+        "start": "1975-10-10",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "The reporters found secessionists on Bougainville active on all fronts.",
+      "claim_type": "assessment",
+      "entities": [
+        "reporters",
+        "secessionists",
+        "Bougainville"
+      ],
+      "time_bounds": {
+        "start": "1975-10-06",
+        "end": "1975-10-10"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "Secessionists on Bougainville are maintaining daily contact through telex with Englishman Granville Jones.",
+      "claim_type": "event",
+      "entities": [
+        "secessionists",
+        "Bougainville",
+        "Granville Jones"
+      ],
+      "time_bounds": {
+        "start": "1975-10",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "Rick Hearne, the Acting District Commissioner, has secretly obtained a number of messages from Granville Jones.",
+      "claim_type": "event",
+      "entities": [
+        "Rick Hearne",
+        "Acting District Commissioner",
+        "Granville Jones"
+      ],
+      "time_bounds": {
+        "start": "1975-10",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "According to Chris von Lieshout, the messages from Granville Jones are \"blueprints\" for secessionist activity.",
+      "claim_type": "attribution",
+      "entities": [
+        "Chris von Lieshout",
+        "Granville Jones",
+        "secessionist activity"
+      ],
+      "time_bounds": {
+        "start": "1975-10-10",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "Chris von Lieshout said many central government public servants were solidly behind the secessionist movements on Bougainville.",
+      "claim_type": "attribution",
+      "entities": [
+        "Chris von Lieshout",
+        "central government public servants",
+        "secessionist movements",
+        "Bougainville"
+      ],
+      "time_bounds": {
+        "start": "1975-10-10",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "Chris von Lieshout reported that the secessionists' cash on hand now exceeds anything previously suspected by officials in Port Moresby.",
+      "claim_type": "attribution",
+      "entities": [
+        "Chris von Lieshout",
+        "secessionists",
+        "officials in Port Moresby"
+      ],
+      "time_bounds": {
+        "start": "1975-10-10",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "Chris von Lieshout noted that loyal district officials on Bougainville are becoming more isolated.",
+      "claim_type": "attribution",
+      "entities": [
+        "Chris von Lieshout",
+        "loyal district officials",
+        "Bougainville"
+      ],
+      "time_bounds": {
+        "start": "1975-10-10",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c15",
+      "claim_text": "Chris von Lieshout commented that Sir John Guise went into a \"towering rage\" over GPNG inaction when the two staff members reported to him.",
+      "claim_type": "attribution",
+      "entities": [
+        "Chris von Lieshout",
+        "Sir John Guise",
+        "GPNG",
+        "staff members"
+      ],
+      "time_bounds": {
+        "start": "1975-10-10",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c16",
+      "claim_text": "Sir John Guise shouted that he would personally see action was taken immediately regarding the Bougainville situation.",
+      "claim_type": "plan",
+      "entities": [
+        "Sir John Guise",
+        "Bougainville situation"
+      ],
+      "time_bounds": {
+        "start": "1975-10-10",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c17",
+      "claim_text": "Chris von Lieshout intimated that he suggested the GPNG consider arresting a number of the most active secessionists now to defuse the situation.",
+      "claim_type": "attribution",
+      "entities": [
+        "Chris von Lieshout",
+        "GPNG",
+        "secessionists"
+      ],
+      "time_bounds": {
+        "start": "1975-10-10",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c18",
+      "claim_text": "One recommendation in Chris von Lieshout's report was either the firing or transfer of all public servants involved in secessionist activities.",
+      "claim_type": "plan",
+      "entities": [
+        "Chris von Lieshout",
+        "public servants",
+        "secessionist activities"
+      ],
+      "time_bounds": {
+        "start": "1975-10-10",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c19",
+      "claim_text": "Bougainville's secessionists have money, organization, and grass roots support that Papua Besena never had.",
+      "claim_type": "assessment",
+      "entities": [
+        "Bougainville's secessionists",
+        "Papua Besena"
+      ],
+      "time_bounds": {
+        "start": "1975-10",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c20",
+      "claim_text": "Sir John Guise moving into the vacuum regarding the Bougainville problem could have broader repercussions in national politics.",
+      "claim_type": "assessment",
+      "entities": [
+        "Sir John Guise",
+        "Bougainville problem",
+        "national politics"
+      ],
+      "time_bounds": {
+        "start": "1975-10",
+        "end": null
+      },
+      "importance": 4
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "What was rumored about the threat posed by separatists on Bougainville to the country's cohesion?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "secessionists on Bougainville Island",
+        "increasingly dangerous to national unity"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "Who sent personnel to Bougainville in early October 1975?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Sir John Guise",
+        "two members of his staff",
+        "October 6-10, 1975"
+      ],
+      "leakage_score": 0.6000000000000001
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "How did the dispatched personnel characterize the organization of separatists on Bougainville?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "staff members",
+        "secessionists on Bougainville",
+        "extremely well organized at all levels"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "From what sources did separatists on Bougainville acquire substantial funding, and what was the approximate amount?",
+      "question_style": "targeted",
+      "answer_type": "numeric",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "staff members",
+        "secessionists on Bougainville",
+        "running in six figures",
+        "private businessmen and plantation owners",
+        "expatriates"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "How did the dispatched personnel assess the level of popular support for separatists among the Bougainville population?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "staff members",
+        "secessionists on Bougainville",
+        "virtually full support of the Bougainvillian population"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "Where did the dispatched personnel report that separatists on Bougainville had placed their supporters, including those receiving government salaries?",
+      "question_style": "targeted",
+      "answer_type": "where",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "staff members",
+        "secessionists on Bougainville",
+        "key positions throughout the district",
+        "central government's payroll"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "What did a source indicate to an embassy official about the severity of the Bougainville situation and the potential for military intervention if the government did not act promptly?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "October 10",
+        "Chris von Lieshout",
+        "EMBOFF",
+        "deteriorated to such a degree",
+        "military force would be inevitable",
+        "GPNG moved within thirty days"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "How did the individuals who visited Bougainville describe the scope of separatist activities?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "reporters",
+        "secessionists on Bougainville",
+        "active on all fronts"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "With whom were separatists on Bougainville communicating regularly via telex?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "secessionists on Bougainville",
+        "daily contact through telex",
+        "Englishman Granville Jones"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "What official secretly acquired communications from a specific individual?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Rick Hearne",
+        "Acting District Commissioner",
+        "secretly obtained a number of messages",
+        "Granville Jones"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "How did a source characterize the content of messages received from a specific individual regarding separatist actions?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Chris von Lieshout",
+        "messages from Granville Jones",
+        "blueprints for secessionist activity"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "What did a source claim about the level of support for separatist movements on Bougainville among central government employees?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Chris von Lieshout",
+        "central government public servants",
+        "solidly behind the secessionist movements on Bougainville"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t13",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13"
+      ],
+      "question_text": "How did a source describe the current financial holdings of separatists compared to prior official estimates?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Chris von Lieshout",
+        "secessionists' cash on hand",
+        "exceeds anything previously suspected by officials in Port Moresby"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t14",
+      "targets_claim_id": "c14",
+      "targets_claim_ids": [
+        "c14"
+      ],
+      "question_text": "What did a source observe about the situation of loyal government representatives in the Bougainville district?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Chris von Lieshout",
+        "loyal district officials on Bougainville",
+        "becoming more isolated"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t15",
+      "targets_claim_id": "c15",
+      "targets_claim_ids": [
+        "c15"
+      ],
+      "question_text": "How did a source describe a high-ranking official's reaction to reports of government inaction, following a briefing from his personnel?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Chris von Lieshout",
+        "Sir John Guise",
+        "towering rage",
+        "GPNG inaction",
+        "two staff members reported to him"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t16",
+      "targets_claim_id": "c16",
+      "targets_claim_ids": [
+        "c16"
+      ],
+      "question_text": "What did a high-ranking official declare he would personally ensure regarding the situation on Bougainville?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Sir John Guise",
+        "shouted",
+        "personally see action was taken immediately",
+        "Bougainville situation"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t17",
+      "targets_claim_id": "c17",
+      "targets_claim_ids": [
+        "c17"
+      ],
+      "question_text": "What action did a source imply he recommended the government consider taking against prominent separatists to de-escalate the situation?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Chris von Lieshout",
+        "intimated",
+        "suggested the GPNG consider arresting a number of the most active secessionists now",
+        "defuse the situation"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t18",
+      "targets_claim_id": "c18",
+      "targets_claim_ids": [
+        "c18"
+      ],
+      "question_text": "What was a key recommendation from a source's report concerning government employees involved in separatist actions?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Chris von Lieshout's report",
+        "firing or transfer of all public servants involved in secessionist activities"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t19",
+      "targets_claim_id": "c19",
+      "targets_claim_ids": [
+        "c19"
+      ],
+      "question_text": "What specific advantages did separatists on Bougainville possess that were absent in another named political movement?",
+      "question_style": "targeted",
+      "answer_type": "list",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Bougainville's secessionists",
+        "money, organization, and grass roots support",
+        "Papua Besena never had"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t20",
+      "targets_claim_id": "c20",
+      "targets_claim_ids": [
+        "c20"
+      ],
+      "question_text": "What potential wider effects in the country's political landscape could result from a high-ranking official's intervention in the Bougainville issue?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Sir John Guise",
+        "moving into the vacuum",
+        "Bougainville problem",
+        "broader repercussions in national politics"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c3",
+        "c5",
+        "c6",
+        "c8",
+        "c19"
+      ],
+      "question_text": "What was the overall state of regional autonomy movements in Papua New Guinea during late 1975?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Bougainville",
+        "secessionists",
+        "well organized",
+        "full support",
+        "key positions",
+        "money",
+        "organization",
+        "grass roots"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c7",
+        "c15",
+        "c16",
+        "c17",
+        "c18"
+      ],
+      "question_text": "How was the central government addressing challenges to national unity from regional groups in Papua New Guinea in late 1975?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Bougainville",
+        "Sir John Guise",
+        "staff",
+        "military force",
+        "GPNG",
+        "rage",
+        "action",
+        "arresting",
+        "firing",
+        "transfer"
+      ],
+      "leakage_score": 0.24
+    },
+    {
+      "question_id": "q3",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c9",
+        "c10",
+        "c11"
+      ],
+      "question_text": "What were the key dynamics shaping external support for regional autonomy movements in the South Pacific during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Bougainville",
+        "secessionists",
+        "funds",
+        "private businessmen",
+        "plantation owners",
+        "expatriates",
+        "Granville Jones",
+        "Rick Hearne",
+        "messages",
+        "blueprints",
+        "telex"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q4",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6",
+        "c12",
+        "c14",
+        "c15",
+        "c20"
+      ],
+      "question_text": "What internal tensions existed within the central government regarding the handling of regional autonomy demands in Papua New Guinea in 1975?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Bougainville",
+        "secessionists",
+        "public servants",
+        "loyal district officials",
+        "Sir John Guise",
+        "GPNG",
+        "national politics"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q5",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c13",
+        "c19"
+      ],
+      "question_text": "How were regional political movements in Papua New Guinea typically funded in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Bougainville",
+        "secessionists",
+        "funds",
+        "six figures",
+        "private businessmen",
+        "plantation owners",
+        "expatriates",
+        "cash on hand",
+        "Port Moresby"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c3",
+        "c5",
+        "c6",
+        "c8",
+        "c12",
+        "c13",
+        "c14",
+        "c19"
+      ],
+      "question_text": "How do national governments typically assess the strength, organization, and popular support of internal secessionist movements?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7",
+        "c15",
+        "c16",
+        "c17",
+        "c18",
+        "c20"
+      ],
+      "question_text": "What strategic considerations and internal political dynamics influence a central government's response to escalating internal separatist threats?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c9",
+        "c10",
+        "c11"
+      ],
+      "question_text": "How do diplomatic reports characterize the role and impact of external financial or organizational support for internal separatist groups?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-11T19:17:20.699Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 26637,
+    "cost_usd": 0.0049719
+  }
+}

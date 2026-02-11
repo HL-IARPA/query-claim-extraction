@@ -1,0 +1,897 @@
+{
+  "doc_id": "1975TAIPEI06471",
+  "doc_subject": "GROC EMPHASIZES MILITARY SELF-RELIANCE",
+  "doc_date": "1975-10-02",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "Minister of National Defense (MND) Kao Kuei-yuan discussed the GROC's ability to produce its own weapons on September 30.",
+      "claim_type": "event",
+      "entities": [
+        "MND Kao Kuei-yuan",
+        "GROC"
+      ],
+      "time_bounds": {
+        "start": "1975-09-30",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "MND Kao Kuei-yuan reiterated Premier Chiang's earlier statements that the GROC can manufacture nuclear weapons.",
+      "claim_type": "attribution",
+      "entities": [
+        "MND Kao Kuei-yuan",
+        "Premier Chiang",
+        "GROC",
+        "nuclear weapons"
+      ],
+      "time_bounds": {
+        "start": "1975-09-30",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "MND Kao Kuei-yuan reiterated Premier Chiang's earlier statements that the GROC will not manufacture nuclear weapons.",
+      "claim_type": "attribution",
+      "entities": [
+        "MND Kao Kuei-yuan",
+        "Premier Chiang",
+        "GROC",
+        "nuclear weapons"
+      ],
+      "time_bounds": {
+        "start": "1975-09-30",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "MND Kao Kuei-yuan discussed MND efforts to expand domestic production of weapons through cooperation with private industry.",
+      "claim_type": "event",
+      "entities": [
+        "MND Kao Kuei-yuan",
+        "MND",
+        "private industry",
+        "weapons"
+      ],
+      "time_bounds": {
+        "start": "1975-09-30",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "Minister Kao's comments and other recent remarks on military production suggest that the government is looking ahead to possible restrictions on U.S. military sales to the ROC.",
+      "claim_type": "assessment",
+      "entities": [
+        "Minister Kao",
+        "government",
+        "U.S.",
+        "ROC"
+      ],
+      "time_bounds": {
+        "start": "1975-09-30",
+        "end": "1975-10-02"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "Possible restrictions on U.S. military sales to the ROC may result from the developing US/PRC relationship.",
+      "claim_type": "assessment",
+      "entities": [
+        "U.S.",
+        "ROC",
+        "US/PRC relationship"
+      ],
+      "time_bounds": {
+        "start": "1975-10-02",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "Minister Kao said the GROC is producing Sidewinder missiles.",
+      "claim_type": "attribution",
+      "entities": [
+        "Minister Kao",
+        "GROC",
+        "Sidewinder missiles"
+      ],
+      "time_bounds": {
+        "start": "1975-09-30",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "Minister Kao said the GROC is producing its own aircraft (F-5 co-production) in cooperation with a friendly country.",
+      "claim_type": "attribution",
+      "entities": [
+        "Minister Kao",
+        "GROC",
+        "aircraft",
+        "F-5 co-production",
+        "friendly country"
+      ],
+      "time_bounds": {
+        "start": "1975-09-30",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "Minister Kao said the GROC is producing combat vessels (presumably the Tacoma Boat PSMM project) in cooperation with a friendly country.",
+      "claim_type": "attribution",
+      "entities": [
+        "Minister Kao",
+        "GROC",
+        "combat vessels",
+        "Tacoma Boat PSMM project",
+        "friendly country"
+      ],
+      "time_bounds": {
+        "start": "1975-09-30",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "Minister Kao said Taiwan has plans to produce other types of missiles in the near future.",
+      "claim_type": "attribution",
+      "entities": [
+        "Minister Kao",
+        "Taiwan",
+        "missiles"
+      ],
+      "time_bounds": {
+        "start": "1975-09-30",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "Minister Kao said Taiwan has plans to produce tanks in the near future.",
+      "claim_type": "attribution",
+      "entities": [
+        "Minister Kao",
+        "Taiwan",
+        "tanks"
+      ],
+      "time_bounds": {
+        "start": "1975-09-30",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "Minister Kao said the MND agency in charge of research and development (presumably the Chung Shan Science Institute) has the technicians and facilities to manufacture nuclear weapons.",
+      "claim_type": "attribution",
+      "entities": [
+        "Minister Kao",
+        "MND agency",
+        "Chung Shan Science Institute",
+        "nuclear weapons"
+      ],
+      "time_bounds": {
+        "start": "1975-09-30",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "Kao said MND and the Ministry of Economic Affairs have formulated a \"Project for Cooperation Among Military, State-Owned, and Private Industries.\"",
+      "claim_type": "attribution",
+      "entities": [
+        "Kao",
+        "MND",
+        "Ministry of Economic Affairs",
+        "Project for Cooperation Among Military, State-Owned, and Private Industries"
+      ],
+      "time_bounds": {
+        "start": "1975-09-30",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "The theme of self-reliance reflects a ROC judgment that the U.S. can no longer be relied upon as the sole source of military hardware.",
+      "claim_type": "assessment",
+      "entities": [
+        "ROC",
+        "U.S.",
+        "military hardware"
+      ],
+      "time_bounds": {
+        "start": "1975-10-02",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c15",
+      "claim_text": "The cable authors expect the ROC to continue its efforts to expand domestic production.",
+      "claim_type": "assessment",
+      "entities": [
+        "ROC"
+      ],
+      "time_bounds": {
+        "start": "1975-10-02",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c16",
+      "claim_text": "The cable authors expect the ROC to continue its efforts to develop third country sources for military hardware.",
+      "claim_type": "assessment",
+      "entities": [
+        "ROC",
+        "third country sources",
+        "military hardware"
+      ],
+      "time_bounds": {
+        "start": "1975-10-02",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c17",
+      "claim_text": "Current publicity about domestic production and unscheduled exhibits of military supplies suggest that the ROC is contemplating pursuing third party customers more actively for its domestic production.",
+      "claim_type": "assessment",
+      "entities": [
+        "ROC",
+        "military supplies",
+        "third party customers"
+      ],
+      "time_bounds": {
+        "start": "1975-10-02",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c18",
+      "claim_text": "In the past, Taiwan has occasionally found third country markets for certain items.",
+      "claim_type": "event",
+      "entities": [
+        "Taiwan",
+        "third country markets"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1975-10-02"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c19",
+      "claim_text": "If domestic production is expanded, the GROC may seek external markets to reduce costs for its own armed services.",
+      "claim_type": "plan",
+      "entities": [
+        "GROC",
+        "external markets",
+        "armed services"
+      ],
+      "time_bounds": {
+        "start": "1975-10-02",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c20",
+      "claim_text": "If domestic production is expanded, the GROC may seek external markets to fully utilize increased production capacity.",
+      "claim_type": "plan",
+      "entities": [
+        "GROC",
+        "external markets",
+        "production capacity"
+      ],
+      "time_bounds": {
+        "start": "1975-10-02",
+        "end": null
+      },
+      "importance": 4
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "What topic did a high-ranking defense official discuss regarding the GROC's military capabilities in late September 1975?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Kao Kuei-yuan",
+        "September 30"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "What specific type of advanced weaponry did a defense minister confirm the GROC's capability to produce, referencing previous statements by a premier?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Kao Kuei-yuan",
+        "Chiang",
+        "nuclear weapons"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "What specific commitment regarding the production of advanced weaponry did a defense minister reiterate, citing a premier's prior statements?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Kao Kuei-yuan",
+        "Chiang",
+        "nuclear weapons"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "What method did a defense official discuss for expanding domestic weapon manufacturing, involving collaboration with non-governmental entities?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Kao Kuei-yuan",
+        "private industry"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "What potential future development concerning military equipment acquisitions from a major ally is the government believed to be anticipating, based on recent public statements?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Kao",
+        "U.S.",
+        "ROC"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "What evolving geopolitical dynamic is cited as a potential reason for future limitations on military equipment sales from a key international partner to the ROC?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "U.S.",
+        "ROC",
+        "US/PRC relationship"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "What particular type of air-to-air missile did a minister indicate the GROC is currently manufacturing?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Kao",
+        "Sidewinder missiles"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "What category of military aerial vehicles is the GROC reportedly manufacturing through a collaborative effort with another nation?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Kao",
+        "F-5 co-production",
+        "friendly country"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "What class of military maritime vessels is the GROC reportedly manufacturing through a joint project with another nation?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Kao",
+        "Tacoma Boat PSMM project",
+        "friendly country"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "What additional category of guided projectiles does Taiwan reportedly intend to manufacture in the near future?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Kao",
+        "missiles"
+      ],
+      "leakage_score": 0.55
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "What specific type of armored ground combat vehicle does Taiwan reportedly plan to manufacture in the near future?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Kao",
+        "tanks"
+      ],
+      "leakage_score": 0.55
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "What specific capability, concerning the production of advanced weaponry, did a minister state that a defense research and development agency possesses?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Kao",
+        "Chung Shan Science Institute",
+        "nuclear weapons"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t13",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13"
+      ],
+      "question_text": "What specific collaborative initiative was developed by the Ministry of National Defense and the Ministry of Economic Affairs?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Kao",
+        "Project for Cooperation Among Military, State-Owned, and Private Industries"
+      ],
+      "leakage_score": 0.55
+    },
+    {
+      "question_id": "t14",
+      "targets_claim_id": "c14",
+      "targets_claim_ids": [
+        "c14"
+      ],
+      "question_text": "What is the ROC's current assessment regarding a key international partner's reliability as the exclusive provider of military equipment?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "ROC",
+        "U.S.",
+        "military hardware"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t15",
+      "targets_claim_id": "c15",
+      "targets_claim_ids": [
+        "c15"
+      ],
+      "question_text": "What ongoing effort do the cable authors expect the ROC to maintain concerning its internal manufacturing capabilities?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "ROC",
+        "domestic production"
+      ],
+      "leakage_score": 0.65
+    },
+    {
+      "question_id": "t16",
+      "targets_claim_id": "c16",
+      "targets_claim_ids": [
+        "c16"
+      ],
+      "question_text": "What ongoing effort do the cable authors expect the ROC to pursue regarding alternative international suppliers for military equipment?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "ROC",
+        "third country sources",
+        "military hardware"
+      ],
+      "leakage_score": 0.65
+    },
+    {
+      "question_id": "t17",
+      "targets_claim_id": "c17",
+      "targets_claim_ids": [
+        "c17"
+      ],
+      "question_text": "What new approach to marketing its internally manufactured military goods might the ROC be considering, as indicated by recent public displays and statements?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "ROC",
+        "military supplies",
+        "third party customers",
+        "domestic production"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t18",
+      "targets_claim_id": "c18",
+      "targets_claim_ids": [
+        "c18"
+      ],
+      "question_text": "What has Taiwan occasionally secured in the past concerning international sales for specific products?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Taiwan",
+        "third country markets"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t19",
+      "targets_claim_id": "c19",
+      "targets_claim_ids": [
+        "c19"
+      ],
+      "question_text": "What is one potential motivation for the GROC to pursue international buyers if its internal manufacturing capacity expands, related to its own military expenditures?",
+      "question_style": "targeted",
+      "answer_type": "why",
+      "allowed_hints": [],
+      "banned_terms": [
+        "GROC",
+        "external markets",
+        "armed services"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t20",
+      "targets_claim_id": "c20",
+      "targets_claim_ids": [
+        "c20"
+      ],
+      "question_text": "What is another potential motivation for the GROC to pursue international buyers if its internal manufacturing capacity expands, related to maximizing output?",
+      "question_style": "targeted",
+      "answer_type": "why",
+      "allowed_hints": [],
+      "banned_terms": [
+        "GROC",
+        "external markets",
+        "production capacity"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "c_q1",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5",
+        "c6",
+        "c14"
+      ],
+      "question_text": "What was the general state of military cooperation and arms transfers between the United States and the Republic of China in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "restrictions",
+        "US/PRC relationship",
+        "military sales"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c4",
+        "c7",
+        "c8",
+        "c9",
+        "c10",
+        "c11",
+        "c13",
+        "c15",
+        "c19",
+        "c20"
+      ],
+      "question_text": "How was the Republic of China developing its indigenous defense industrial base in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "MND Kao Kuei-yuan",
+        "private industry",
+        "Sidewinder missiles",
+        "aircraft",
+        "combat vessels",
+        "tanks",
+        "missiles",
+        "Project for Cooperation Among Military, State-Owned, and Private Industries"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q3",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c3",
+        "c12"
+      ],
+      "question_text": "What was the international assessment of the Republic of China's nuclear capabilities and intentions during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "MND Kao Kuei-yuan",
+        "Premier Chiang",
+        "Chung Shan Science Institute",
+        "manufacture nuclear weapons"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q4",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c4",
+        "c14",
+        "c15",
+        "c16",
+        "c17",
+        "c18",
+        "c19",
+        "c20"
+      ],
+      "question_text": "What were the key dynamics shaping the Republic of China's military procurement strategy in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "U.S. as sole source",
+        "third country sources",
+        "domestic production"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "c_q5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5",
+        "c6",
+        "c14",
+        "c1",
+        "c4",
+        "c15"
+      ],
+      "question_text": "Why was the Republic of China emphasizing military self-reliance in its defense policy during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "why",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "U.S. military sales restrictions",
+        "US/PRC relationship"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5",
+        "c6",
+        "c14",
+        "c15",
+        "c16"
+      ],
+      "question_text": "How do allied nations typically adjust their defense procurement strategies and domestic industrial policies when facing perceived shifts in major power security commitments?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "GROC",
+        "MND Kao Kuei-yuan",
+        "Chiang",
+        "Sidewinder",
+        "F-5",
+        "Tacoma Boat",
+        "Chung Shan Science Institute",
+        "Taiwan",
+        "ROC",
+        "PRC"
+      ],
+      "leakage_score": 0.18000000000000002
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c4",
+        "c7",
+        "c8",
+        "c9",
+        "c10",
+        "c11",
+        "c13",
+        "c19",
+        "c20"
+      ],
+      "question_text": "What recurring motivations drive states to expand their domestic military production capabilities, and what strategic or economic considerations influence decisions to seek external markets for these products?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "GROC",
+        "MND Kao Kuei-yuan",
+        "Chiang",
+        "Sidewinder",
+        "F-5",
+        "Tacoma Boat",
+        "Chung Shan Science Institute",
+        "Taiwan",
+        "ROC",
+        "PRC"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c3",
+        "c12"
+      ],
+      "question_text": "How do nations typically signal their capabilities and intentions regarding highly sensitive military technologies, and what patterns emerge in diplomatic assessments of such communications?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "GROC",
+        "MND Kao Kuei-yuan",
+        "Chiang",
+        "Sidewinder",
+        "F-5",
+        "Tacoma Boat",
+        "Chung Shan Science Institute",
+        "Taiwan",
+        "ROC",
+        "PRC"
+      ],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-11T19:17:16.919Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 25517,
+    "cost_usd": 0.00504615
+  }
+}
