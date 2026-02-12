@@ -1,0 +1,488 @@
+{
+  "doc_id": "1977NATO01408",
+  "doc_subject": "HOUSE APPROPRIATIONS COMMITTEE STAFFDEL VISIT TO EUROPE RE PROPOSED          EUCOM RELOCATION",
+  "doc_date": "1977",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "STAFFDEL returned to the mission on the afternoon of March 11 for a brief follow-on discussion with the Deputy Defense Advisor.",
+      "claim_type": "event",
+      "entities": [
+        "STAFFDEL",
+        "mission",
+        "Deputy Defense Advisor"
+      ],
+      "time_bounds": {
+        "start": "1977-03-11",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The discussion was on the subject of EUCOM collocation.",
+      "claim_type": "logistics",
+      "entities": [
+        "EUCOM collocation"
+      ],
+      "time_bounds": {
+        "start": "1977-03-11",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "No new ground was plowed during the discussion.",
+      "claim_type": "assessment",
+      "entities": [
+        "STAFFDEL",
+        "Deputy Defense Advisor"
+      ],
+      "time_bounds": {
+        "start": "1977-03-11",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "STAFFDEL's questions centered on the potential reaction of allies other than Belgium and FRG to a move.",
+      "claim_type": "event",
+      "entities": [
+        "STAFFDEL",
+        "allies",
+        "Belgium",
+        "FRG"
+      ],
+      "time_bounds": {
+        "start": "1977-03-11",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "Talley and Gies said they expect their final report will go to the Subcommittee on Military Construction in two weeks.",
+      "claim_type": "attribution",
+      "entities": [
+        "Talley",
+        "Gies",
+        "final report",
+        "Subcommittee on Military Construction"
+      ],
+      "time_bounds": {
+        "start": "1977-03-25",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "According to Talley, the Subcommittee on Military Construction is not yet aware of the political implications related to the collocation question.",
+      "claim_type": "attribution",
+      "entities": [
+        "Talley",
+        "Subcommittee on Military Construction",
+        "political implications",
+        "collocation question"
+      ],
+      "time_bounds": {
+        "start": "1977-03-11",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "Gies said he believes the Subcommittee members will be disturbed if money is asked for before negotiations have opened with Belgium and the FRG.",
+      "claim_type": "attribution",
+      "entities": [
+        "Gies",
+        "Subcommittee members",
+        "Belgium",
+        "FRG"
+      ],
+      "time_bounds": {
+        "start": "1977-03-11",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "Talley and Gies say they intend to describe the potential political issues in their report.",
+      "claim_type": "attribution",
+      "entities": [
+        "Talley",
+        "Gies",
+        "political issues",
+        "their report"
+      ],
+      "time_bounds": {
+        "start": "1977-03-25",
+        "end": null
+      },
+      "importance": 4
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "Who did the visiting staff delegation meet with for a follow-up discussion upon their return to the mission?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "STAFFDEL",
+        "Deputy Defense Advisor",
+        "March 11"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "What was the main topic of the follow-up discussion?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "EUCOM collocation"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "How was the progress of the discussion assessed?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "new ground was plowed"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "What was the primary focus of the visiting staff delegation's inquiries regarding the potential reactions of allied nations to a proposed relocation?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "STAFFDEL",
+        "Belgium",
+        "FRG"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "Approximately when was the final report expected to be submitted, and to which specific congressional body?",
+      "question_style": "targeted",
+      "answer_type": "when",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Talley",
+        "Gies",
+        "Subcommittee on Military Construction",
+        "two weeks"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "What key aspect of the relocation issue was a particular congressional subcommittee reportedly not yet informed about?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Talley",
+        "Subcommittee on Military Construction",
+        "political implications",
+        "collocation question"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "What specific action, if taken prematurely, was believed to cause concern among members of a congressional subcommittee regarding the relocation process?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Gies",
+        "Subcommittee members",
+        "Belgium",
+        "FRG",
+        "money is asked for"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "What kind of potential concerns did two individuals indicate they would detail in their forthcoming report?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Talley",
+        "Gies",
+        "political issues",
+        "their report"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "x1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "c7",
+        "c8"
+      ],
+      "question_text": "What were the prevailing considerations for U.S. military base adjustments in Europe during the mid-1970s, particularly concerning congressional involvement?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "STAFFDEL",
+        "EUCOM",
+        "collocation",
+        "relocation",
+        "Belgium",
+        "FRG",
+        "Talley",
+        "Gies",
+        "Subcommittee"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "x2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c4",
+        "c6",
+        "c7",
+        "c8"
+      ],
+      "question_text": "How were European allies generally responding to potential shifts in U.S. military presence or infrastructure in their region during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "EUCOM",
+        "collocation",
+        "relocation",
+        "Belgium",
+        "FRG",
+        "STAFFDEL"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "x3",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c6",
+        "c7",
+        "c8"
+      ],
+      "question_text": "What political sensitivities characterized discussions within NATO regarding changes to U.S. military command structures or deployments in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "EUCOM",
+        "collocation",
+        "relocation",
+        "Belgium",
+        "FRG",
+        "Subcommittee"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "x4",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5",
+        "c6",
+        "c7",
+        "c8"
+      ],
+      "question_text": "What was the typical process for congressional committees to assess the political and diplomatic implications of major U.S. military infrastructure projects in Europe during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "STAFFDEL",
+        "Subcommittee",
+        "Talley",
+        "Gies",
+        "final report",
+        "EUCOM",
+        "collocation",
+        "relocation"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "x5",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c6",
+        "c7",
+        "c8"
+      ],
+      "question_text": "What was the general state of diplomatic consultations between the U.S. and its European allies concerning significant changes to U.S. military facilities or presence in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Belgium",
+        "FRG",
+        "EUCOM",
+        "collocation",
+        "relocation"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c6",
+        "c8"
+      ],
+      "question_text": "How do Congressional delegations typically assess the political implications of proposed U.S. military infrastructure changes in allied nations?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c7"
+      ],
+      "question_text": "What patterns emerged in allied consultations regarding proposed changes to U.S. military basing or presence in Europe?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6",
+        "c7",
+        "c8"
+      ],
+      "question_text": "How did concerns about host nation political sensitivities influence U.S. defense planning and funding decisions for overseas military installations?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-12T18:49:31.481Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 12720,
+    "cost_usd": 0.0025518
+  }
+}

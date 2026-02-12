@@ -1,0 +1,949 @@
+{
+  "doc_id": "1976STATE273248",
+  "doc_subject": "NATO AEW",
+  "doc_date": "1976",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "A more intensive effort will be needed to induce the FRG to be more forthcoming about AWACS at the December DPC Ministerial.",
+      "claim_type": "assessment",
+      "entities": [
+        "FRG",
+        "AWACS",
+        "DPC Ministerial"
+      ],
+      "time_bounds": {
+        "start": "1976-12",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The cable's author cannot endorse Embassy London's recommendation that it be authorized to inform the UK of the proposed demarche.",
+      "claim_type": "assessment",
+      "entities": [
+        "cable's author",
+        "Embassy London",
+        "UK",
+        "demarche"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "British-German friction on Alliance military matters is currently on the rise.",
+      "claim_type": "relationship",
+      "entities": [
+        "British",
+        "Germans",
+        "Alliance"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "It makes little sense for the US to get in the middle of British-German friction.",
+      "claim_type": "assessment",
+      "entities": [
+        "US",
+        "British",
+        "Germans"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "Minister Leber told the cable's author on November 3 that he was convinced of the importance of the AEW system and positively disposed towards the concept.",
+      "claim_type": "attribution",
+      "entities": [
+        "Minister Leber",
+        "cable's author",
+        "AEW system",
+        "AEW concept"
+      ],
+      "time_bounds": {
+        "start": "1976-11-03",
+        "end": "1976-11-03"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "The FRG lacked confidence that AWACS would function as intended.",
+      "claim_type": "assessment",
+      "entities": [
+        "FRG",
+        "AWACS"
+      ],
+      "time_bounds": {
+        "start": "1976-11-03",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "The FRG remains unconvinced that AWACS is sufficiently well developed or cost-studied to warrant a NATO commitment to purchase it at this time.",
+      "claim_type": "assessment",
+      "entities": [
+        "FRG",
+        "AWACS",
+        "NATO"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "A personal approach to Leber from Secretary Rumsfeld would appear to be the best hope of changing this FRG position.",
+      "claim_type": "assessment",
+      "entities": [
+        "Leber",
+        "Secretary Rumsfeld",
+        "FRG"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "The scheduling of payments is a major concern for the Germans regarding AEW.",
+      "claim_type": "logistics",
+      "entities": [
+        "Germans",
+        "AEW"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "It would ease matters considerably for the FRG if its participation in an AEW program involved smaller payments in the initial years balanced by larger payments in later years.",
+      "claim_type": "assessment",
+      "entities": [
+        "FRG",
+        "AEW program"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "The FRG has emphasized that a NATO AEW program must be a truly NATO effort, not one of a few NATO allies.",
+      "claim_type": "attribution",
+      "entities": [
+        "FRG",
+        "NATO AEW program",
+        "NATO allies"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "The technical complexities of incorporating a NATO AEW into the current ground system is a major German concern.",
+      "claim_type": "logistics",
+      "entities": [
+        "NATO AEW",
+        "ground system",
+        "Germans"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "The German military services are uniformly opposed to AWACS because they regard it as a threat to programs they have already endorsed and budgeted.",
+      "claim_type": "assessment",
+      "entities": [
+        "German military services",
+        "AWACS"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "The civilian leadership has been unable to overcome the reluctance of the German military services.",
+      "claim_type": "assessment",
+      "entities": [
+        "civilian leadership",
+        "German military services"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c15",
+      "claim_text": "The cable's author is inclined to view the German reservation regarding the ground support system as a serious one.",
+      "claim_type": "assessment",
+      "entities": [
+        "cable's author",
+        "German reservation",
+        "ground support system"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c16",
+      "claim_text": "From discussions with non-German sources, the cable's author has the impression that perhaps the FRG has raised the issue of the ground support system to use AWACS for improving the NADGE system.",
+      "claim_type": "attribution",
+      "entities": [
+        "non-German sources",
+        "cable's author",
+        "FRG",
+        "ground support system",
+        "AWACS",
+        "NADGE system"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c17",
+      "claim_text": "The tension building between the Germans and the British worries the cable's author most.",
+      "claim_type": "assessment",
+      "entities": [
+        "Germans",
+        "British",
+        "cable's author"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c18",
+      "claim_text": "Brandt on the German side suggested that the British would turn down the tank gun offer simply for reasons of prestige.",
+      "claim_type": "attribution",
+      "entities": [
+        "Brandt",
+        "Germans",
+        "British",
+        "tank gun offer"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c19",
+      "claim_text": "The cable's author believes American interests will not be served by the US stepping into the middle of the British-German dispute.",
+      "claim_type": "assessment",
+      "entities": [
+        "cable's author",
+        "American interests",
+        "US",
+        "British",
+        "Germans"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c20",
+      "claim_text": "The cable's author does not concur with London's recommendation to inform the British of any further demarche the US might make to the Germans, except perhaps in a very general way.",
+      "claim_type": "assessment",
+      "entities": [
+        "cable's author",
+        "London",
+        "British",
+        "US",
+        "Germans",
+        "demarche"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 5
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "What kind of increased effort was deemed necessary to encourage a particular nation's cooperation on an airborne warning system at a defense ministerial meeting in late 1976?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "FRG",
+        "AWACS",
+        "DPC Ministerial",
+        "December"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "Why did the cable's author disagree with a certain embassy's suggestion to notify a European nation about a planned diplomatic initiative?",
+      "question_style": "targeted",
+      "answer_type": "why",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Embassy London",
+        "UK",
+        "demarche"
+      ],
+      "leakage_score": 0.55
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "What was the observed trend in military cooperation issues between two major European allies around 1976?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "British",
+        "German",
+        "Alliance"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "What was the perceived wisdom regarding a major power's potential involvement in a dispute between two European nations?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "US",
+        "British",
+        "German"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "What was a certain minister's stated opinion on the significance and general idea of an airborne early warning system in early November 1976?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Minister Leber",
+        "AEW system",
+        "AEW concept",
+        "November 3"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "What specific concern did a particular European nation have about the operational reliability of an airborne warning and control system?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "FRG",
+        "AWACS"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "What were the primary reasons a certain nation was not persuaded to commit NATO to acquiring a specific airborne warning system around 1976?",
+      "question_style": "targeted",
+      "answer_type": "list",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "FRG",
+        "AWACS",
+        "NATO"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "What method was suggested as the most promising to influence a particular nation's position on a defense matter?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Leber",
+        "Secretary Rumsfeld",
+        "FRG"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "What significant financial aspect was a major worry for a European nation concerning an airborne early warning program?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Germans",
+        "AEW"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "What payment arrangement for an airborne early warning program would significantly alleviate concerns for a certain European nation?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "FRG",
+        "AEW program"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "What did a particular European nation stress about the scope and participation required for a NATO airborne early warning program?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "FRG",
+        "NATO AEW program",
+        "NATO allies"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "What technical integration challenge was a primary concern for a European nation regarding an airborne early warning system and its existing ground infrastructure?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "NATO AEW",
+        "ground system",
+        "German"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t13",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13"
+      ],
+      "question_text": "What was the reason for the consistent opposition of a European nation's military branches to a specific airborne warning and control system?",
+      "question_style": "targeted",
+      "answer_type": "why",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "German military services",
+        "AWACS"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t14",
+      "targets_claim_id": "c14",
+      "targets_claim_ids": [
+        "c14"
+      ],
+      "question_text": "What difficulty did a European nation's civilian leadership face in addressing the reservations of its military branches?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "civilian leadership",
+        "German military services"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t15",
+      "targets_claim_id": "c15",
+      "targets_claim_ids": [
+        "c15"
+      ],
+      "question_text": "How did the cable's author evaluate a certain European nation's objection concerning the ground support infrastructure?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "German reservation",
+        "ground support system"
+      ],
+      "leakage_score": 0.55
+    },
+    {
+      "question_id": "t16",
+      "targets_claim_id": "c16",
+      "targets_claim_ids": [
+        "c16"
+      ],
+      "question_text": "Based on information from non-national sources, what was the cable's author's impression of a certain nation's underlying reason for highlighting issues with the ground support system in relation to an airborne warning and control system?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "non-German sources",
+        "FRG",
+        "ground support system",
+        "AWACS",
+        "NADGE system"
+      ],
+      "leakage_score": 0.85
+    },
+    {
+      "question_id": "t17",
+      "targets_claim_id": "c17",
+      "targets_claim_ids": [
+        "c17"
+      ],
+      "question_text": "What was the cable's author's greatest concern regarding the evolving relationship between two major European powers around 1976?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Germans",
+        "British"
+      ],
+      "leakage_score": 0.55
+    },
+    {
+      "question_id": "t18",
+      "targets_claim_id": "c18",
+      "targets_claim_ids": [
+        "c18"
+      ],
+      "question_text": "What reason did a prominent figure from a European nation propose for another European nation's likely refusal of a military equipment proposal?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Brandt",
+        "Germans",
+        "British",
+        "tank gun offer"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t19",
+      "targets_claim_id": "c19",
+      "targets_claim_ids": [
+        "c19"
+      ],
+      "question_text": "What was the cable's author's assessment of how a major power's interests would be affected by its intervention in a dispute between two European allies?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "American interests",
+        "US",
+        "British",
+        "German dispute"
+      ],
+      "leakage_score": 0.55
+    },
+    {
+      "question_id": "t20",
+      "targets_claim_id": "c20",
+      "targets_claim_ids": [
+        "c20"
+      ],
+      "question_text": "What was the cable's author's opinion on a specific embassy's suggestion to notify a European nation about future diplomatic overtures from a major power to another European nation?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "London",
+        "British",
+        "US",
+        "Germans",
+        "demarche"
+      ],
+      "leakage_score": 0.55
+    },
+    {
+      "question_id": "q1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c5",
+        "c6",
+        "c7",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c13",
+        "c14",
+        "c15",
+        "c16"
+      ],
+      "question_text": "What were the key dynamics shaping the acquisition of new airborne early warning capabilities within NATO during 1976?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "AWACS",
+        "FRG",
+        "Germany",
+        "UK",
+        "Britain",
+        "DPC Ministerial",
+        "Leber",
+        "Rumsfeld",
+        "demarche",
+        "NADGE"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q2",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3",
+        "c4",
+        "c17",
+        "c18",
+        "c19"
+      ],
+      "question_text": "How were relations between the United Kingdom and West Germany evolving concerning Alliance military cooperation in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "friction",
+        "dispute",
+        "tank gun offer",
+        "Brandt"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q3",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c5",
+        "c6",
+        "c7",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c13",
+        "c14",
+        "c15",
+        "c16"
+      ],
+      "question_text": "What internal political and military dynamics influenced West German commitments to new, large-scale NATO defense programs in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "AWACS",
+        "AEW",
+        "Leber",
+        "military services",
+        "civilian leadership",
+        "ground system",
+        "NADGE",
+        "payments"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q4",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c4",
+        "c8",
+        "c19",
+        "c20"
+      ],
+      "question_text": "What was the general approach of U.S. diplomatic missions in coordinating strategy for major NATO defense initiatives and managing inter-ally sensitivities during 1976?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "demarche",
+        "London",
+        "Embassy",
+        "Rumsfeld",
+        "Leber",
+        "British",
+        "Germans",
+        "UK",
+        "FRG"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q5",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6",
+        "c7",
+        "c9",
+        "c10",
+        "c12",
+        "c15",
+        "c16"
+      ],
+      "question_text": "What were the prevailing financial and technical challenges for NATO member states when evaluating the integration of advanced surveillance and control systems into existing alliance infrastructure in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "AWACS",
+        "AEW",
+        "ground system",
+        "NADGE",
+        "payments",
+        "cost-studied"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c3",
+        "c4",
+        "c17",
+        "c19",
+        "c20"
+      ],
+      "question_text": "How did major alliance members typically navigate inter-allied friction when pursuing collective security initiatives?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c5",
+        "c6",
+        "c7",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c13",
+        "c14",
+        "c15",
+        "c16"
+      ],
+      "question_text": "What strategic and domestic considerations typically influenced a nation's willingness to commit to new multilateral defense programs?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c8",
+        "c20"
+      ],
+      "question_text": "What patterns characterized the use and effectiveness of high-level diplomatic interventions to influence allied positions on critical alliance policy?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-12T18:48:56.398Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 29587,
+    "cost_usd": 0.0049647
+  }
+}

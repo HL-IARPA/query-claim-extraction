@@ -1,0 +1,581 @@
+{
+  "doc_id": "1979BEIJIN09325",
+  "doc_subject": "(C) FORIGNERS RUMORED TO HAVE SOLD EVIDENCE LEADING TO WEI CONVICTION",
+  "doc_date": "1979",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "Chinese sources told foreign experts that some Chinese officials believe 'foreigner Guo Li' (William Guo), a former VISNEWS employee, sold evidence against 'counterrevolutionary' Wei Jingsheng to Chinese officials for one million dollars.",
+      "claim_type": "attribution",
+      "entities": [
+        "Chinese sources",
+        "foreign experts",
+        "Chinese officials",
+        "foreigner Guo Li",
+        "William Guo",
+        "VISNEWS",
+        "Wei Jingsheng"
+      ],
+      "time_bounds": {
+        "start": "1979",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "According to the story, Guo sold a tape recording of Wei revealing 'military intelligence' to Reuter's correspondent Ian Mackenzie.",
+      "claim_type": "attribution",
+      "entities": [
+        "Guo",
+        "Wei",
+        "military intelligence",
+        "Reuter's correspondent Ian Mackenzie"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The tape recording was evidence that was used to convict Wei in his October 16 trial.",
+      "claim_type": "event",
+      "entities": [
+        "tape recording",
+        "Wei"
+      ],
+      "time_bounds": {
+        "start": "1979-10-16",
+        "end": "1979-10-16"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "It is difficult to imagine such a transaction taking place.",
+      "claim_type": "assessment",
+      "entities": [
+        "transaction"
+      ],
+      "time_bounds": {
+        "start": "1979",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "The general belief among Wei's friends and other leading dissidents is that one or more foreigners provided evidence against Wei to Chinese Public Security officials.",
+      "claim_type": "attribution",
+      "entities": [
+        "Wei's friends",
+        "leading dissidents",
+        "foreigners",
+        "Wei",
+        "Chinese Public Security officials"
+      ],
+      "time_bounds": {
+        "start": "1979",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "The experts and their contacts believe the story is being officially encouraged.",
+      "claim_type": "attribution",
+      "entities": [
+        "experts",
+        "contacts",
+        "story"
+      ],
+      "time_bounds": {
+        "start": "1979",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "The story is being officially encouraged as another example of foreign involvement in the dissident movement.",
+      "claim_type": "assessment",
+      "entities": [
+        "story",
+        "foreign involvement",
+        "dissident movement"
+      ],
+      "time_bounds": {
+        "start": "1979",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "The story is being officially encouraged as an example of the unreliability of contacts with foreigners.",
+      "claim_type": "assessment",
+      "entities": [
+        "story",
+        "foreigners",
+        "contacts"
+      ],
+      "time_bounds": {
+        "start": "1979",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "The story is being officially encouraged as an example of the danger of contacts with foreigners.",
+      "claim_type": "assessment",
+      "entities": [
+        "story",
+        "foreigners",
+        "contacts"
+      ],
+      "time_bounds": {
+        "start": "1979",
+        "end": null
+      },
+      "importance": 4
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "According to some Chinese sources, what was the alleged payment received by a former media employee for evidence against a prominent activist?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Guo Li",
+        "William Guo",
+        "VISNEWS",
+        "Wei Jingsheng",
+        "one million dollars",
+        "counterrevolutionary"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "What type of recording, containing what kind of sensitive information, was reportedly sold to a foreign correspondent?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Guo",
+        "Wei",
+        "military intelligence",
+        "Reuter's correspondent",
+        "Ian Mackenzie"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "How was a specific audio recording utilized in the legal proceedings against a notable activist?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [],
+      "banned_terms": [
+        "tape recording",
+        "Wei",
+        "October 16 trial"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "What was the assessment regarding the likelihood of the alleged exchange occurring?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "transaction"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "According to associates of a prominent activist and other dissidents, what type of individuals allegedly provided evidence against the activist to government security authorities?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Wei's friends",
+        "Wei",
+        "Chinese Public Security officials",
+        "leading dissidents"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "What do certain observers and their sources believe about the official promotion of the narrative?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "experts",
+        "contacts",
+        "story"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "What is one stated purpose for the official promotion of the narrative, concerning external participation in activist groups?",
+      "question_style": "targeted",
+      "answer_type": "why",
+      "allowed_hints": [],
+      "banned_terms": [
+        "story",
+        "foreign involvement",
+        "dissident movement"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "What is another stated purpose for the official promotion of the narrative, regarding the trustworthiness of interactions with non-nationals?",
+      "question_style": "targeted",
+      "answer_type": "why",
+      "allowed_hints": [],
+      "banned_terms": [
+        "story",
+        "unreliability",
+        "contacts",
+        "foreigners"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "What is a further stated purpose for the official promotion of the narrative, concerning the risks of interactions with non-nationals?",
+      "question_style": "targeted",
+      "answer_type": "why",
+      "allowed_hints": [],
+      "banned_terms": [
+        "story",
+        "danger",
+        "contacts",
+        "foreigners"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c5",
+        "c7",
+        "c8",
+        "c9"
+      ],
+      "question_text": "What was the general state of official Chinese attitudes towards foreign involvement in domestic political discourse or dissident activities during the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Guo Li",
+        "William Guo",
+        "Wei Jingsheng",
+        "VISNEWS",
+        "Reuter's",
+        "Mackenzie",
+        "tape recording",
+        "military intelligence",
+        "one million dollars",
+        "conviction",
+        "Guo",
+        "Wei",
+        "foreigner",
+        "evidence",
+        "sold",
+        "trial"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q2",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6",
+        "c7",
+        "c8",
+        "c9"
+      ],
+      "question_text": "How were Chinese authorities attempting to influence public perception regarding the trustworthiness and intentions of foreign individuals interacting with local populations in the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Guo Li",
+        "William Guo",
+        "Wei Jingsheng",
+        "VISNEWS",
+        "Reuter's",
+        "Mackenzie",
+        "tape recording",
+        "military intelligence",
+        "one million dollars",
+        "conviction",
+        "Guo",
+        "Wei",
+        "foreigner",
+        "evidence",
+        "sold",
+        "trial"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q3",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c5",
+        "c7"
+      ],
+      "question_text": "What were the prevailing dynamics between the Chinese dissident community and foreign contacts or media outlets in the period leading up to 1979?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Guo Li",
+        "William Guo",
+        "Wei Jingsheng",
+        "VISNEWS",
+        "Reuter's",
+        "Mackenzie",
+        "tape recording",
+        "military intelligence",
+        "one million dollars",
+        "conviction",
+        "Guo",
+        "Wei",
+        "foreigner",
+        "evidence",
+        "sold",
+        "trial"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q4",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c3",
+        "c5"
+      ],
+      "question_text": "What methods did Chinese security and intelligence agencies typically employ to monitor and gather information on prominent political dissidents during the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Guo Li",
+        "William Guo",
+        "Wei Jingsheng",
+        "VISNEWS",
+        "Reuter's",
+        "Mackenzie",
+        "tape recording",
+        "military intelligence",
+        "one million dollars",
+        "conviction",
+        "Guo",
+        "Wei",
+        "foreigner",
+        "evidence",
+        "sold",
+        "trial"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q5",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c4"
+      ],
+      "question_text": "What was the general environment for financial transactions or information exchange between foreign nationals and Chinese citizens concerning sensitive political matters in the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Guo Li",
+        "William Guo",
+        "Wei Jingsheng",
+        "VISNEWS",
+        "Reuter's",
+        "Mackenzie",
+        "tape recording",
+        "military intelligence",
+        "one million dollars",
+        "conviction",
+        "Guo",
+        "Wei",
+        "foreigner",
+        "evidence",
+        "sold",
+        "trial"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c5",
+        "c7",
+        "c8",
+        "c9"
+      ],
+      "question_text": "What patterns characterize government efforts to discredit foreign involvement in domestic political or dissident movements?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "Guo Li",
+        "Wei Jingsheng",
+        "VISNEWS",
+        "Reuter's",
+        "Ian Mackenzie",
+        "one million dollars",
+        "tape recording",
+        "military intelligence"
+      ],
+      "leakage_score": 0.24
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c6",
+        "c7",
+        "c8",
+        "c9"
+      ],
+      "question_text": "How do diplomatic assessments evaluate the strategic motivations behind governments officially encouraging specific rumors or narratives?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "Guo Li",
+        "Wei Jingsheng",
+        "VISNEWS",
+        "Reuter's",
+        "Ian Mackenzie",
+        "one million dollars",
+        "tape recording",
+        "military intelligence"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c5"
+      ],
+      "question_text": "What recurring themes emerge in diplomatic reporting concerning the alleged use of foreign-sourced evidence in politically sensitive domestic trials?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "Guo Li",
+        "Wei Jingsheng",
+        "VISNEWS",
+        "Reuter's",
+        "Ian Mackenzie",
+        "one million dollars",
+        "tape recording",
+        "military intelligence"
+      ],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-12T18:59:30.813Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 15354,
+    "cost_usd": 0.0028383
+  }
+}

@@ -1,0 +1,702 @@
+{
+  "doc_id": "1978TRIPOL01121",
+  "doc_subject": "LIBYAN INVOLVEMENT IN TERRORIST INCIDENT",
+  "doc_date": "1978",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "The reporting post shares the Department's interest in obtaining additional information regarding Libya's role in the Orly Airport terrorist incident.",
+      "claim_type": "assessment",
+      "entities": [
+        "Department",
+        "Libya",
+        "Orly Airport"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The only information seen in traffic thus far is that arms used by terrorists were at an unknown time purchased from Italy by Libya.",
+      "claim_type": "attribution",
+      "entities": [
+        "arms",
+        "terrorists",
+        "Italy",
+        "Libya"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The Libyans could easily side-step the issue of arms purchase by observing that their long-term support for Palestinian resistance movements, including provision of arms, is no secret.",
+      "claim_type": "assessment",
+      "entities": [
+        "Libyans",
+        "Palestinian resistance movements",
+        "arms"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "The Libyans could easily side-step the issue of arms purchase by observing that how Palestinians use such arms is not Libyan responsibility.",
+      "claim_type": "assessment",
+      "entities": [
+        "Libyans",
+        "Palestinians",
+        "arms"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "It would be different if there was information that Libyans had armed terrorists specifically for Orly operations.",
+      "claim_type": "assessment",
+      "entities": [
+        "Libyans",
+        "terrorists",
+        "Orly operations"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "It would be different if there was information that arms had been transported to France by Libyans.",
+      "claim_type": "assessment",
+      "entities": [
+        "arms",
+        "France",
+        "Libyans"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "If evidence of direct Libyan involvement is obtained, Embassy Tripoli would recommend joining in a demarche to the Libyan government.",
+      "claim_type": "plan",
+      "entities": [
+        "Libyan involvement",
+        "Embassy Tripoli",
+        "Libyan government",
+        "demarche"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "A problem has been the absence of convincing evidence linking the Libyan government with recent terrorist incidents.",
+      "claim_type": "assessment",
+      "entities": [
+        "Libyan government",
+        "terrorist incidents"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "The absence of convincing evidence prevents justification for a ban on export to Libya of Oshkosh trucks.",
+      "claim_type": "assessment",
+      "entities": [
+        "Libya",
+        "Oshkosh trucks"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "The absence of convincing evidence prevents justification for an announcement of restriction on Boeings to Libya.",
+      "claim_type": "assessment",
+      "entities": [
+        "Libya",
+        "Boeings"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "US policy would be better understood by those within the Libyan government who say they are working for improved US-Libyan relations if hard information regarding Libyan involvement at Orly could be cited.",
+      "claim_type": "assessment",
+      "entities": [
+        "United States",
+        "Libyan government",
+        "US-Libyan relations",
+        "Libyan involvement",
+        "Orly"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "If Libyan participation in the Orly attack was limited to the original purchase of arms, a demarche would carry little weight.",
+      "claim_type": "assessment",
+      "entities": [
+        "Libyan participation",
+        "Orly attack",
+        "arms",
+        "demarche"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "Libyans would consider themselves victims of a hostile campaign if a demarche was based on a limited connection with the Orly attack.",
+      "claim_type": "assessment",
+      "entities": [
+        "Libyans",
+        "demarche",
+        "Orly attack"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "Tunisians reportedly furnished passports in connection with the Orly attack.",
+      "claim_type": "event",
+      "entities": [
+        "Tunisians",
+        "passports",
+        "Orly attack"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": null
+      },
+      "importance": 3
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "What additional information was sought regarding a particular nation's involvement in an airport incident?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Libya",
+        "Orly Airport",
+        "Department"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "From which country were the weapons used by terrorists reportedly acquired by a certain nation?",
+      "question_style": "targeted",
+      "answer_type": "where",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Italy",
+        "Libya",
+        "arms",
+        "terrorists"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "How might a particular nation explain its provision of weapons to resistance movements?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Libyans",
+        "Palestinian resistance movements",
+        "arms"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "What argument might a specific nation use to disclaim responsibility for how supplied weapons are utilized?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Libyans",
+        "Palestinians",
+        "arms"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "What specific information about a nation arming individuals for a particular operation would alter the assessment?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Libyans",
+        "terrorists",
+        "Orly operations"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "What specific information about a nation transporting weapons to a European country would alter the assessment?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "arms",
+        "France",
+        "Libyans"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "What diplomatic action would be recommended if direct evidence of a particular nation's involvement was obtained?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Libyan involvement",
+        "Embassy Tripoli",
+        "Libyan government",
+        "demarche"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "What has been the primary challenge in connecting a specific government to recent incidents?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Libyan government",
+        "terrorist incidents"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "What specific export restriction to a certain nation is not justified due to a lack of evidence?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Libya",
+        "Oshkosh trucks"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "What specific restriction on aircraft sales to a certain nation is not justified due to a lack of evidence?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Libya",
+        "Boeings"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "What type of information, if cited, would improve understanding of a nation's policy among those in another government seeking better relations?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "United States",
+        "Libyan government",
+        "US-Libyan relations",
+        "Libyan involvement",
+        "Orly"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "What would be the perceived effectiveness of a diplomatic action if a nation's connection to an incident was limited to initial weapon acquisition?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Libyan participation",
+        "Orly attack",
+        "arms",
+        "demarche"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t13",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13"
+      ],
+      "question_text": "How would a specific nation perceive a diplomatic action if it were based on a limited connection to a particular incident?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Libyans",
+        "demarche",
+        "Orly attack"
+      ],
+      "leakage_score": 0.35
+    },
+    {
+      "question_id": "t14",
+      "targets_claim_id": "c14",
+      "targets_claim_ids": [
+        "c14"
+      ],
+      "question_text": "Which nationality reportedly supplied travel documents related to a specific attack?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Tunisians",
+        "passports",
+        "Orly attack"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q1",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3",
+        "c4",
+        "c5",
+        "c12"
+      ],
+      "question_text": "What was the general state of Libya's foreign policy regarding support for Palestinian resistance movements in the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Orly",
+        "arms purchase",
+        "terrorist incident"
+      ],
+      "leakage_score": 0.33
+    },
+    {
+      "question_id": "c_q2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c7",
+        "c8",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c13"
+      ],
+      "question_text": "How were Western governments generally responding to allegations of state involvement in international terrorist incidents during 1978?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Libya",
+        "Orly",
+        "demarche",
+        "Oshkosh",
+        "Boeings"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "c_q3",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c7",
+        "c8",
+        "c9",
+        "c10",
+        "c11"
+      ],
+      "question_text": "What were the key dynamics shaping U.S. diplomatic relations with Libya in the period surrounding 1978?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Orly",
+        "terrorist incident",
+        "arms"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "c_q4",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c3",
+        "c4",
+        "c6",
+        "c12"
+      ],
+      "question_text": "What trends characterized the procurement of arms by Middle Eastern states from European suppliers in the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Libya",
+        "Italy",
+        "terrorists",
+        "Palestinians",
+        "Orly"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "c_q5",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c5",
+        "c6",
+        "c7",
+        "c8",
+        "c11",
+        "c12",
+        "c13"
+      ],
+      "question_text": "What challenges did intelligence agencies face in attributing responsibility for international terrorist attacks in the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Libya",
+        "Orly",
+        "arms",
+        "Tunisians"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7",
+        "c8",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c13"
+      ],
+      "question_text": "What patterns characterized the relationship between the availability of convincing evidence and the nature of diplomatic or policy responses to alleged state support for non-state actors?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "c12"
+      ],
+      "question_text": "What strategic considerations influenced state actors' attempts to distinguish between general support for non-state groups and direct involvement in specific hostile actions?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7",
+        "c12",
+        "c13"
+      ],
+      "question_text": "How did the perceived level of direct state involvement in hostile incidents affect the strategic utility and impact of diplomatic pressure?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-12T18:58:43.148Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 17569,
+    "cost_usd": 0.0035083500000000004
+  }
+}

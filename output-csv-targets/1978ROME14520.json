@@ -1,0 +1,677 @@
+{
+  "doc_id": "1978ROME14520",
+  "doc_subject": "LIBYAN INVOLVEMENT IN TERRORIST INCIDENT",
+  "doc_date": "1978",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "The USG followed up an earlier demarche (Ref B) with MFA Director for Middle Eastern Affairs Santarelli on August 7, 1978.",
+      "claim_type": "event",
+      "entities": [
+        "USG",
+        "MFA Director for Middle Eastern Affairs Santarelli"
+      ],
+      "time_bounds": {
+        "start": "1978-08-07",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "Santarelli said that the French informed the Italians about the origin of weapons used in a terrorist incident at Orly.",
+      "claim_type": "attribution",
+      "entities": [
+        "Santarelli",
+        "French",
+        "Italians",
+        "Orly"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1978-08-07"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "Santarelli said that the MFA instructed the Italian Ambassador in Tripoli to raise the issue with the Libyans.",
+      "claim_type": "attribution",
+      "entities": [
+        "Santarelli",
+        "MFA",
+        "Italian Ambassador",
+        "Tripoli",
+        "Libyans"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1978-08-07"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "The GOL has not yet responded to the demarche.",
+      "claim_type": "event",
+      "entities": [
+        "GOL"
+      ],
+      "time_bounds": {
+        "start": "1978-08-07",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "The Italians are satisfied that the GOL knows that the GOI knows of Libyan supply of Italian arms to terrorists.",
+      "claim_type": "assessment",
+      "entities": [
+        "Italians",
+        "GOL",
+        "GOI",
+        "Libyan",
+        "terrorists"
+      ],
+      "time_bounds": {
+        "start": "1978-08-07",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "Santarelli cautioned that the foregoing information is considered very sensitive in the GOI.",
+      "claim_type": "attribution",
+      "entities": [
+        "Santarelli",
+        "GOI"
+      ],
+      "time_bounds": {
+        "start": "1978-08-07",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "Santarelli cautioned that the foregoing information is for USG information only.",
+      "claim_type": "attribution",
+      "entities": [
+        "Santarelli",
+        "USG"
+      ],
+      "time_bounds": {
+        "start": "1978-08-07",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "Santarelli cautioned that the foregoing information should not be discussed with Italian diplomats elsewhere or with other governments.",
+      "claim_type": "attribution",
+      "entities": [
+        "Santarelli",
+        "Italian diplomats",
+        "other governments"
+      ],
+      "time_bounds": {
+        "start": "1978-08-07",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "Santarelli said the MFA is not clear about exactly what is intended regarding a joint demarche.",
+      "claim_type": "attribution",
+      "entities": [
+        "Santarelli",
+        "MFA"
+      ],
+      "time_bounds": {
+        "start": "1978-08-07",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "The Italians are not necessarily opposed to the idea of a further demarche.",
+      "claim_type": "assessment",
+      "entities": [
+        "Italians"
+      ],
+      "time_bounds": {
+        "start": "1978-08-07",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "The Italians feel that they have already registered their reaction in a bilateral approach.",
+      "claim_type": "assessment",
+      "entities": [
+        "Italians"
+      ],
+      "time_bounds": {
+        "start": "1978-08-07",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "For political and economic reasons, the USG does not believe the Italians would be willing to join in a \"tough demarche\" to the Libyans on this issue.",
+      "claim_type": "assessment",
+      "entities": [
+        "USG",
+        "Italians",
+        "Libyans"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "From the Italian point of view, they have already taken a courageous step in confronting the GOL with their knowledge of weapons supply.",
+      "claim_type": "assessment",
+      "entities": [
+        "Italians",
+        "GOL"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "The Italians are not likely to want to pursue the issue with the GOL any further.",
+      "claim_type": "assessment",
+      "entities": [
+        "Italians",
+        "GOL"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 5
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "When did the U.S. government conduct a follow-up demarche with a foreign ministry official concerning Middle Eastern affairs?",
+      "question_style": "targeted",
+      "answer_type": "when",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Santarelli",
+        "August 7, 1978",
+        "MFA Director for Middle Eastern Affairs"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "According to a foreign ministry official, which nation provided information to another European nation regarding the source of arms used in a recent terrorist event at an airport?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Santarelli",
+        "French",
+        "Italians",
+        "Orly"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "What instructions did a European foreign ministry give its ambassador in a North African capital regarding an issue with the local government, as reported by an official?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Santarelli",
+        "MFA",
+        "Italian Ambassador",
+        "Tripoli",
+        "Libyans"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "Has the government of a North African nation provided a response to the diplomatic representation it received?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "GOL",
+        "demarche"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "What specific understanding do European officials believe a North African government possesses regarding the provision of European-made weapons to non-state actors?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Italians",
+        "GOL",
+        "GOI",
+        "Libyan",
+        "Italian arms",
+        "terrorists"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "What was a foreign ministry official's warning about the internal sensitivity of the discussed information within their government?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Santarelli",
+        "GOI"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "What restriction did a foreign ministry official place on the dissemination of the shared information, specifying its intended recipient?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Santarelli",
+        "USG"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "What specific instructions did a foreign ministry official provide regarding the discussion of the sensitive information with other diplomatic representatives or foreign entities?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Santarelli",
+        "Italian diplomats",
+        "other governments"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "According to a foreign ministry official, what was the foreign ministry's understanding regarding the precise intentions for a collaborative diplomatic representation?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Santarelli",
+        "MFA",
+        "joint demarche"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "What is the general attitude of European officials towards the concept of undertaking an additional diplomatic representation?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Italians",
+        "further demarche"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "How do European officials believe they have already communicated their position on the issue?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Italians",
+        "bilateral approach"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "What factors lead the U.S. government to assess that a European nation would be disinclined to participate in a strong diplomatic protest to a North African government on this matter?",
+      "question_style": "targeted",
+      "answer_type": "why",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "USG",
+        "Italians",
+        "Libyans",
+        "tough demarche"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t13",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13"
+      ],
+      "question_text": "From the perspective of European officials, what significant action have they already undertaken in addressing a North African government about its awareness of arms provision?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Italian",
+        "GOL",
+        "weapons supply"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t14",
+      "targets_claim_id": "c14",
+      "targets_claim_ids": [
+        "c14"
+      ],
+      "question_text": "What is the anticipated willingness of European officials to continue addressing this matter with a North African government?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Italians",
+        "GOL"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q1",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3",
+        "c4",
+        "c5",
+        "c11",
+        "c13",
+        "c14"
+      ],
+      "question_text": "What was the general state of diplomatic relations between Italy and Libya regarding security concerns in 1978?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "demarche",
+        "Orly",
+        "weapons",
+        "terrorist incident",
+        "arms supply"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c9",
+        "c10"
+      ],
+      "question_text": "How were European nations coordinating their responses to international terrorism, particularly concerning arms proliferation, in the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "demarche",
+        "Orly",
+        "weapons",
+        "terrorist incident",
+        "arms supply",
+        "French",
+        "Italians"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q3",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c13"
+      ],
+      "question_text": "What were the prevailing attitudes among Western European governments towards joint diplomatic initiatives versus bilateral approaches on sensitive security matters in the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "demarche",
+        "Orly",
+        "weapons",
+        "terrorist incident",
+        "arms supply",
+        "Libyans"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q4",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6",
+        "c12",
+        "c14"
+      ],
+      "question_text": "What political and economic factors influenced Italy's foreign policy decisions regarding North African states in the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "demarche",
+        "Orly",
+        "weapons",
+        "terrorist incident",
+        "arms supply",
+        "Libyans"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q5",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6",
+        "c7",
+        "c8"
+      ],
+      "question_text": "What were the common protocols and sensitivities surrounding the sharing of intelligence or sensitive diplomatic information among allied governments in the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Santarelli",
+        "USG",
+        "Italian diplomats",
+        "other governments",
+        "GOI"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c5",
+        "c6",
+        "c7",
+        "c8"
+      ],
+      "question_text": "What patterns characterize the handling and restriction of sensitive intelligence or diplomatic information within allied communications?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c3",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c13",
+        "c14"
+      ],
+      "question_text": "What strategic considerations drive allied preferences for bilateral versus multilateral diplomatic engagement on sensitive security matters?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c3",
+        "c10",
+        "c11",
+        "c12",
+        "c13",
+        "c14"
+      ],
+      "question_text": "How do the domestic political and economic constraints of allied nations influence their willingness to participate in joint diplomatic initiatives?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-12T18:51:06.723Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 17599,
+    "cost_usd": 0.0035324999999999996
+  }
+}

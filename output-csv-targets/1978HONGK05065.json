@@ -1,0 +1,646 @@
+{
+  "doc_id": "1978HONGK05065",
+  "doc_subject": "HONG KONG GOVERNMENT ATTITUDES TOWARD SINO-AMERICAN RELATIONS",
+  "doc_date": "1978",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "An referenced INR report did not specifically mention Hong Kong.",
+      "claim_type": "event",
+      "entities": [
+        "INR",
+        "Hong Kong"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1978"
+      },
+      "importance": 2
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The Hong Kong Government's (HKG) views on Sino-US relations and normalization were summarized recently by the HKG Political Advisor.",
+      "claim_type": "attribution",
+      "entities": [
+        "Hong Kong Government",
+        "HKG Political Advisor",
+        "Sino-US relations"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1978"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The HKG Political Advisor said that China's relations with the US and the West in general have improved.",
+      "claim_type": "assessment",
+      "entities": [
+        "HKG Political Advisor",
+        "China",
+        "US",
+        "The West"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1978"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "The HKG Political Advisor said that Hong Kong's interaction with China has become easier and more productive as China's relations with the US and the West improved.",
+      "claim_type": "relationship",
+      "entities": [
+        "HKG Political Advisor",
+        "Hong Kong",
+        "China",
+        "US",
+        "The West"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1978"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "The POLAD believed normalization would neither directly benefit nor affect Hong Kong.",
+      "claim_type": "assessment",
+      "entities": [
+        "POLAD",
+        "normalization",
+        "Hong Kong"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "The POLAD believed normalization would affect Hong Kong if the PRC took action against Taiwan.",
+      "claim_type": "assessment",
+      "entities": [
+        "POLAD",
+        "normalization",
+        "Hong Kong",
+        "PRC",
+        "Taiwan"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "The POLAD believed a Chinese attack or even threat thereof against Taiwan would cause a massive capital hemorrhage from Hong Kong.",
+      "claim_type": "assessment",
+      "entities": [
+        "POLAD",
+        "China",
+        "Taiwan",
+        "Hong Kong"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "The POLAD believed a massive capital hemorrhage from Hong Kong could irreversibly destabilize the colony.",
+      "claim_type": "assessment",
+      "entities": [
+        "POLAD",
+        "Hong Kong"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "The POLAD did not expect a PRC move against Taiwan in the near term.",
+      "claim_type": "assessment",
+      "entities": [
+        "POLAD",
+        "PRC",
+        "Taiwan"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "The POLAD thought Peking would concentrate on reincorporating Taiwan in other ways.",
+      "claim_type": "assessment",
+      "entities": [
+        "POLAD",
+        "Peking",
+        "Taiwan"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "The POLAD thought Peking would turn to the question of Hong Kong and Macau after reincorporating Taiwan.",
+      "claim_type": "assessment",
+      "entities": [
+        "POLAD",
+        "Peking",
+        "Hong Kong",
+        "Macau",
+        "Taiwan"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 4
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "What was the content regarding a certain Asian territory in a referenced intelligence report?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "INR",
+        "Hong Kong",
+        "specifically mention"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "Who recently provided a summary of a particular government's perspective on relations between two major powers and their normalization?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Hong Kong Government",
+        "HKG",
+        "Sino-US relations",
+        "normalization",
+        "Political Advisor",
+        "summarized recently"
+      ],
+      "leakage_score": 0.1
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "According to a government advisor, what was the status of a major Asian nation's relations with the United States and Western countries?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "HKG Political Advisor",
+        "China's relations",
+        "US",
+        "The West",
+        "improved"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "How did a government advisor characterize the interaction between a specific territory and a major Asian nation, in light of that nation's improved ties with the US and Western countries?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "HKG Political Advisor",
+        "Hong Kong's interaction",
+        "China",
+        "easier and more productive",
+        "US",
+        "The West",
+        "improved"
+      ],
+      "leakage_score": 0.1
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "What was the assessment of a political advisor regarding the direct impact of normalization on a particular Asian territory?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "POLAD",
+        "normalization",
+        "Hong Kong",
+        "neither directly benefit nor affect"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "According to a political advisor, what specific action by a major Asian power would cause normalization to affect a certain territory?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "POLAD",
+        "normalization",
+        "Hong Kong",
+        "PRC",
+        "Taiwan",
+        "took action against"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "What significant financial outflow did a political advisor anticipate for a certain territory if a major Asian power initiated or threatened action against a neighboring island?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "POLAD",
+        "Chinese attack",
+        "threat thereof",
+        "Taiwan",
+        "massive capital hemorrhage",
+        "Hong Kong"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "What potential long-term consequence did a political advisor foresee for a specific territory due to a substantial outflow of capital?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "POLAD",
+        "massive capital hemorrhage",
+        "Hong Kong",
+        "irreversibly destabilize the colony"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "What was a political advisor's short-term outlook on a major Asian power's actions concerning a neighboring island?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "POLAD",
+        "PRC move",
+        "Taiwan",
+        "near term"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "What alternative methods did a political advisor believe a major Asian capital would prioritize for the reincorporation of a specific island?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "POLAD",
+        "Peking",
+        "reincorporating Taiwan",
+        "other ways"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "According to a political advisor, what specific territories would a major Asian capital address after the reincorporation of a particular island?",
+      "question_style": "targeted",
+      "answer_type": "list",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "POLAD",
+        "Peking",
+        "Hong Kong",
+        "Macau",
+        "after reincorporating Taiwan"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q1",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c3",
+        "c5",
+        "c6"
+      ],
+      "question_text": "What was the general state of Sino-American relations and the prospects for their normalization in the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "INR report",
+        "Political Advisor",
+        "Hong Kong Government's views"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c4",
+        "c5",
+        "c6",
+        "c7",
+        "c8"
+      ],
+      "question_text": "How were various regional actors assessing the impact of evolving superpower relations on their own stability and economic prospects in the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "POLAD",
+        "Hong Kong",
+        "capital hemorrhage",
+        "destabilize the colony"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q3",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6",
+        "c7",
+        "c9",
+        "c10",
+        "c11"
+      ],
+      "question_text": "What were the prevailing diplomatic assessments regarding China's long-term intentions and strategies concerning Taiwan in the period leading up to 1978?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "POLAD",
+        "PRC move against Taiwan",
+        "Peking would concentrate",
+        "reincorporating Taiwan"
+      ],
+      "leakage_score": 0.24
+    },
+    {
+      "question_id": "q4",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3",
+        "c4"
+      ],
+      "question_text": "What were the key dynamics shaping China's broader diplomatic engagement with Western nations in the mid-to-late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "HKG Political Advisor",
+        "Hong Kong's interaction",
+        "US"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q5",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7",
+        "c8",
+        "c11"
+      ],
+      "question_text": "How did regional economic centers perceive potential geopolitical shifts affecting their financial stability and future status in the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "POLAD",
+        "Hong Kong",
+        "Macau",
+        "capital hemorrhage",
+        "destabilize the colony"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "c7",
+        "c8"
+      ],
+      "question_text": "How do dependent territories typically assess the impact of major power diplomatic shifts on their own stability and interests?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "Hong Kong",
+        "China",
+        "US",
+        "Taiwan",
+        "PRC",
+        "POLAD",
+        "INR",
+        "normalization",
+        "HKG"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6",
+        "c7",
+        "c8",
+        "c9",
+        "c10",
+        "c11"
+      ],
+      "question_text": "What strategic considerations typically influence a major power's approach to territorial reincorporation, particularly regarding potential economic destabilization of adjacent territories?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "Hong Kong",
+        "China",
+        "US",
+        "Taiwan",
+        "PRC",
+        "POLAD",
+        "INR",
+        "normalization",
+        "Peking"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "c7",
+        "c8",
+        "c9",
+        "c10",
+        "c11"
+      ],
+      "question_text": "What patterns characterize the geopolitical assessments provided by local political advisors or similar diplomatic representatives regarding the implications of major international developments for their host or dependent territories?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "Hong Kong",
+        "China",
+        "US",
+        "Taiwan",
+        "PRC",
+        "POLAD",
+        "INR",
+        "normalization",
+        "HKG"
+      ],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-12T18:57:52.868Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 14114,
+    "cost_usd": 0.00308295
+  }
+}

@@ -1,0 +1,816 @@
+{
+  "doc_id": "1978STATE215093",
+  "doc_subject": "FRENCH-SOVIET CONSULTATIONS ON AFRICA",
+  "doc_date": "1978",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "Quai Director for Africa (Georgy) believes the Soviets maintain their ambitions for expansion in Africa.",
+      "claim_type": "assessment",
+      "entities": [
+        "Georgy",
+        "Soviets",
+        "Africa"
+      ],
+      "time_bounds": {
+        "start": "1978-08",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "Georgy thinks the Soviets are currently taking one step back in Africa to avoid confrontation with the West.",
+      "claim_type": "assessment",
+      "entities": [
+        "Georgy",
+        "Soviets",
+        "Africa",
+        "West"
+      ],
+      "time_bounds": {
+        "start": "1978-08",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The Soviets stressed the need to \"de-dramatize\" the African situation.",
+      "claim_type": "event",
+      "entities": [
+        "Soviets",
+        "Africa"
+      ],
+      "time_bounds": {
+        "start": "1978-08",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "Georgy reports that the Soviets appeared to value the opportunity to discuss Africa with the French.",
+      "claim_type": "attribution",
+      "entities": [
+        "Georgy",
+        "Soviets",
+        "French",
+        "Africa"
+      ],
+      "time_bounds": {
+        "start": "1978-08",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "The Soviets told Georgy they cannot discuss Africa with other powers.",
+      "claim_type": "attribution",
+      "entities": [
+        "Soviets",
+        "Georgy",
+        "Africa",
+        "other powers"
+      ],
+      "time_bounds": {
+        "start": "1978-08",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "The Soviets stated that discussions with the US always come back to strategic issues such as SALT.",
+      "claim_type": "attribution",
+      "entities": [
+        "Soviets",
+        "US",
+        "SALT"
+      ],
+      "time_bounds": {
+        "start": "1978-08",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "Georgy thought the Soviets had little real understanding of the complexities and fragility of African affairs.",
+      "claim_type": "assessment",
+      "entities": [
+        "Georgy",
+        "Soviets",
+        "African affairs"
+      ],
+      "time_bounds": {
+        "start": "1978-08",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "Georgy surmised that the Soviets were in the process of taking one step back after trying to take two big steps forward and meeting Western resistance.",
+      "claim_type": "assessment",
+      "entities": [
+        "Georgy",
+        "Soviets",
+        "Western resistance"
+      ],
+      "time_bounds": {
+        "start": "1978-08",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "Georgy said the Soviets appeared to see the Western role in Africa in terms of encirclement of the Soviet Union.",
+      "claim_type": "attribution",
+      "entities": [
+        "Georgy",
+        "Soviets",
+        "West",
+        "Africa",
+        "Soviet Union"
+      ],
+      "time_bounds": {
+        "start": "1978-08",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "Georgy said the Soviets claimed the US airlift of troops to Shaba was part of a broad NATO strategy.",
+      "claim_type": "attribution",
+      "entities": [
+        "Georgy",
+        "Soviets",
+        "US",
+        "Shaba",
+        "NATO"
+      ],
+      "time_bounds": {
+        "start": "1978-08",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "Georgy believes the Soviets have an important interest in stability in North Africa.",
+      "claim_type": "assessment",
+      "entities": [
+        "Georgy",
+        "Soviets",
+        "North Africa"
+      ],
+      "time_bounds": {
+        "start": "1978-08",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "Georgy said the expansion of Soviet ties with Morocco has placed the Soviets in a position where they wish to avoid choosing sides between the Algerians and the Moroccans.",
+      "claim_type": "attribution",
+      "entities": [
+        "Georgy",
+        "Soviets",
+        "Morocco",
+        "Algerians"
+      ],
+      "time_bounds": {
+        "start": "1978-08",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "Georgy believes the Soviets would probably \"do what was necessary\" to make possible a settlement in the Sahara.",
+      "claim_type": "assessment",
+      "entities": [
+        "Georgy",
+        "Soviets",
+        "Sahara"
+      ],
+      "time_bounds": {
+        "start": "1978-08",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "Georgy said the Soviets were deeply troubled by Qadhafi because of his adventurism and religious fanaticism.",
+      "claim_type": "attribution",
+      "entities": [
+        "Georgy",
+        "Soviets",
+        "Qadhafi"
+      ],
+      "time_bounds": {
+        "start": "1978-08",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c15",
+      "claim_text": "Georgy noted that the Soviets were particularly angered that Jalloud chose to visit Peking when the Sino-Japanese Peace and Friendship Treaty was signed.",
+      "claim_type": "attribution",
+      "entities": [
+        "Georgy",
+        "Soviets",
+        "Jalloud",
+        "Peking",
+        "Sino-Japanese Peace and Friendship Treaty"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c16",
+      "claim_text": "Georgy thought the consultations had been worthwhile.",
+      "claim_type": "assessment",
+      "entities": [
+        "Georgy",
+        "consultations"
+      ],
+      "time_bounds": {
+        "start": "1978-08",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c17",
+      "claim_text": "The cable's author would not be surprised if the consultations were to become a regular feature of Franco-Soviet relations.",
+      "claim_type": "assessment",
+      "entities": [
+        "Franco-Soviet relations",
+        "consultations"
+      ],
+      "time_bounds": {
+        "start": "1978-08",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c18",
+      "claim_text": "Quai Director for Africa (Georgy) returned from two days of intensive consultations in Moscow on Africa, August 9-10.",
+      "claim_type": "event",
+      "entities": [
+        "Georgy",
+        "Moscow",
+        "Africa"
+      ],
+      "time_bounds": {
+        "start": "1978-08-09",
+        "end": "1978-08-10"
+      },
+      "importance": 3
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "What was the assessment of a French official regarding Soviet expansionist goals in Africa?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Quai Director for Africa",
+        "Georgy",
+        "Soviets maintain their ambitions for expansion in Africa"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "According to a French official, what tactical approach were the Soviets employing in Africa to prevent conflict with Western powers?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Georgy",
+        "Soviets are currently taking one step back in Africa to avoid confrontation with the West"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "What did Soviet representatives emphasize was necessary regarding the situation in Africa?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Soviets stressed the need to \"de-dramatize\" the African situation"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "How did Soviet representatives seem to regard the chance to engage in talks about Africa with French counterparts?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Georgy",
+        "Soviets appeared to value the opportunity to discuss Africa with the French"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "What did Soviet representatives communicate about their ability to discuss African matters with other nations?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Soviets told Georgy they cannot discuss Africa with other powers"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "According to Soviet representatives, what type of issues consistently dominated their discussions with American officials?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Soviets stated that discussions with the US always come back to strategic issues such as SALT"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "What was a French official's opinion on the Soviet grasp of the intricate nature of African political matters?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Georgy",
+        "Soviets had little real understanding of the complexities and fragility of African affairs"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "What was a French official's hypothesis regarding the Soviets' current strategic retreat, following prior advances and encountering opposition?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Georgy",
+        "Soviets were in the process of taking one step back after trying to take two big steps forward and meeting Western resistance"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "How did Soviet representatives reportedly view the involvement of Western powers in Africa?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Georgy",
+        "Soviets appeared to see the Western role in Africa in terms of encirclement of the Soviet Union"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "What did Soviet representatives assert about the American military air transport operation in a specific African region?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Georgy",
+        "Soviets claimed the US airlift of troops to Shaba was part of a broad NATO strategy"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "What significant interest did a French official attribute to the Soviets concerning the stability of North Africa?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Georgy",
+        "Soviets have an important interest in stability in North Africa"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "According to a French official, what development led the Soviets to a position of desiring to remain neutral between two North African states?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Georgy",
+        "expansion of Soviet ties with Morocco has placed the Soviets in a position where they wish to avoid choosing sides between the Algerians and the Moroccans"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t13",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13"
+      ],
+      "question_text": "What did a French official anticipate the Soviets would likely do to facilitate a resolution in the Sahara region?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Georgy",
+        "Soviets would probably \"do what was necessary\" to make possible a settlement in the Sahara"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t14",
+      "targets_claim_id": "c14",
+      "targets_claim_ids": [
+        "c14"
+      ],
+      "question_text": "What were the reported reasons for Soviet representatives' significant concern regarding a particular North African leader?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Georgy",
+        "Soviets were deeply troubled by Qadhafi because of his adventurism and religious fanaticism"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t15",
+      "targets_claim_id": "c15",
+      "targets_claim_ids": [
+        "c15"
+      ],
+      "question_text": "What specific event, coinciding with a major Asian treaty signing, reportedly caused particular displeasure among Soviet representatives?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Georgy",
+        "Soviets were particularly angered that Jalloud chose to visit Peking when the Sino-Japanese Peace and Friendship Treaty was signed"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t16",
+      "targets_claim_id": "c16",
+      "targets_claim_ids": [
+        "c16"
+      ],
+      "question_text": "What was a French official's evaluation of the recent discussions?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Georgy",
+        "consultations had been worthwhile"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t17",
+      "targets_claim_id": "c17",
+      "targets_claim_ids": [
+        "c17"
+      ],
+      "question_text": "What did the cable's writer anticipate regarding the future regularity of discussions between French and Soviet officials?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "cable's author",
+        "consultations were to become a regular feature of Franco-Soviet relations"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t18",
+      "targets_claim_id": "c18",
+      "targets_claim_ids": [
+        "c18"
+      ],
+      "question_text": "Where did a French official recently conduct extensive discussions concerning African matters?",
+      "question_style": "targeted",
+      "answer_type": "where",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Quai Director for Africa",
+        "Georgy",
+        "Moscow",
+        "Africa",
+        "August 9-10"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "q1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c8",
+        "c9"
+      ],
+      "question_text": "What were the key dynamics shaping Soviet engagement in African affairs during 1978?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Georgy",
+        "one step back",
+        "Western resistance",
+        "encirclement"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q2",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "c16",
+        "c17"
+      ],
+      "question_text": "How did major powers approach bilateral and multilateral discussions concerning African issues in 1978?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Georgy",
+        "de-dramatize",
+        "SALT",
+        "consultations"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q3",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c8",
+        "c9",
+        "c10"
+      ],
+      "question_text": "What was the Soviet perception of Western activities and influence in Africa during the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Georgy",
+        "one step back",
+        "Western resistance",
+        "encirclement",
+        "Shaba",
+        "NATO"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q4",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7",
+        "c11",
+        "c12",
+        "c13",
+        "c14",
+        "c15"
+      ],
+      "question_text": "What were the challenges and priorities for Soviet foreign policy in North Africa in 1978?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Georgy",
+        "Qadhafi",
+        "Jalloud",
+        "Morocco",
+        "Algerians",
+        "Sahara",
+        "Peking",
+        "Sino-Japanese Peace and Friendship Treaty"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q5",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c16",
+        "c17"
+      ],
+      "question_text": "What was the nature of Franco-Soviet diplomatic engagement on regional security issues in 1978?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Georgy",
+        "consultations",
+        "Moscow"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c8",
+        "c9"
+      ],
+      "question_text": "How did Soviet foreign policy typically balance ambitions for influence or expansion in developing regions with concerns about Western resistance or the risk of confrontation?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c5",
+        "c6"
+      ],
+      "question_text": "What patterns characterized Soviet preferences for engaging with specific Western powers on regional issues, as opposed to broader multilateral or US-centric diplomatic channels?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6",
+        "c10"
+      ],
+      "question_text": "How did overarching strategic considerations, such as arms control or superpower rivalry, typically influence or constrain Soviet diplomatic engagement on specific regional conflicts or developments?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-12T18:52:17.010Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 25289,
+    "cost_usd": 0.004451699999999999
+  }
+}

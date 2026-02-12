@@ -1,0 +1,644 @@
+{
+  "doc_id": "1975KUALA05712",
+  "doc_subject": "ROK REQUEST TO EXPORT M-67 HAND GRENADES TO MALAYSIA",
+  "doc_date": "1975",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "A reftel requested comments from this Embassy regarding a possible sale of ROK-manufactured M-67 hand grenades to Malaysian Armed Forces.",
+      "claim_type": "attribution",
+      "entities": [
+        "reftel",
+        "this Embassy",
+        "ROK",
+        "M-67 hand grenades",
+        "Malaysian Armed Forces"
+      ],
+      "time_bounds": {
+        "start": "1975",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The U.S. Government has approved a number of cash sales of U.S.-produced military equipment (helicopters, armored cars) to GOM.",
+      "claim_type": "event",
+      "entities": [
+        "U.S. Government",
+        "military equipment",
+        "helicopters",
+        "armored cars",
+        "GOM"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1975"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The U.S. Government has a small ongoing FMS credit program (F5E's, probably C-130's, S-61's) with GOM.",
+      "claim_type": "relationship",
+      "entities": [
+        "U.S. Government",
+        "FMS credit program",
+        "GOM",
+        "F5E's",
+        "C-130's",
+        "S-61's"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1975"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "This Embassy can see no policy objection from this end for a Korean sale of grenades.",
+      "claim_type": "assessment",
+      "entities": [
+        "this Embassy",
+        "Korean",
+        "grenades"
+      ],
+      "time_bounds": {
+        "start": "1975",
+        "end": "1975"
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "According to a local representative of British Crown Agents, the U.S. Army has tendered on this same purchase.",
+      "claim_type": "attribution",
+      "entities": [
+        "local representative of British Crown Agents",
+        "British Crown Agents",
+        "U.S. Army",
+        "this same purchase"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1975"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "British Crown Agents formerly handled many Malaysian purchases of U.S. military equipment and armaments.",
+      "claim_type": "relationship",
+      "entities": [
+        "British Crown Agents",
+        "Malaysian",
+        "U.S. military equipment and armaments"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1975"
+      },
+      "importance": 2
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "Last month, responsibility for military procurement was given to GOM State Trading Company Pernas Wakil Berhad.",
+      "claim_type": "event",
+      "entities": [
+        "military procurement",
+        "GOM State Trading Company Pernas Wakil Berhad"
+      ],
+      "time_bounds": {
+        "start": "1975-08",
+        "end": "1975-08"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "GOM State Trading Company Pernas Wakil Berhad called for new bids.",
+      "claim_type": "event",
+      "entities": [
+        "GOM State Trading Company Pernas Wakil Berhad",
+        "new bids"
+      ],
+      "time_bounds": {
+        "start": "1975-08",
+        "end": "1975-08"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "The cut-off date for new bids was September 26.",
+      "claim_type": "logistics",
+      "entities": [
+        "new bids"
+      ],
+      "time_bounds": {
+        "start": "1975-09-26",
+        "end": "1975-09-26"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "DAO has received inquiries from several go-betweens regarding possible sources of these grenades.",
+      "claim_type": "event",
+      "entities": [
+        "DAO",
+        "go-betweens",
+        "grenades"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1975"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "The go-betweens made inquiries so that they could tender.",
+      "claim_type": "plan",
+      "entities": [
+        "go-betweens"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1975"
+      },
+      "importance": 2
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "Ref B contained a request for a price up-date.",
+      "claim_type": "logistics",
+      "entities": [
+        "Ref B",
+        "price up-date"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1975"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "The price up-date was requested so that Crown Agents could resubmit the U.S. Army offer.",
+      "claim_type": "plan",
+      "entities": [
+        "price up-date",
+        "Crown Agents",
+        "U.S. Army offer"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1975"
+      },
+      "importance": 3
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "What entity sought the Embassy's opinion on a potential sale of certain grenades from a specific Asian nation to a Southeast Asian military?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "reftel",
+        "this Embassy",
+        "ROK",
+        "M-67 hand grenades",
+        "Malaysian Armed Forces"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "What kind of transactions for American-made military gear did the U.S. approve for the GOM?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "U.S. Government",
+        "cash sales",
+        "U.S.-produced military equipment",
+        "helicopters",
+        "armored cars",
+        "GOM"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "What type of ongoing defense credit arrangement does the U.S. maintain with the GOM, including examples of equipment?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "U.S. Government",
+        "FMS credit program",
+        "GOM",
+        "F5E's",
+        "C-130's",
+        "S-61's"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "What was the Embassy's assessment regarding policy concerns for a potential sale of munitions by Korea?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "this Embassy",
+        "policy objection",
+        "Korean sale",
+        "grenades"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "Who indicated that the American military had submitted an offer for the procurement in question?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [],
+      "banned_terms": [
+        "local representative of British Crown Agents",
+        "British Crown Agents",
+        "U.S. Army",
+        "tendered",
+        "this same purchase"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "Which organization previously managed numerous acquisitions of American defense materiel for Malaysia?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [],
+      "banned_terms": [
+        "British Crown Agents",
+        "Malaysian purchases",
+        "U.S. military equipment and armaments"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "To what entity was the authority for defense acquisitions transferred recently?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Last month",
+        "military procurement",
+        "GOM State Trading Company Pernas Wakil Berhad"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "What did the GOM's state trading company request concerning proposals?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "GOM State Trading Company Pernas Wakil Berhad",
+        "new bids"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "What was the submission deadline for the latest proposals?",
+      "question_style": "targeted",
+      "answer_type": "when",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "cut-off date",
+        "new bids",
+        "September 26"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "What office received questions from intermediaries about potential suppliers for these munitions?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [],
+      "banned_terms": [
+        "DAO",
+        "inquiries",
+        "go-betweens",
+        "grenades"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "What was the purpose of the intermediaries' questions?",
+      "question_style": "targeted",
+      "answer_type": "why",
+      "allowed_hints": [],
+      "banned_terms": [
+        "go-betweens",
+        "inquiries",
+        "tender"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "What kind of information update was sought in the referenced document?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Ref B",
+        "request",
+        "price up-date"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t13",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13"
+      ],
+      "question_text": "For what reason was the updated pricing information requested concerning the American military's proposal?",
+      "question_style": "targeted",
+      "answer_type": "why",
+      "allowed_hints": [],
+      "banned_terms": [
+        "price up-date",
+        "Crown Agents",
+        "resubmit",
+        "U.S. Army offer"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q1",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c3"
+      ],
+      "question_text": "What was the general state of U.S. military assistance and equipment sales to Malaysia in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "helicopters",
+        "armored cars",
+        "FMS credit program",
+        "F5E's",
+        "C-130's",
+        "S-61's"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c4"
+      ],
+      "question_text": "How did the U.S. generally approach the issue of its allies exporting military equipment to third countries in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "ROK",
+        "Korea",
+        "grenades",
+        "M-67"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q3",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5",
+        "c6",
+        "c7",
+        "c8",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c13"
+      ],
+      "question_text": "What were the key dynamics shaping Malaysia's military procurement policies and processes during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Pernas Wakil Berhad",
+        "British Crown Agents",
+        "September 26",
+        "DAO",
+        "go-betweens",
+        "bids"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q4",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c5",
+        "c6",
+        "c10",
+        "c11",
+        "c12",
+        "c13"
+      ],
+      "question_text": "What was the competitive environment like for international military equipment suppliers in Southeast Asia during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "M-67",
+        "grenades",
+        "U.S. Army",
+        "Crown Agents",
+        "ROK",
+        "Malaysia"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q5",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c4"
+      ],
+      "question_text": "What was the standard procedure for U.S. diplomatic missions to evaluate proposed third-party arms sales involving U.S.-origin military technology in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "ROK",
+        "Korea",
+        "grenades",
+        "M-67",
+        "Malaysian Armed Forces"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c5",
+        "c6",
+        "c10"
+      ],
+      "question_text": "What patterns characterized competition among allied nations in the global arms market?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c4"
+      ],
+      "question_text": "What criteria did U.S. diplomatic missions typically apply when evaluating third-country arms sales by allied nations?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5",
+        "c6",
+        "c7",
+        "c8",
+        "c10",
+        "c11",
+        "c13"
+      ],
+      "question_text": "How did the involvement of third-party agents or intermediaries influence international military procurement processes?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-12T19:00:23.862Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 18130,
+    "cost_usd": 0.0035287499999999998
+  }
+}

@@ -1,0 +1,648 @@
+{
+  "doc_id": "1977LONDON06541",
+  "doc_subject": "FCO WISHES TO HOLD UP DISCUSSION OF BRITISH STUDY ON ISRAELI SECURITY  REQUIREMENTS",
+  "doc_date": "1977",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "The FCO wishes to hold up discussion of the British Study on Israeli Security Requirements.",
+      "claim_type": "plan",
+      "entities": [
+        "FCO",
+        "British Study on Israeli Security Requirements"
+      ],
+      "time_bounds": {
+        "start": "1977",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The FCO formally passed copies of the British Study on Israeli Security Requirements to the Embassy on the morning of April 21, 1977.",
+      "claim_type": "event",
+      "entities": [
+        "FCO",
+        "British Study on Israeli Security Requirements",
+        "Embassy"
+      ],
+      "time_bounds": {
+        "start": "1977-04-21",
+        "end": "1977-04-21"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The Embassy pouched two copies of the British Study on Israeli Security Requirements to the Department for Day and Kontos on April 21, 1977.",
+      "claim_type": "event",
+      "entities": [
+        "Embassy",
+        "British Study on Israeli Security Requirements",
+        "Department",
+        "Day",
+        "Kontos"
+      ],
+      "time_bounds": {
+        "start": "1977-04-21",
+        "end": "1977-04-21"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "FCO Assistant Under Secretary Weir and Blatherwick separately called EMBOFF on the evening of April 21, 1977, to inform them of developments.",
+      "claim_type": "event",
+      "entities": [
+        "FCO Assistant Under Secretary Weir",
+        "Blatherwick",
+        "EMBOFF"
+      ],
+      "time_bounds": {
+        "start": "1977-04-21",
+        "end": "1977-04-21"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "Foreign Secretary Owen had ordered the British Study on Israeli Security Requirements.",
+      "claim_type": "event",
+      "entities": [
+        "Foreign Secretary Owen",
+        "British Study on Israeli Security Requirements"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1977-04-21"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "Foreign Secretary Owen suddenly showed interest in the study on the afternoon of April 21, 1977.",
+      "claim_type": "event",
+      "entities": [
+        "Foreign Secretary Owen",
+        "the study"
+      ],
+      "time_bounds": {
+        "start": "1977-04-21",
+        "end": "1977-04-21"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "Foreign Secretary Owen asked that the study be shown to him for approval before it was passed to the USG.",
+      "claim_type": "plan",
+      "entities": [
+        "Foreign Secretary Owen",
+        "the study",
+        "USG"
+      ],
+      "time_bounds": {
+        "start": "1977-04-21",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "Foreign Secretary Owen's subordinates are embarrassed by the fact they have already released the study to the USG.",
+      "claim_type": "assessment",
+      "entities": [
+        "Foreign Secretary Owen's subordinates",
+        "the study",
+        "USG"
+      ],
+      "time_bounds": {
+        "start": "1977-04-21",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "Foreign Secretary Owen's subordinates asked the Embassy if they could hold the study and treat it temporarily as a \"non-document\".",
+      "claim_type": "plan",
+      "entities": [
+        "Foreign Secretary Owen's subordinates",
+        "Embassy",
+        "the study"
+      ],
+      "time_bounds": {
+        "start": "1977-04-21",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "EMBOFF explained that they had already put copies of the study in the pouch and informed the Department they had received it.",
+      "claim_type": "event",
+      "entities": [
+        "EMBOFF",
+        "the study",
+        "Department"
+      ],
+      "time_bounds": {
+        "start": "1977-04-21",
+        "end": "1977-04-21"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "The FCO requested that the Department treat the British Study as a \"preliminary FCO working paper\" until Owen agrees to release it to the USG.",
+      "claim_type": "plan",
+      "entities": [
+        "FCO",
+        "Department",
+        "British Study",
+        "Owen",
+        "USG"
+      ],
+      "time_bounds": {
+        "start": "1977-04-21",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "FCO officers hoped Department officers would avoid mentioning receipt of the study to the British pending approval and release by Owen.",
+      "claim_type": "plan",
+      "entities": [
+        "FCO officers",
+        "Department officers",
+        "the study",
+        "the British",
+        "Owen"
+      ],
+      "time_bounds": {
+        "start": "1977-04-21",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "Weir is seeking approval and release of the study by Owen.",
+      "claim_type": "plan",
+      "entities": [
+        "Weir",
+        "Owen",
+        "the study"
+      ],
+      "time_bounds": {
+        "start": "1977-04-21",
+        "end": null
+      },
+      "importance": 3
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "What was the intention of the foreign office regarding the discussion of the security requirements analysis?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "FCO",
+        "British Study on Israeli Security Requirements",
+        "hold up discussion"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "When did the foreign office formally provide copies of the security requirements analysis to the diplomatic mission?",
+      "question_style": "targeted",
+      "answer_type": "when",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "FCO",
+        "British Study on Israeli Security Requirements",
+        "Embassy",
+        "April 21, 1977"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "To whom within the department did the diplomatic mission send copies of the security requirements analysis, and when was this action taken?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Embassy",
+        "British Study on Israeli Security Requirements",
+        "Department",
+        "Day",
+        "Kontos",
+        "April 21, 1977",
+        "pouched"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "Who from the foreign office contacted the diplomatic mission's officer to provide updates, and when did this occur?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "FCO Assistant Under Secretary Weir",
+        "Blatherwick",
+        "EMBOFF",
+        "April 21, 1977"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "Who initiated the creation of the security requirements analysis?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Foreign Secretary Owen",
+        "British Study on Israeli Security Requirements",
+        "ordered"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "When did the foreign secretary unexpectedly develop an interest in the analysis?",
+      "question_style": "targeted",
+      "answer_type": "when",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Foreign Secretary Owen",
+        "the study",
+        "April 21, 1977",
+        "suddenly showed interest"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "What was the foreign secretary's requirement regarding the analysis before it could be shared with the American government?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Foreign Secretary Owen",
+        "the study",
+        "USG",
+        "shown to him for approval",
+        "passed"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "What was the reaction of the foreign secretary's staff to having already provided the analysis to the American government?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Foreign Secretary Owen's subordinates",
+        "embarrassed",
+        "released the study",
+        "USG"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "What specific request did the foreign secretary's staff make to the diplomatic mission regarding the status of the analysis?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Foreign Secretary Owen's subordinates",
+        "Embassy",
+        "the study",
+        "hold",
+        "treat it temporarily as a \"non-document\""
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "What did the diplomatic mission's officer state about the current status of the analysis and its communication to the department?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "EMBOFF",
+        "copies of the study",
+        "pouch",
+        "Department",
+        "received it"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "How did the foreign office ask the department to classify the analysis until the foreign secretary authorized its distribution to the American government?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "FCO",
+        "Department",
+        "British Study",
+        "preliminary FCO working paper",
+        "Owen",
+        "release it to the USG"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "What did foreign office personnel hope department personnel would refrain from doing regarding the analysis, awaiting the foreign secretary's decision?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "FCO officers",
+        "Department officers",
+        "mentioning receipt of the study",
+        "the British",
+        "Owen",
+        "approval and release"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t13",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13"
+      ],
+      "question_text": "Who is attempting to secure the foreign secretary's authorization for the analysis?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Weir",
+        "approval and release of the study",
+        "Owen"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c10",
+        "c11",
+        "c12"
+      ],
+      "question_text": "What was the general state of information sharing protocols between British and American diplomatic missions concerning Middle East security assessments in 1977?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0.24
+    },
+    {
+      "question_id": "c_q2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c5",
+        "c6",
+        "c7",
+        "c8",
+        "c9",
+        "c11",
+        "c13"
+      ],
+      "question_text": "How were internal approval processes for sensitive foreign policy documents managed within the British Foreign Office during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q3",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c4",
+        "c6",
+        "c7",
+        "c8",
+        "c9",
+        "c10",
+        "c11",
+        "c12"
+      ],
+      "question_text": "What tensions existed between senior leadership and their subordinates within the British Foreign Office regarding the release of policy analyses to allied governments in 1977?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0.24
+    },
+    {
+      "question_id": "c_q4",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c5"
+      ],
+      "question_text": "What were the key dynamics shaping British foreign policy assessments of Middle East security requirements in the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q5",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c9",
+        "c10",
+        "c11",
+        "c12"
+      ],
+      "question_text": "How did British and American diplomatic missions typically manage the exchange of preliminary policy papers and analyses during the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c5",
+        "c7",
+        "c8",
+        "c9",
+        "c11",
+        "c12",
+        "c13"
+      ],
+      "question_text": "How do internal disagreements or hierarchical challenges within a foreign ministry affect its external diplomatic posture or relations with allies?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c9",
+        "c11",
+        "c12"
+      ],
+      "question_text": "What strategies do diplomatic actors employ to control the flow of sensitive information, particularly when attempting to manage or retract previously shared materials?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c9",
+        "c11",
+        "c12"
+      ],
+      "question_text": "How do requests for discretion or the temporary withholding of information impact trust and coordination between allied diplomatic missions?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-12T18:54:59.687Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 19259,
+    "cost_usd": 0.0035376
+  }
+}

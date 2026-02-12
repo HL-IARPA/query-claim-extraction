@@ -1,0 +1,701 @@
+{
+  "doc_id": "1976SINGAP02176",
+  "doc_subject": "WITHDRAWAL OF NEW ZEALAND FORCES FROM SINGAPORE",
+  "doc_date": "1976",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "DCM reviewed the matter of the withdrawal of NZ forces from Singapore with Acting New Zealand High Commissioner Dawson during a luncheon conversation on April 29.",
+      "claim_type": "event",
+      "entities": [
+        "DCM",
+        "NZ forces",
+        "Singapore",
+        "Acting New Zealand High Commissioner Dawson"
+      ],
+      "time_bounds": {
+        "start": "1976-04-29",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "There were somewhat differing versions in reftels concerning the degree of GOS initiative in requesting the withdrawal of NZ forces from Singapore.",
+      "claim_type": "assessment",
+      "entities": [
+        "GOS",
+        "NZ forces",
+        "Singapore",
+        "reftels"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-04-29"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "Dawson said Deputy P.M. Talboys had been the first to raise the question of continued stationing of NZ forces in Singapore.",
+      "claim_type": "attribution",
+      "entities": [
+        "Dawson",
+        "Deputy P.M. Talboys",
+        "NZ forces",
+        "Singapore"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-04-29"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "Deputy P.M. Goh replied by saying that GOS could no longer expect New Zealand forces to fight Singapore's battles.",
+      "claim_type": "attribution",
+      "entities": [
+        "Deputy P.M. Goh",
+        "GOS",
+        "New Zealand forces",
+        "Singapore"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-04-29"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "Deputy P.M. Goh expressed appreciation for the contribution of New Zealand forces to the stability of the region.",
+      "claim_type": "attribution",
+      "entities": [
+        "Deputy P.M. Goh",
+        "New Zealand forces",
+        "region"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-04-29"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "Deputy P.M. Goh indicated there was no longer a need for the presence of New Zealand forces in Singapore.",
+      "claim_type": "attribution",
+      "entities": [
+        "Deputy P.M. Goh",
+        "New Zealand forces",
+        "Singapore"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-04-29"
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "P.M. Lee was 'somewhat more oblique' in his remarks regarding the withdrawal of NZ forces.",
+      "claim_type": "assessment",
+      "entities": [
+        "P.M. Lee",
+        "NZ forces"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-04-29"
+      },
+      "importance": 2
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "P.M. Lee's remarks generally confirmed the position taken by Mr. Goh regarding the withdrawal of NZ forces.",
+      "claim_type": "assessment",
+      "entities": [
+        "P.M. Lee",
+        "Mr. Goh",
+        "NZ forces"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-04-29"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "Both P.M. Lee and Deputy P.M. Goh were quite willing to accommodate GNZ desires concerning the timing of the withdrawal of these forces.",
+      "claim_type": "assessment",
+      "entities": [
+        "P.M. Lee",
+        "Deputy P.M. Goh",
+        "GNZ",
+        "forces"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-04-29"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "Air Commodore Gunton (Commander New Zealand Forces Singapore) confirmed the position regarding the withdrawal of NZ forces to DAO in a separate conversation.",
+      "claim_type": "attribution",
+      "entities": [
+        "Air Commodore Gunton",
+        "New Zealand Forces Singapore",
+        "DAO",
+        "NZ forces"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-04-29"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "Dawson said Lee indicated that the best way to counter the communist threat to SEA was through economic development of the ASEAN countries.",
+      "claim_type": "attribution",
+      "entities": [
+        "Dawson",
+        "Lee",
+        "communist threat",
+        "SEA",
+        "ASEAN countries"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-04-29"
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "The implication was that stationing foreign forces in the area was an outmoded way of dealing with communist subversion and insurgency.",
+      "claim_type": "assessment",
+      "entities": [
+        "foreign forces",
+        "area",
+        "communist subversion",
+        "insurgency"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-04-29"
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "The implication was that stationing foreign forces in the area was not an especially relevant way of dealing with communist subversion and insurgency.",
+      "claim_type": "assessment",
+      "entities": [
+        "foreign forces",
+        "area",
+        "communist subversion",
+        "insurgency"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1976-04-29"
+      },
+      "importance": 5
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "Who discussed the withdrawal of New Zealand forces from Singapore with the acting New Zealand representative in late April?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "DCM",
+        "Dawson",
+        "April 29",
+        "luncheon"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "What inconsistencies were noted in previous communications regarding the host government's role in requesting the departure of New Zealand forces?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "reftels",
+        "GOS",
+        "differing versions"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "According to the New Zealand representative, who initially brought up the topic of New Zealand forces remaining in Singapore?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Dawson",
+        "Talboys",
+        "first to raise"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "What did the host government's Deputy Prime Minister state about their expectation for New Zealand forces to engage in combat?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Goh",
+        "GOS",
+        "fight Singapore's battles"
+      ],
+      "leakage_score": 0.35
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "What positive sentiment did the host government's Deputy Prime Minister express about New Zealand forces' role in regional stability?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Goh",
+        "appreciation",
+        "contribution",
+        "stability"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "What did the host government's Deputy Prime Minister convey about the continued requirement for New Zealand forces in Singapore?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Goh",
+        "no longer a need",
+        "presence"
+      ],
+      "leakage_score": 0.55
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "How were the Prime Minister's statements described regarding the departure of New Zealand forces?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Lee",
+        "oblique",
+        "remarks"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "How did the Prime Minister's comments align with the Deputy Prime Minister's stance on the departure of New Zealand forces?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Lee",
+        "Goh",
+        "confirmed the position"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "What was the disposition of the Prime Minister and Deputy Prime Minister regarding the host nation's preferences for the schedule of the forces' departure?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Lee",
+        "Goh",
+        "GNZ",
+        "timing",
+        "accommodate",
+        "willing"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "Who, holding a command role for New Zealand forces, confirmed the withdrawal position to the defense attaché?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Gunton",
+        "Commander New Zealand Forces Singapore",
+        "DAO",
+        "separate conversation"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "According to the New Zealand representative, what approach did the Prime Minister propose as most effective against the regional communist threat?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Dawson",
+        "Lee",
+        "best way",
+        "communist threat",
+        "SEA",
+        "economic development",
+        "ASEAN"
+      ],
+      "leakage_score": 0.30000000000000004
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "What was suggested about the relevance of maintaining foreign forces in the area for combating communist subversion and insurgency?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "implication",
+        "foreign forces",
+        "outmoded",
+        "communist subversion",
+        "insurgency"
+      ],
+      "leakage_score": 0.95
+    },
+    {
+      "question_id": "t13",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13"
+      ],
+      "question_text": "What was suggested regarding the pertinence of deploying foreign forces in the region to counter communist subversion and insurgency?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "implication",
+        "foreign forces",
+        "not especially relevant",
+        "communist subversion",
+        "insurgency"
+      ],
+      "leakage_score": 0.95
+    },
+    {
+      "question_id": "q1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c13"
+      ],
+      "question_text": "What was the general state of New Zealand's military presence and defense commitments in Southeast Asia, particularly concerning Singapore, during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "withdrawal",
+        "Talboys",
+        "Goh",
+        "Lee",
+        "Dawson",
+        "Gunton"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c4",
+        "c5",
+        "c6",
+        "c7",
+        "c8",
+        "c9",
+        "c11",
+        "c12",
+        "c13"
+      ],
+      "question_text": "What was Singapore's evolving strategic perspective on the role of foreign military presences in regional security during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "NZ forces",
+        "Talboys",
+        "Goh",
+        "Lee",
+        "Dawson",
+        "Gunton",
+        "withdrawal"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q3",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "c9",
+        "c10"
+      ],
+      "question_text": "What was the nature of defense relations and military cooperation between New Zealand and Singapore in the period leading up to 1976?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "withdrawal",
+        "Talboys",
+        "Goh",
+        "Lee",
+        "Dawson",
+        "Gunton"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q4",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11",
+        "c12",
+        "c13"
+      ],
+      "question_text": "What were the prevailing views among Southeast Asian leaders regarding the most effective strategies to counter communist threats and ensure regional stability in the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "NZ forces",
+        "Singapore",
+        "withdrawal",
+        "Goh",
+        "Lee"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q5",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c3",
+        "c9"
+      ],
+      "question_text": "What factors were influencing New Zealand's foreign and defense policy regarding its overseas military commitments in Southeast Asia during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Singapore",
+        "withdrawal",
+        "Goh",
+        "Lee",
+        "Dawson",
+        "Gunton"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c4",
+        "c6",
+        "c9",
+        "c12",
+        "c13"
+      ],
+      "question_text": "How do host nations typically articulate their evolving security needs when requesting or agreeing to the withdrawal of foreign forces?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c3",
+        "c7",
+        "c8"
+      ],
+      "question_text": "What patterns emerge in diplomatic reporting regarding the interpretation of host nation initiatives versus allied proposals in security arrangements?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11",
+        "c12",
+        "c13"
+      ],
+      "question_text": "How did strategic considerations regarding economic development versus military presence influence allied approaches to regional security during periods of shifting geopolitical threats?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-12T18:47:31.872Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 19258,
+    "cost_usd": 0.0038934
+  }
+}

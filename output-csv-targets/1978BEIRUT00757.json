@@ -1,0 +1,828 @@
+{
+  "doc_id": "1978BEIRUT00757",
+  "doc_subject": "LEBANESE SITUATION REPORT AS OF 1730 FEBRUARY 10.",
+  "doc_date": "1978",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "An uneasy cease-fire was in effect since around 2300 hours on February 9.",
+      "claim_type": "event",
+      "entities": [
+        "cease-fire"
+      ],
+      "time_bounds": {
+        "start": "1978-02-09 23:00",
+        "end": "1978-02-10 13:00"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The uneasy cease-fire was broken at about 1300 hours on February 10.",
+      "claim_type": "event",
+      "entities": [
+        "cease-fire"
+      ],
+      "time_bounds": {
+        "start": "1978-02-10 13:00",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "Syrian artillery began shelling Ayn Ar-Rummanah at about 1300 hours on February 10.",
+      "claim_type": "event",
+      "entities": [
+        "Syrian artillery",
+        "Ayn Ar-Rummanah"
+      ],
+      "time_bounds": {
+        "start": "1978-02-10 13:00",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "The Syrians stopped shelling Ayn Ar-Rummanah about 1400 hours on February 10.",
+      "claim_type": "event",
+      "entities": [
+        "Syrians",
+        "Ayn Ar-Rummanah"
+      ],
+      "time_bounds": {
+        "start": "1978-02-10 14:00",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "Sporadic small arms fire has occurred since about 1400 hours on February 10.",
+      "claim_type": "event",
+      "entities": [
+        "small arms fire"
+      ],
+      "time_bounds": {
+        "start": "1978-02-10 14:00",
+        "end": "1978-02-10 17:30"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "Local press reports that tension is rising as the deadline for the Commission of Inquiry's report nears the evening of February 10.",
+      "claim_type": "attribution",
+      "entities": [
+        "local press",
+        "tension",
+        "Commission of Inquiry"
+      ],
+      "time_bounds": {
+        "start": "1978-02-10",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "EMBOFFs reported virtually no traffic in the streets of Ashrafiyah around 1600 hours on February 10.",
+      "claim_type": "attribution",
+      "entities": [
+        "EMBOFFs",
+        "Ashrafiyah",
+        "traffic"
+      ],
+      "time_bounds": {
+        "start": "1978-02-10 16:00",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "Lebanese Front leaders held an extraordinary meeting in Camille Chamoun's house in Ashrafiyah.",
+      "claim_type": "event",
+      "entities": [
+        "Lebanese Front leaders",
+        "Camille Chamoun",
+        "Ashrafiyah"
+      ],
+      "time_bounds": {
+        "start": "1978-02-10",
+        "end": "1978-02-10 14:15"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "Lebanese Front leaders issued a conciliatory statement at 1415 hours on February 10.",
+      "claim_type": "event",
+      "entities": [
+        "Lebanese Front leaders",
+        "conciliatory statement"
+      ],
+      "time_bounds": {
+        "start": "1978-02-10 14:15",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "The conciliatory statement expressed regret at incidents involving \"friendly forces.\"",
+      "claim_type": "attribution",
+      "entities": [
+        "conciliatory statement",
+        "friendly forces"
+      ],
+      "time_bounds": {
+        "start": "1978-02-10 14:15",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "The conciliatory statement called for a joint investigative committee to decide who was responsible for the fighting.",
+      "claim_type": "attribution",
+      "entities": [
+        "conciliatory statement",
+        "joint investigative committee",
+        "fighting"
+      ],
+      "time_bounds": {
+        "start": "1978-02-10 14:15",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "The conciliatory statement appealed to all parties to exercise restraint.",
+      "claim_type": "attribution",
+      "entities": [
+        "conciliatory statement",
+        "all parties"
+      ],
+      "time_bounds": {
+        "start": "1978-02-10 14:15",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "The conciliatory statement expressed full confidence in President Sarkis.",
+      "claim_type": "attribution",
+      "entities": [
+        "conciliatory statement",
+        "President Sarkis"
+      ],
+      "time_bounds": {
+        "start": "1978-02-10 14:15",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "A Lebanese Front military officer told ARMA that the Front expected the Syrians to mount an offensive against East Beirut the evening of February 10.",
+      "claim_type": "attribution",
+      "entities": [
+        "Lebanese Front military officer",
+        "ARMA",
+        "Lebanese Front",
+        "Syrians",
+        "East Beirut"
+      ],
+      "time_bounds": {
+        "start": "1978-02-10",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c15",
+      "claim_text": "The Lebanese Front had prepared plans to counter the Syrians.",
+      "claim_type": "plan",
+      "entities": [
+        "Lebanese Front",
+        "Syrians"
+      ],
+      "time_bounds": {
+        "start": "1978-02-10",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c16",
+      "claim_text": "The Lebanese Front was confident it could repel the Syrians.",
+      "claim_type": "assessment",
+      "entities": [
+        "Lebanese Front",
+        "Syrians"
+      ],
+      "time_bounds": {
+        "start": "1978-02-10",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c17",
+      "claim_text": "A Lebanese Front military officer said that an Israeli was in Lebanon.",
+      "claim_type": "attribution",
+      "entities": [
+        "Lebanese Front military officer",
+        "Israeli",
+        "Lebanon"
+      ],
+      "time_bounds": {
+        "start": "1978-02-10",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c18",
+      "claim_text": "A Lebanese Front military officer said that an Israeli had promised that the Israelis would give the Front any help it needed.",
+      "claim_type": "attribution",
+      "entities": [
+        "Lebanese Front military officer",
+        "Israeli",
+        "Israelis",
+        "Lebanese Front"
+      ],
+      "time_bounds": {
+        "start": "1978-02-10",
+        "end": null
+      },
+      "importance": 5
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "When did the cessation of hostilities take effect?",
+      "question_style": "targeted",
+      "answer_type": "when",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "uneasy cease-fire",
+        "2300 hours",
+        "February 9"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "Approximately when was the cessation of hostilities disrupted?",
+      "question_style": "targeted",
+      "answer_type": "when",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "uneasy cease-fire",
+        "1300 hours",
+        "February 10"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "Which forces initiated shelling against a particular district, and around what time?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Syrian artillery",
+        "Ayn Ar-Rummanah",
+        "1300 hours",
+        "February 10"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "Approximately when did the shelling of a certain area by those forces conclude?",
+      "question_style": "targeted",
+      "answer_type": "when",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Syrians",
+        "Ayn Ar-Rummanah",
+        "1400 hours",
+        "February 10"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "What kind of intermittent gunfire was reported, and from what approximate time?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "sporadic small arms fire",
+        "1400 hours",
+        "February 10"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "According to local media, what was the state of the general atmosphere as a certain investigative body's deadline approached?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "local press",
+        "tension is rising",
+        "Commission of Inquiry's report",
+        "evening of February 10"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "What did mission officials observe regarding vehicle movement in a particular district during the late afternoon?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "EMBOFFs",
+        "virtually no traffic",
+        "Ashrafiyah",
+        "1600 hours",
+        "February 10"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "Which political faction's leadership convened an urgent gathering, and in what specific location?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Lebanese Front leaders",
+        "extraordinary meeting",
+        "Camille Chamoun's house",
+        "Ashrafiyah"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "What kind of diplomatic communication did the faction's leadership release, and at what approximate time?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Lebanese Front leaders",
+        "conciliatory statement",
+        "1415 hours",
+        "February 10"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "What specific occurrences did the diplomatic communication lament?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "conciliatory statement",
+        "regret",
+        "incidents involving \"friendly forces\""
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "What mechanism did the diplomatic communication suggest to ascertain accountability for the clashes?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "conciliatory statement",
+        "joint investigative committee",
+        "responsible for the fighting"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "What action did the diplomatic communication implore all involved groups to take?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "conciliatory statement",
+        "appealed to all parties",
+        "exercise restraint"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t13",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13"
+      ],
+      "question_text": "What sentiment did the diplomatic communication convey regarding the nation's leader?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "conciliatory statement",
+        "full confidence",
+        "President Sarkis"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t14",
+      "targets_claim_id": "c14",
+      "targets_claim_ids": [
+        "c14"
+      ],
+      "question_text": "What military action did a faction's officer anticipate from a neighboring force against a particular part of the capital, and when?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Lebanese Front military officer",
+        "ARMA",
+        "Front expected",
+        "Syrians",
+        "mount an offensive",
+        "East Beirut",
+        "evening of February 10"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t15",
+      "targets_claim_id": "c15",
+      "targets_claim_ids": [
+        "c15"
+      ],
+      "question_text": "What defensive measures had the political faction developed in anticipation of actions by the neighboring force?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Lebanese Front",
+        "prepared plans",
+        "counter the Syrians"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t16",
+      "targets_claim_id": "c16",
+      "targets_claim_ids": [
+        "c16"
+      ],
+      "question_text": "What was the political faction's assurance level regarding its ability to push back the neighboring force?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Lebanese Front",
+        "confident",
+        "repel the Syrians"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t17",
+      "targets_claim_id": "c17",
+      "targets_claim_ids": [
+        "c17"
+      ],
+      "question_text": "According to a military official from the political faction, what was the nationality of an individual present in the country?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Lebanese Front military officer",
+        "Israeli",
+        "Lebanon"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t18",
+      "targets_claim_id": "c18",
+      "targets_claim_ids": [
+        "c18"
+      ],
+      "question_text": "What assurance of support did an individual from a certain nation reportedly offer to the political faction?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Lebanese Front military officer",
+        "Israeli",
+        "Israelis",
+        "Front",
+        "any help it needed"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "c7"
+      ],
+      "question_text": "What was the general state of security and conflict dynamics in Beirut during early February 1978?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "cease-fire",
+        "shelling",
+        "small arms fire",
+        "Ayn Ar-Rummanah",
+        "Ashrafiyah"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q2",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3",
+        "c4",
+        "c8",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c13",
+        "c14",
+        "c15",
+        "c16",
+        "c17",
+        "c18"
+      ],
+      "question_text": "How were major political and military factions interacting with external forces in Lebanon during February 1978?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Syrians",
+        "Lebanese Front",
+        "Israelis",
+        "friendly forces",
+        "conciliatory statement",
+        "President Sarkis"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q3",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6",
+        "c8",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c13"
+      ],
+      "question_text": "What were the key political dynamics shaping internal stability in Lebanon during February 1978?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Commission of Inquiry",
+        "tension",
+        "local press",
+        "Lebanese Front",
+        "President Sarkis"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q4",
+      "targets_claim_id": "c14",
+      "targets_claim_ids": [
+        "c14",
+        "c15",
+        "c16"
+      ],
+      "question_text": "What were the prevailing military postures and security assessments among key armed groups in Beirut in early 1978?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Lebanese Front",
+        "Syrians",
+        "offensive",
+        "repel"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q5",
+      "targets_claim_id": "c17",
+      "targets_claim_ids": [
+        "c17",
+        "c18",
+        "c3",
+        "c4"
+      ],
+      "question_text": "How were external powers influencing or providing support to various factions within Lebanon in early 1978?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Israeli",
+        "Israel",
+        "Syrians",
+        "help"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3",
+        "c4",
+        "c8",
+        "c9",
+        "c10",
+        "c11",
+        "c12",
+        "c13",
+        "c14",
+        "c15",
+        "c16"
+      ],
+      "question_text": "What patterns characterize the responses of local factions to external military interventions in internal conflicts?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c6"
+      ],
+      "question_text": "How do diplomatic efforts to establish cease-fires typically fare when external actors are actively involved in a conflict?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c14",
+      "targets_claim_ids": [
+        "c14",
+        "c15",
+        "c16",
+        "c17",
+        "c18"
+      ],
+      "question_text": "What strategic considerations drive local factions to seek or accept external military assistance in regional conflicts?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-12T18:57:13.079Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 23434,
+    "cost_usd": 0.0045252
+  }
+}

@@ -33,7 +33,3 @@ coverage/
 # Temporary files
 tmp/
 temp/
-
-# Output
-output/
-output-*/

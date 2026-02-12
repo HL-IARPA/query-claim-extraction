@@ -1,0 +1,922 @@
+{
+  "doc_id": "1976STATE032982",
+  "doc_subject": "MALTA - ANNUAL POLICY ASSESSMENT 1976",
+  "doc_date": "1976",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "1976 is an election year in Malta.",
+      "claim_type": "event",
+      "entities": [
+        "Malta"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": "1976"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "Both Mintoff's Laborites and the opposition Nationalists believe that Malta's strategic Mediterranean location will still be sufficiently valuable to NATO to justify continuation after 1979 of some form of annual monetary subsidy.",
+      "claim_type": "attribution",
+      "entities": [
+        "Mintoff's Laborites",
+        "Nationalists",
+        "Malta",
+        "NATO"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The USG has serious doubts that Malta's strategic Mediterranean location will still be sufficiently valuable to NATO to justify continuation after 1979 of some form of annual monetary subsidy.",
+      "claim_type": "assessment",
+      "entities": [
+        "USG",
+        "Malta",
+        "NATO"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "It will be essential for the USG and NATO to reach conclusions concerning Malta's future as soon as possible after the 1976 elections to avoid another crisis management exercise resulting from Maltese blackmailing tactics.",
+      "claim_type": "plan",
+      "entities": [
+        "USG",
+        "NATO",
+        "Malta"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "Bilateral U.S. interests in Malta have been, and will remain, limited.",
+      "claim_type": "assessment",
+      "entities": [
+        "U.S.",
+        "Malta"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "If NATO's Southern Tier remains intact, Malta in the 1980's might not matter that much to the other Alliance members either.",
+      "claim_type": "assessment",
+      "entities": [
+        "NATO",
+        "Malta",
+        "Alliance members"
+      ],
+      "time_bounds": {
+        "start": "1980",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "The 325,000 Maltese appear to be fairly evenly divided between support for Mintoff's Socialist Labor Party and the conservative Nationalist Party.",
+      "claim_type": "assessment",
+      "entities": [
+        "Maltese",
+        "Mintoff's Socialist Labor Party",
+        "Nationalist Party"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "The Maltese Parliament's mandate expires in August 1976, and a general election is required by November 1976.",
+      "claim_type": "logistics",
+      "entities": [
+        "Maltese Parliament",
+        "Malta"
+      ],
+      "time_bounds": {
+        "start": "1976-08",
+        "end": "1976-11"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "The Embassy leans to the view that Mintoff and the Labor Party probably will be reelected in a very close contest.",
+      "claim_type": "attribution",
+      "entities": [
+        "Embassy",
+        "Mintoff",
+        "Labor Party"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "If the Nationalists return to power, there will be an opportunity for closer ties between Malta and the U.S. and possibly for resumption of Sixth Fleet visits, but only at a stiff price.",
+      "claim_type": "assessment",
+      "entities": [
+        "Nationalists",
+        "Malta",
+        "U.S.",
+        "Sixth Fleet"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "The major U.S. interest in Malta is not a bilateral one, but part of the multilateral concern of the NATO Alliance regarding Mediterranean security.",
+      "claim_type": "assessment",
+      "entities": [
+        "U.S.",
+        "Malta",
+        "NATO Alliance"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "The major U.S. policy objectives in Malta include denial of Soviet access to Malta, retention of Malta's military facilities for the West (including Sixth Fleet access), and continuation of Malta's ties to the West.",
+      "claim_type": "plan",
+      "entities": [
+        "U.S.",
+        "Malta",
+        "Soviet Union",
+        "West",
+        "Sixth Fleet"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c13",
+      "claim_text": "Mintoff's foreign policy continues to be the avoidance of involvement with either of the superpowers; hence, neither Soviet nor U.S. fleets are welcome in Malta.",
+      "claim_type": "assessment",
+      "entities": [
+        "Mintoff",
+        "Soviet Union",
+        "U.S.",
+        "Malta"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c14",
+      "claim_text": "The revised British/Maltese Military Facilities Agreement (MFA), signed in March 1972, runs until March 31, 1979.",
+      "claim_type": "logistics",
+      "entities": [
+        "British",
+        "Maltese",
+        "Military Facilities Agreement (MFA)"
+      ],
+      "time_bounds": {
+        "start": "1972-03",
+        "end": "1979-03-31"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c15",
+      "claim_text": "The MFA specifically provides that the Government of Malta shall not permit the forces of any Warsaw Pact member to be stationed in Malta or to use Maltese military facilities.",
+      "claim_type": "logistics",
+      "entities": [
+        "Government of Malta",
+        "Warsaw Pact",
+        "Malta"
+      ],
+      "time_bounds": {
+        "start": "1972-03",
+        "end": "1979-03-31"
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c16",
+      "claim_text": "There continues to be a complete denial of access to Malta by any U.S. military or naval forces, including the Sixth Fleet, as long as Mintoff is Prime Minister.",
+      "claim_type": "assessment",
+      "entities": [
+        "Malta",
+        "U.S. military forces",
+        "U.S. naval forces",
+        "Sixth Fleet",
+        "Mintoff"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c17",
+      "claim_text": "Neither the Labor Party nor the Nationalist Party really has firm plans for what happens to Malta after 1977 or after the March 1979 expiration of the MFA.",
+      "claim_type": "assessment",
+      "entities": [
+        "Labor Party",
+        "Nationalist Party",
+        "Malta",
+        "MFA"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c18",
+      "claim_text": "Malta's economic viability is clearly dependent on either some form of continued monetary subsidy or a significant new development like the discovery of offshore oil.",
+      "claim_type": "assessment",
+      "entities": [
+        "Malta"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c19",
+      "claim_text": "The British have stated that their decision to leave Malta by 1979 is firm and irrevocable.",
+      "claim_type": "attribution",
+      "entities": [
+        "British",
+        "Malta"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": "1979"
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c20",
+      "claim_text": "The Embassy recommends the USG and other NATO governments should avoid any attempts to buy Mintoff's favor before the election, as such initiatives would be wasted and seen as taking sides.",
+      "claim_type": "plan",
+      "entities": [
+        "Embassy",
+        "USG",
+        "NATO governments",
+        "Mintoff"
+      ],
+      "time_bounds": {
+        "start": "1976",
+        "end": null
+      },
+      "importance": 4
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "When was an election scheduled in Malta?",
+      "question_style": "targeted",
+      "answer_type": "when",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "1976",
+        "election year"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "What do the two main political factions in Malta believe about the nation's strategic value to the Alliance for future financial support?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "Mintoff's Laborites",
+        "Nationalists",
+        "1979",
+        "monetary subsidy"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "What are the U.S. government's reservations about Malta's strategic importance to the Alliance for ongoing financial aid beyond the late 1970s?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "region"
+      ],
+      "banned_terms": [
+        "USG",
+        "1979",
+        "monetary subsidy"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "Why is it considered crucial for the U.S. government and the Alliance to decide on Malta's long-term status promptly after the elections?",
+      "question_style": "targeted",
+      "answer_type": "why",
+      "allowed_hints": [],
+      "banned_terms": [
+        "USG",
+        "1976 elections",
+        "crisis management exercise",
+        "blackmailing tactics"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "How are direct U.S. interests in Malta characterized?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [],
+      "banned_terms": [
+        "bilateral",
+        "limited"
+      ],
+      "leakage_score": 0.55
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "Under what conditions might Malta's significance to other Alliance members be reduced in the coming decade?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "NATO's Southern Tier",
+        "1980's",
+        "matter that much"
+      ],
+      "leakage_score": 0.4
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "How is the population of Malta split in its support for the two main political organizations?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [],
+      "banned_terms": [
+        "325,000",
+        "Mintoff's Socialist Labor Party",
+        "conservative Nationalist Party",
+        "evenly divided"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "When was the Maltese Parliament's term set to end, and by what month was a general election mandated?",
+      "question_style": "targeted",
+      "answer_type": "when",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "August 1976",
+        "November 1976"
+      ],
+      "leakage_score": 0.55
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "What is the diplomatic mission's assessment of the likely winner and nature of the upcoming election?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Embassy",
+        "Mintoff",
+        "Labor Party",
+        "reelected",
+        "very close contest"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "What opportunities and associated costs might arise for U.S. relations and naval access if the opposition party regains control?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Nationalists",
+        "Sixth Fleet",
+        "stiff price"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "What is the primary nature of U.S. interest in Malta, particularly concerning regional security?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "bilateral",
+        "multilateral",
+        "NATO Alliance",
+        "Mediterranean security"
+      ],
+      "leakage_score": 0.55
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "What are the main U.S. foreign policy aims regarding Malta's alignment, military installations, and access for certain naval forces?",
+      "question_style": "targeted",
+      "answer_type": "list",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Soviet access",
+        "military facilities",
+        "West",
+        "Sixth Fleet"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t13",
+      "targets_claim_id": "c13",
+      "targets_claim_ids": [
+        "c13"
+      ],
+      "question_text": "What is the leader's stance on engagement with major global powers, and how does this affect naval access to the island?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Mintoff",
+        "superpowers",
+        "Soviet",
+        "U.S. fleets"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t14",
+      "targets_claim_id": "c14",
+      "targets_claim_ids": [
+        "c14"
+      ],
+      "question_text": "When was the updated defense agreement between the United Kingdom and Malta signed, and when was it scheduled to conclude?",
+      "question_style": "targeted",
+      "answer_type": "when",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "British/Maltese Military Facilities Agreement (MFA)",
+        "March 1972",
+        "March 31, 1979"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t15",
+      "targets_claim_id": "c15",
+      "targets_claim_ids": [
+        "c15"
+      ],
+      "question_text": "What specific restriction does the defense agreement place on Malta concerning the presence or use of its military sites by certain foreign forces?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "MFA",
+        "Government of Malta",
+        "Warsaw Pact",
+        "military facilities"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t16",
+      "targets_claim_id": "c16",
+      "targets_claim_ids": [
+        "c16"
+      ],
+      "question_text": "What is the current status of access to Malta for U.S. armed forces and naval units, and under whose leadership does this condition persist?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "complete denial",
+        "U.S. military or naval forces",
+        "Sixth Fleet",
+        "Mintoff is Prime Minister"
+      ],
+      "leakage_score": 0.55
+    },
+    {
+      "question_id": "t17",
+      "targets_claim_id": "c17",
+      "targets_claim_ids": [
+        "c17"
+      ],
+      "question_text": "What is the status of long-term planning by the two major political parties regarding Malta's future beyond the late 1970s and the end of the defense agreement?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "Labor Party",
+        "Nationalist Party",
+        "firm plans",
+        "1977",
+        "March 1979",
+        "MFA"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t18",
+      "targets_claim_id": "c18",
+      "targets_claim_ids": [
+        "c18"
+      ],
+      "question_text": "What factors are identified as crucial for Malta's economic sustainability?",
+      "question_style": "targeted",
+      "answer_type": "list",
+      "allowed_hints": [],
+      "banned_terms": [
+        "monetary subsidy",
+        "offshore oil"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t19",
+      "targets_claim_id": "c19",
+      "targets_claim_ids": [
+        "c19"
+      ],
+      "question_text": "What is the stated position of the United Kingdom regarding its departure from Malta by the end of the decade?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "British",
+        "1979",
+        "firm and irrevocable"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t20",
+      "targets_claim_id": "c20",
+      "targets_claim_ids": [
+        "c20"
+      ],
+      "question_text": "What advice does the diplomatic mission offer to the U.S. government and other Alliance members regarding engaging with the current leader prior to the election?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Embassy",
+        "USG",
+        "NATO governments",
+        "Mintoff's favor",
+        "before the election",
+        "wasted",
+        "taking sides"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q1",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c3",
+        "c6",
+        "c11",
+        "c12",
+        "c15",
+        "c16"
+      ],
+      "question_text": "What were the prevailing views among Western allies regarding Malta's long-term strategic significance in the Mediterranean during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "subsidy",
+        "1979",
+        "MFA"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "c_q2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c7",
+        "c8",
+        "c9",
+        "c10",
+        "c17"
+      ],
+      "question_text": "What were the key political dynamics and electoral considerations shaping Malta's domestic landscape in 1976?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "Laborites",
+        "Nationalists",
+        "Mintoff",
+        "Parliament",
+        "August",
+        "November"
+      ],
+      "leakage_score": 0.36000000000000004
+    },
+    {
+      "question_id": "c_q3",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c3",
+        "c4",
+        "c6",
+        "c10",
+        "c12",
+        "c13",
+        "c14",
+        "c15",
+        "c16",
+        "c17",
+        "c19"
+      ],
+      "question_text": "What was the general state of planning and concerns among Western nations regarding the future of military access and facilities in Malta beyond the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "MFA",
+        "1979",
+        "British",
+        "Sixth Fleet"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "c_q4",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c18"
+      ],
+      "question_text": "What factors were perceived to be critical for Malta's long-term economic viability and its reliance on external support during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "subsidy",
+        "offshore oil"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "c_q5",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c5",
+        "c11",
+        "c12",
+        "c20"
+      ],
+      "question_text": "What were the key considerations shaping U.S. and NATO diplomatic strategies towards Malta in the context of Mediterranean security during the mid-1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "blackmailing tactics",
+        "crisis management",
+        "Soviet access",
+        "buy Mintoff's favor"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c3",
+        "c4",
+        "c6",
+        "c11",
+        "c18"
+      ],
+      "question_text": "How do smaller nations typically leverage their strategic geographic positions to secure economic or security concessions from major powers or alliances?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "Malta",
+        "Mintoff",
+        "USG",
+        "British",
+        "MFA",
+        "1976",
+        "1979",
+        "Sixth Fleet",
+        "Laborites",
+        "Nationalists",
+        "Mediterranean"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c7",
+        "c9",
+        "c10",
+        "c13",
+        "c16",
+        "c17",
+        "c20"
+      ],
+      "question_text": "What patterns emerge in how domestic political considerations in smaller states influence their foreign policy alignment and negotiations with larger alliances?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "Malta",
+        "Mintoff",
+        "USG",
+        "British",
+        "MFA",
+        "1976",
+        "1979",
+        "Sixth Fleet",
+        "Laborites",
+        "Nationalists",
+        "Mediterranean"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3",
+        "c5",
+        "c6",
+        "c11",
+        "c12"
+      ],
+      "question_text": "How do major alliances balance their collective security interests in strategically located peripheral states against the bilateral interests of individual member nations?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "Malta",
+        "Mintoff",
+        "USG",
+        "British",
+        "MFA",
+        "1976",
+        "1979",
+        "Sixth Fleet",
+        "Laborites",
+        "Nationalists",
+        "Mediterranean"
+      ],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-12T18:53:31.171Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 32963,
+    "cost_usd": 0.005765099999999999
+  }
+}

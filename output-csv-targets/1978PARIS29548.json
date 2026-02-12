@@ -1,0 +1,584 @@
+{
+  "doc_id": "1978PARIS29548",
+  "doc_subject": "LIBYAN INVOLVEMENT IN TERRORIST INCIDENT",
+  "doc_date": "1978",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "QUAI DEPUTY DIRECTOR IN CHARGE OF NORTH AFRICAN AFFAIRS (ALBIS) informed 'us' on September 6.",
+      "claim_type": "attribution",
+      "entities": [
+        "ALBIS",
+        "us"
+      ],
+      "time_bounds": {
+        "start": "1978-09-06",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The French Ambassador in Tripoli carried out a demarche to the GOL on Monday, September 4.",
+      "claim_type": "event",
+      "entities": [
+        "French Ambassador in Tripoli",
+        "GOL"
+      ],
+      "time_bounds": {
+        "start": "1978-09-04",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The French demarche to the GOL followed 'our' approach.",
+      "claim_type": "event",
+      "entities": [
+        "French demarche",
+        "GOL",
+        "us"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1978-09-04"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "'Our' original demarche on this subject occurred.",
+      "claim_type": "event",
+      "entities": [
+        "us"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1978-09-04"
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "The French Ambassador had raised the question with Quai Secretary General Soutou.",
+      "claim_type": "event",
+      "entities": [
+        "French Ambassador",
+        "Quai Secretary General Soutou"
+      ],
+      "time_bounds": {
+        "start": null,
+        "end": "1978-08-25"
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "The meeting between the French Ambassador and Quai Secretary General Soutou occurred on August 25.",
+      "claim_type": "logistics",
+      "entities": [
+        "French Ambassador",
+        "Quai Secretary General Soutou"
+      ],
+      "time_bounds": {
+        "start": "1978-08-25",
+        "end": null
+      },
+      "importance": 2
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "ALBIS was skimpy with details of the French demarche.",
+      "claim_type": "assessment",
+      "entities": [
+        "ALBIS",
+        "French demarche"
+      ],
+      "time_bounds": {
+        "start": "1978-09-06",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c8",
+      "claim_text": "The French demarche had been in the form of a protest.",
+      "claim_type": "logistics",
+      "entities": [
+        "French demarche"
+      ],
+      "time_bounds": {
+        "start": "1978-09-04",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c9",
+      "claim_text": "The French demarche was related to French desire for improved Libyan-French relations.",
+      "claim_type": "relationship",
+      "entities": [
+        "French demarche",
+        "France",
+        "Libya"
+      ],
+      "time_bounds": {
+        "start": "1978-09-04",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c10",
+      "claim_text": "France desires improved Libyan-French relations.",
+      "claim_type": "assessment",
+      "entities": [
+        "France",
+        "Libya"
+      ],
+      "time_bounds": {
+        "start": "1978",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c11",
+      "claim_text": "ALBIS said there was no Libyan reaction to the demarche.",
+      "claim_type": "attribution",
+      "entities": [
+        "ALBIS",
+        "Libya",
+        "French demarche"
+      ],
+      "time_bounds": {
+        "start": "1978-09-06",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c12",
+      "claim_text": "There was no Libyan reaction to the demarche.",
+      "claim_type": "event",
+      "entities": [
+        "Libya",
+        "French demarche"
+      ],
+      "time_bounds": {
+        "start": "1978-09-04",
+        "end": "1978-09-06"
+      },
+      "importance": 5
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "Who provided information to the reporting entity in early September?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "ALBIS",
+        "September 6",
+        "QUAI DEPUTY DIRECTOR IN CHARGE OF NORTH AFRICAN AFFAIRS"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "Which diplomatic representative made a formal representation to the Libyan government in early September?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "French Ambassador in Tripoli",
+        "GOL",
+        "Monday",
+        "September 4",
+        "demarche"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "What diplomatic action preceded the French government's representation to the Libyan government?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "French demarche",
+        "GOL",
+        "our approach"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "What kind of initial diplomatic action did the reporting entity undertake regarding this matter?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "original demarche",
+        "this subject"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "With whom did the French diplomatic representative discuss the matter prior to late August?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "French Ambassador",
+        "Quai Secretary General Soutou",
+        "raised the question"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "When did the discussion between the French diplomatic representative and the Quai official occur?",
+      "question_style": "targeted",
+      "answer_type": "when",
+      "allowed_hints": [
+        "time_window"
+      ],
+      "banned_terms": [
+        "French Ambassador",
+        "Quai Secretary General Soutou",
+        "August 25"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "How did the Quai official describe the specificity of the information regarding the French diplomatic action?",
+      "question_style": "targeted",
+      "answer_type": "how",
+      "allowed_hints": [],
+      "banned_terms": [
+        "ALBIS",
+        "skimpy",
+        "French demarche",
+        "details"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t8",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8"
+      ],
+      "question_text": "What was the specific nature of the French government's diplomatic representation?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "French demarche",
+        "protest"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t9",
+      "targets_claim_id": "c9",
+      "targets_claim_ids": [
+        "c9"
+      ],
+      "question_text": "What was the French diplomatic action linked to concerning their bilateral relationship with Libya?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "French demarche",
+        "French desire",
+        "improved Libyan-French relations"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t10",
+      "targets_claim_id": "c10",
+      "targets_claim_ids": [
+        "c10"
+      ],
+      "question_text": "What is the French government's aim for its bilateral ties with Libya?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "France",
+        "desires",
+        "improved Libyan-French relations"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t11",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11"
+      ],
+      "question_text": "According to the Quai official, what was Libya's response to the diplomatic representation?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "ALBIS",
+        "Libyan reaction",
+        "demarche"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "t12",
+      "targets_claim_id": "c12",
+      "targets_claim_ids": [
+        "c12"
+      ],
+      "question_text": "What was the Libyan government's response to the diplomatic representation?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [],
+      "banned_terms": [
+        "Libyan reaction",
+        "demarche"
+      ],
+      "leakage_score": 0.2
+    },
+    {
+      "question_id": "q1",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c8",
+        "c9",
+        "c10",
+        "c12"
+      ],
+      "question_text": "What was the general state of diplomatic relations between France and Libya in the late 1970s, particularly concerning regional security issues?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "demarche",
+        "protest",
+        "Tripoli",
+        "September",
+        "August"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c3",
+        "c4",
+        "c5",
+        "c7"
+      ],
+      "question_text": "How did the United States and France typically coordinate their diplomatic approaches on North African security matters during the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "demarche",
+        "ALBIS",
+        "Soutou",
+        "original approach",
+        "September",
+        "August"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "q3",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c8",
+        "c9",
+        "c10"
+      ],
+      "question_text": "What were the primary considerations shaping French foreign policy objectives toward Libya in the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "demarche",
+        "protest",
+        "Tripoli",
+        "September",
+        "August"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q4",
+      "targets_claim_id": "c11",
+      "targets_claim_ids": [
+        "c11",
+        "c12"
+      ],
+      "question_text": "What was the typical pattern of the Libyan government's response to diplomatic representations from Western powers regarding alleged involvement in international incidents during the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "demarche",
+        "reaction",
+        "September",
+        "August"
+      ],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "q5",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c5",
+        "c6",
+        "c7"
+      ],
+      "question_text": "How were sensitive diplomatic initiatives concerning North Africa typically discussed and approved within the French foreign ministry in the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "topic_area"
+      ],
+      "banned_terms": [
+        "ALBIS",
+        "Soutou",
+        "Quai",
+        "Ambassador",
+        "September",
+        "August"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c3",
+        "c4",
+        "c5",
+        "c6"
+      ],
+      "question_text": "What patterns characterize efforts by allied or partner nations to coordinate diplomatic actions or demarches?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c8",
+      "targets_claim_ids": [
+        "c8",
+        "c9",
+        "c10"
+      ],
+      "question_text": "How do broader strategic goals, such as improving bilateral relations, influence the tone and substance of diplomatic protests or demarches?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2",
+        "c7",
+        "c11",
+        "c12"
+      ],
+      "question_text": "What patterns of response, or lack thereof, typically follow diplomatic demarches or protests from target nations?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-12T18:50:17.533Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 16114,
+    "cost_usd": 0.00304725
+  }
+}

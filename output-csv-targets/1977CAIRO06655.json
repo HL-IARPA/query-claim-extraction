@@ -1,0 +1,433 @@
+{
+  "doc_id": "1977CAIRO06655",
+  "doc_subject": "CUBAN PRESENCE IN ETHIOPIA",
+  "doc_date": "1977",
+  "claims": [
+    {
+      "claim_id": "c1",
+      "claim_text": "The Egyptian Ambassador in Addis may be the source of the reported presence of Cuban military personnel in Ethiopia.",
+      "claim_type": "attribution",
+      "entities": [
+        "Egyptian Ambassador",
+        "Addis",
+        "Cuban military personnel",
+        "Ethiopia"
+      ],
+      "time_bounds": {
+        "start": "1977",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c2",
+      "claim_text": "The Egyptian Ambassador in Addis may be exaggerating the number of Cuban military personnel in Ethiopia.",
+      "claim_type": "assessment",
+      "entities": [
+        "Egyptian Ambassador",
+        "Addis",
+        "Cuban military personnel",
+        "Ethiopia"
+      ],
+      "time_bounds": {
+        "start": "1977",
+        "end": null
+      },
+      "importance": 3
+    },
+    {
+      "claim_id": "c3",
+      "claim_text": "The Cuban Ambassador in Cairo is admitting information to diplomatic colleagues.",
+      "claim_type": "attribution",
+      "entities": [
+        "Cuban Ambassador",
+        "Cairo",
+        "diplomatic colleagues"
+      ],
+      "time_bounds": {
+        "start": "1977",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c4",
+      "claim_text": "There are somewhere between twenty and thirty Cuban military personnel in Ethiopia.",
+      "claim_type": "event",
+      "entities": [
+        "Cuban military personnel",
+        "Ethiopia"
+      ],
+      "time_bounds": {
+        "start": "1977",
+        "end": null
+      },
+      "importance": 5
+    },
+    {
+      "claim_id": "c5",
+      "claim_text": "The Cuban military personnel in Ethiopia are serving as advisers.",
+      "claim_type": "logistics",
+      "entities": [
+        "Cuban military personnel",
+        "Ethiopia"
+      ],
+      "time_bounds": {
+        "start": "1977",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c6",
+      "claim_text": "The Cuban Ambassador is annoyed at the GOE.",
+      "claim_type": "assessment",
+      "entities": [
+        "Cuban Ambassador",
+        "GOE"
+      ],
+      "time_bounds": {
+        "start": "1977",
+        "end": null
+      },
+      "importance": 4
+    },
+    {
+      "claim_id": "c7",
+      "claim_text": "The GOE is exaggerating the number of Cuban military personnel in Ethiopia.",
+      "claim_type": "assessment",
+      "entities": [
+        "GOE",
+        "Cuban military personnel",
+        "Ethiopia"
+      ],
+      "time_bounds": {
+        "start": "1977",
+        "end": null
+      },
+      "importance": 4
+    }
+  ],
+  "questions": [
+    {
+      "question_id": "t1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1"
+      ],
+      "question_text": "Who was identified as a potential source for reports regarding foreign military presence in an East African country?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Egyptian Ambassador",
+        "Addis",
+        "Cuban military personnel",
+        "Ethiopia"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t2",
+      "targets_claim_id": "c2",
+      "targets_claim_ids": [
+        "c2"
+      ],
+      "question_text": "What assessment was made regarding a particular ambassador's reporting on the quantity of foreign military personnel in an East African country?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Egyptian Ambassador",
+        "Addis",
+        "Cuban military personnel",
+        "Ethiopia"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3"
+      ],
+      "question_text": "Who was reportedly sharing details with other diplomats in a North African capital?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Cuban Ambassador",
+        "Cairo",
+        "diplomatic colleagues"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t4",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4"
+      ],
+      "question_text": "What was the approximate count of foreign military personnel present in an East African country?",
+      "question_style": "targeted",
+      "answer_type": "numeric",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "twenty",
+        "thirty",
+        "Cuban military personnel",
+        "Ethiopia"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t5",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "What was the function of the foreign military personnel deployed in an East African country?",
+      "question_style": "targeted",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Cuban military personnel",
+        "Ethiopia",
+        "advisers"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t6",
+      "targets_claim_id": "c6",
+      "targets_claim_ids": [
+        "c6"
+      ],
+      "question_text": "Which ambassador was reportedly expressing displeasure with a particular government?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "Cuban Ambassador",
+        "GOE",
+        "annoyed"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "t7",
+      "targets_claim_id": "c7",
+      "targets_claim_ids": [
+        "c7"
+      ],
+      "question_text": "Which government was assessed to be overstating the quantity of foreign military personnel within its borders?",
+      "question_style": "targeted",
+      "answer_type": "who",
+      "allowed_hints": [
+        "time_window",
+        "region"
+      ],
+      "banned_terms": [
+        "GOE",
+        "Cuban military personnel",
+        "Ethiopia"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c4",
+        "c5"
+      ],
+      "question_text": "What was the nature of Cuban military and advisory activities in African nations during the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q2",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c7"
+      ],
+      "question_text": "How were various diplomatic missions in the Horn of Africa reporting on foreign military presences in the region during 1977?",
+      "question_style": "contextual",
+      "answer_type": "how",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q3",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c4",
+        "c5",
+        "c6"
+      ],
+      "question_text": "What were the key dynamics shaping diplomatic relations between Cuba and Ethiopia in the late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0.12
+    },
+    {
+      "question_id": "c_q4",
+      "targets_claim_id": "c5",
+      "targets_claim_ids": [
+        "c5"
+      ],
+      "question_text": "What was the general role and perception of foreign military advisers in African states during the mid-to-late 1970s?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "c_q5",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c3",
+        "c7"
+      ],
+      "question_text": "What was the general climate for information sharing and assessment among diplomatic communities in major African capitals during 1977?",
+      "question_style": "contextual",
+      "answer_type": "what",
+      "allowed_hints": [
+        "time_window",
+        "region",
+        "topic_area"
+      ],
+      "banned_terms": [],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th1",
+      "targets_claim_id": "c1",
+      "targets_claim_ids": [
+        "c1",
+        "c2",
+        "c7"
+      ],
+      "question_text": "What patterns emerged in diplomatic assessments of the reliability of information regarding foreign military deployments?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "Cuban",
+        "Ethiopia",
+        "Egyptian",
+        "Addis",
+        "Cairo",
+        "GOE"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th2",
+      "targets_claim_id": "c4",
+      "targets_claim_ids": [
+        "c4",
+        "c5"
+      ],
+      "question_text": "What strategic considerations typically drove a country's decision to deploy military advisors to a third nation?",
+      "question_style": "thematic",
+      "answer_type": "what",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "Cuban",
+        "Ethiopia",
+        "Egyptian",
+        "Addis",
+        "Cairo",
+        "GOE"
+      ],
+      "leakage_score": 0
+    },
+    {
+      "question_id": "th3",
+      "targets_claim_id": "c3",
+      "targets_claim_ids": [
+        "c3",
+        "c6"
+      ],
+      "question_text": "How did diplomatic representatives typically communicate sensitive information or express disagreements with host governments to their diplomatic colleagues?",
+      "question_style": "thematic",
+      "answer_type": "how",
+      "allowed_hints": [
+        "topic_area",
+        "org_type"
+      ],
+      "banned_terms": [
+        "Cuban",
+        "Ethiopia",
+        "Egyptian",
+        "Addis",
+        "Cairo",
+        "GOE"
+      ],
+      "leakage_score": 0.12
+    }
+  ],
+  "metadata": {
+    "extraction_timestamp": "2026-02-12T18:54:05.711Z",
+    "model": "gemini-2.5-flash",
+    "total_tokens": 11771,
+    "cost_usd": 0.00217905
+  }
+}
