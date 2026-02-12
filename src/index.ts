@@ -27,6 +27,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import { parseCablesFromCSV, getCableByDocNbr, countCablesWithBody } from './csv-parser.js';
+import { parseRAGTargets } from './rag-csv-parser.js';
 import { extractClaims, formatClaims } from './extract-claims.js';
 import { generateQuestions, formatQuestions } from './generate-questions.js';
 import { checkAllLeakage, generateLeakageReport, getHighLeakageQuestions } from './leakage-checker.js';
@@ -44,6 +45,7 @@ config();
 
 interface CLIOptions {
   csvPath?: string;
+  ragCsvPath?: string;  // For RAG retrieval CSV (tag_retriever_elbow.csv)
   docId?: string;
   text?: string;
   limit?: number;
@@ -70,6 +72,9 @@ function parseArgs(): CLIOptions {
     switch (args[i]) {
       case '--csv':
         options.csvPath = args[++i];
+        break;
+      case '--rag-csv':
+        options.ragCsvPath = args[++i];
         break;
       case '--doc-id':
         options.docId = args[++i];
@@ -127,6 +132,7 @@ function printHelp(): void {
 
 INPUTS (choose one):
   --csv <path>           Path to NOFORN CSV file
+  --rag-csv <path>       Path to RAG retrieval CSV (tag_retriever_elbow.csv)
   --doc-id <id>          Process specific cable by doc_nbr (requires --csv)
   --text <text>          Process raw text directly
   --limit <n>            Process first N cables from CSV
@@ -341,6 +347,12 @@ async function main(): Promise<void> {
       process.exit(1);
     }
     cables.push(cable);
+  } else if (options.ragCsvPath) {
+    // RAG retrieval CSV (tag_retriever_elbow.csv format)
+    cables = parseRAGTargets(options.ragCsvPath, {
+      limit: options.limit,
+      offset: options.offset,
+    });
   } else if (options.csvPath) {
     // Batch from CSV
     cables = parseCablesFromCSV(options.csvPath, {
@@ -367,7 +379,7 @@ async function main(): Promise<void> {
 ║           QUERY-CLAIM EXTRACTION PIPELINE                        ║
 ╚══════════════════════════════════════════════════════════════════╝
 `);
-  console.log(`📁 Input: ${options.csvPath || 'direct text'}`);
+  console.log(`📁 Input: ${options.ragCsvPath || options.csvPath || 'direct text'}`);
   console.log(`📄 Cables to process: ${cables.length}`);
   console.log(`📂 Output directory: ${options.outputDir}`);
   if (options.claimsOnly) {
